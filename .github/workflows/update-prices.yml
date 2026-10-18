@@ -2,28 +2,53 @@ name: Update prices
 
 on:
   schedule:
-    - cron: "30 3 * * *"   # every day at 09:00 IST (03:30 UTC)
-  workflow_dispatch:         # run manually from the Actions tab
+    - cron: "17 3 * * *"   # daily ~08:47 IST. Off the hour on purpose: GitHub delays/drops jobs queued at :00
+  workflow_dispatch:         # "Run workflow" button in the Actions tab
 
 permissions:
   contents: write
 
+concurrency:                 # never run two updates at once
+  group: update-prices
+  cancel-in-progress: false
+
 jobs:
   update:
     runs-on: ubuntu-latest
+    timeout-minutes: 30
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
+
       - run: pip install requests beautifulsoup4
-      - run: python update_prices.py
-      - run: python update_market.py
-      - run: python backfill_history.py
-      - name: Commit new data
+
+      # each step may be blocked by a store; keep going and record what happened
+      - name: Fetch prices, scan market, backfill history, refresh tracked searches
+        continue-on-error: true
+        run: |
+          set +e
+          for s in update_prices.py update_market.py backfill_history.py track_searches.py; do
+            if [ -f "$s" ]; then echo "::group::$s"; python "$s" 2>&1 | tee -a run.log; echo "::endgroup::"; fi
+          done
+          exit 0
+
+      - name: Heartbeat + summary
+        run: python heartbeat.py run.log
+
+      - name: Commit and push (retries if your PC/app pushed at the same time)
         run: |
           git config user.name "price-bot"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add data/
-          git diff --cached --quiet || git commit -m "Price + market update $(date -u +%F)"
-          git push
+          git diff --cached --quiet && { echo "No data changes"; exit 0; }
+          git commit -m "Auto update $(date -u +%F)"
+          for i in 1 2 3 4; do
+            git pull --no-rebase --no-edit -X ours origin main && git push origin HEAD:main && exit 0
+            echo "Push attempt $i failed - retrying"; sleep $((i * 15))
+          done
+          exit 1

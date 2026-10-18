@@ -1,0 +1,6 @@
+# Append-only data files: when the bot, your PC and the web app all add rows, keep everyone's rows instead of conflicting
+data/prices.csv merge=union
+data/history.csv merge=union
+data/market_history.csv merge=union
+data/search_history.csv merge=union
+data/search_reviews.csv merge=union
