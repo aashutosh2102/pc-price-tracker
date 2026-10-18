@@ -1,0 +1,7 @@
+{
+  "_source": "gpuprix.com India pages (Oct 2026). MSRP in INR is gpuprix's estimate of the US launch price converted to rupees.",
+  "RTX 5070":        {"launch": "2025-03-03", "msrp_inr": 47730, "low_12m": 56630, "median_12m": 72619, "median_3m": 72699, "perf": 46},
+  "RTX 5060 Ti 16GB":{"launch": "2025-04-14", "msrp_inr": 36847, "low_12m": 35098, "median_12m": 70575, "median_3m": 48295, "perf": 31},
+  "RX 9070 XT":      {"launch": "2025-03-05", "msrp_inr": 52077, "low_12m": 66773, "median_12m": 80187, "median_3m": 79989, "perf": 52},
+  "RTX 5070 Ti":     {"launch": "2025-02-19", "msrp_inr": 64916, "low_12m": 78239, "median_12m": 122909, "median_3m": 124339, "perf": 55}
+}

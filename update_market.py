@@ -7,8 +7,8 @@ in market.json), save it to data/market_*.csv and report what's new.
 """
 import sys
 
-from market_core import (best_alternatives, load_local, read_csv_text, run_scan_and_merge,
-                         save_local, scan_market)
+from market_core import (best_alternatives, load_local, load_local_history, read_csv_text,
+                         run_scan_and_merge, save_local, scan_market)
 from tracker_core import load_config
 
 
@@ -27,14 +27,14 @@ def main():
         return
     latest, seen, meta = load_local()
     print("Scanning the whole market...")
-    lt, st, meta, ch, log = run_scan_and_merge(latest, seen, meta, progress)
+    lt, st, meta, ch, log, ht = run_scan_and_merge(load_local_history(), seen, meta, progress)
     blocked = [l for l in log if l["status"] != "ok"]
     for b in blocked:
         print(f"  ! {b['category']}: {b['status']}  {b['url']}")
     if lt is None:
         print("\nNo products fetched (sites blocked?). Nothing saved.")
         return
-    save_local(lt, st, meta)
+    save_local(lt, st, meta, ht)
     items = read_csv_text(lt)
     print(f"\nSaved {len(items)} products. Baseline scan: {meta['baseline']}\n")
     print(f"New products: {len(ch['new_products'])}  |  New models/chips: {len(ch['new_models'])}  |  "

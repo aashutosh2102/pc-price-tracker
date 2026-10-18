@@ -1,0 +1,62 @@
+date,item,price,source
+2024-04-04,MSI B650M Gaming WiFi,14999,pricehistory.app highest
+2025-09-22,MSI B650M Gaming WiFi,10049,pricehistory.app lowest ever
+2026-10-18,MSI B650M Gaming WiFi,12199,pricehistory.app current
+2025-06-20,Patriot Viper Venom 32GB DDR5-6000,8499,pricehistory.app lowest ever
+2026-09-19,Patriot Viper Venom 32GB DDR5-6000,85152,pricehistory.app highest
+2026-10-18,Patriot Viper Venom 32GB DDR5-6000,51999,pricehistory.app current
+2026-10-07,RTX 5060 Ti 16GB,77799,gpuprix.com India current low
+2026-10-07,RTX 5070,98500,gpuprix.com India current low
+2026-10-18,RTX 5070,74990,Kryptronix Nehru Place (Zotac Solid)
+2026-10-18,RTX 5070,95969,Amazon.in (Zotac Twin Edge)
+2025-07-30,RTX 5070 Ti,107983,pricehistory.app drop log (ASUS Prime; Flipkart)
+2025-07-31,RTX 5070 Ti,98594,pricehistory.app drop log (ASUS Prime; Flipkart)
+2025-09-29,RTX 5070 Ti,96719,pricehistory.app drop log (ASUS Prime; Flipkart)
+2025-09-30,RTX 5070 Ti,89999,pricehistory.app drop log (ASUS Prime; Flipkart)
+2025-10-02,RTX 5070 Ti,85999,pricehistory.app lowest ever (ASUS Prime; Flipkart)
+2025-10-03,RTX 5070 Ti,164000,pricehistory.app highest (ASUS Prime; Flipkart)
+2025-10-04,RTX 5070 Ti,101419,pricehistory.app drop log (ASUS Prime; Flipkart)
+2025-12-04,RTX 5070 Ti,98599,pricehistory.app drop log (ASUS Prime; Flipkart)
+2025-12-05,RTX 5070 Ti,86999,pricehistory.app drop log (ASUS Prime; Flipkart)
+2026-01-15,RTX 5070 Ti,98599,pricehistory.app drop log (ASUS Prime; Flipkart)
+2026-01-16,RTX 5070 Ti,89199,pricehistory.app drop log (ASUS Prime; Flipkart)
+2026-10-18,RTX 5070 Ti,130769,pricehistory.app current (ASUS Prime; Flipkart)
+2026-10-18,RTX 5070 Ti,150200,gpuprix.com India current low
+2026-10-18,RX 9070 XT,92500,gpuprix.com India current low
+2024-08-13,Ryzen 7 9700X,50000,pricehistory.app highest
+2026-10-10,Ryzen 7 9700X,28769,pricehistory.app lowest ever
+2026-10-17,Ryzen 7 9700X,24898,pcpaisa.in lowest in-stock (Variety Infotech)
+2026-10-17,Ryzen 7 9700X,27898,pcpaisa.in (Computech)
+2026-10-18,Ryzen 7 9700X,28769,pricehistory.app current
+2026-08-30,Ryzen 7 9800X3D,39299,pcpricetracker.in all-time low (SMC International)
+2026-10-13,Ryzen 7 9800X3D,46990,pcpricetracker.in 90-day high
+2026-10-17,Ryzen 7 9800X3D,46984,pcpricetracker.in lowest (Computech)
+2023-04-07,Thermalright Peerless Assassin 120 SE,12755,pricehistory.app highest (Amazon)
+2026-01-16,Thermalright Peerless Assassin 120 SE,5318,pricehistory.app drop log (Amazon)
+2026-01-17,Thermalright Peerless Assassin 120 SE,4968,pricehistory.app drop log (Amazon)
+2026-01-31,Thermalright Peerless Assassin 120 SE,5000,pricehistory.app drop log (Amazon)
+2026-02-01,Thermalright Peerless Assassin 120 SE,4499,pricehistory.app drop log (Amazon)
+2026-03-06,Thermalright Peerless Assassin 120 SE,4999,pricehistory.app drop log (Amazon)
+2026-03-07,Thermalright Peerless Assassin 120 SE,4347,pricehistory.app drop log (Amazon)
+2026-08-11,Thermalright Peerless Assassin 120 SE,5399,pricehistory.app drop log (Amazon)
+2026-08-12,Thermalright Peerless Assassin 120 SE,4195,pricehistory.app lowest ever (Amazon)
+2026-10-16,Thermalright Peerless Assassin 120 SE,5129,pricehistory.app current (Amazon)
+2026-10-18,Thermalright Peerless Assassin 120 SE,5129,pricehistory.app current
+2025-06-23,WD Black SN7100 2TB,11999,pcpricetracker.in all-time low (Computech)
+2025-08-07,WD Black SN7100 2TB,10999,pricehistory.app lowest ever (Amazon)
+2025-12-14,WD Black SN7100 2TB,22299,pricehistory.app drop log (Amazon)
+2025-12-15,WD Black SN7100 2TB,20999,pricehistory.app drop log (Amazon)
+2025-12-16,WD Black SN7100 2TB,17795,pricehistory.app drop log (Amazon)
+2026-01-05,WD Black SN7100 2TB,37422,pricehistory.app drop log (Amazon)
+2026-01-06,WD Black SN7100 2TB,21500,pricehistory.app drop log (Amazon)
+2026-03-11,WD Black SN7100 2TB,47299,pricehistory.app drop log (Amazon)
+2026-03-12,WD Black SN7100 2TB,41500,pricehistory.app drop log (Amazon)
+2026-03-25,WD Black SN7100 2TB,47519,pricehistory.app highest (Amazon)
+2026-04-21,WD Black SN7100 2TB,44239,pricehistory.app drop log (Amazon)
+2026-04-27,WD Black SN7100 2TB,44239,pricehistory.app drop log (Amazon)
+2026-04-28,WD Black SN7100 2TB,26599,pricehistory.app drop log (Amazon)
+2026-07-06,WD Black SN7100 2TB,28299,pcpricetracker.in 90-day low
+2026-09-27,WD Black SN7100 2TB,29499,pcpricetracker.in 90-day high
+2026-10-12,WD Black SN7100 2TB,28999,pricerig.in best in-stock
+2026-10-17,WD Black SN7100 2TB,38200,pricehistory.app current (Amazon)
+2026-10-18,WD Black SN7100 2TB,38200,pricehistory.app current

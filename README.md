@@ -1,47 +1,42 @@
-# 🖥️ PC Price Tracker: your build plus the whole market
+# ◆ PC Price Tracker
 
-**Web app tabs**
-| Tab | What you get |
+A dark, minimal dashboard for a Ryzen 7 9700X + RTX 5070 build and the whole Indian PC-parts market around it, with each product's **full price history from launch to today**.
+
+## The five views
+| Tab | What's inside |
 |---|---|
-| 🎯 **My Build** | Your 8 parts with the BUY/WAIT signal and 90-day and 1-year forecasts. Also shows the **cheapest equivalent in the whole market** for each part, such as any RTX 5070 or any DDR5 32GB 2-stick 6000+ kit. |
-| 🛒 **Whole Market** | Every CPU, GPU, motherboard, RAM, SSD, PSU, cooler and case listed in the store categories. Filter, search, view cheapest-per-model or all products, ₹/GB (RAM), ₹/TB (SSD), and ₹ per performance point (GPU). |
-| 🆕 **What's New & Deals** | **New models/chips** (for example a new GPU launch), new listings, price drops of 5% or more, all-time lows, and your picks compared with alternatives. |
+| **Overview** | KPI cards · signal board (price, signal, sparkline per part) · target→today waterfall · cost donut · distance-to-target bullets · whole-build forecast fan · cheaper equivalents |
+| **Timeline** | Price journey per product: launch marker, launch MSRP, 12-month median, all-time low/high, your target, forecast cone and 3M/6M/1Y/All zoom · monthly candlesticks · data sources · compare journeys (indexed or ₹, log scale) · GPUs since launch (MSRP → 12-mo low/median → today) |
+| **Market** | Market map treemap · value chart per category (GPU perf vs ₹, RAM ₹/GB vs speed vs CL, SSD ₹/TB, PSU ₹ vs watts) · brand share · price spread per model · price distribution · per-model daily history |
+| **Pulse** | New models/chips · launch radar · biggest drops · market price index and daily heat map · your picks vs the field |
+| **Data** | Fetch logs, targets/outlook editor, CSV downloads |
 
-## How data is collected
-None of these stores has a public price API, so the tracker reads their public pages:
-- **Your build** (`parts.json` → `sources`): 1–3 sites per part, keeping the lowest in-stock price.
-- **Whole market** (`market.json` → `categories`): MDComputers category pages, about 1,300 products and about 15 page loads with a 1-second pause between them. Specs (chip, VRAM, socket, DDR/speed/CL, capacity/gen, watt/rating and so on) are read from product names.
-- **History** (`data/market_seen.csv`): the first scan sets the baseline. After that, any product or model never seen before is flagged as **new**.
-
-Add more stores by adding category URLs to `market.json`. The page reader works with most OpenCart and WooCommerce-style product grids.
-
-## Files
-| File | Purpose |
-|---|---|
-| `app.py` | Streamlit dashboard |
-| `update_prices.py` / `update_market.py` | Command-line updaters, used by Task Scheduler and GitHub Actions |
-| `tracker_core.py` / `market_core.py` | Logic: fetching, spec parsing, forecasting, new and price-drop detection |
-| `parts.json` | Your parts, targets, outlook, sources and `match` rules for equivalents |
-| `market.json` | Store category URLs, category filters and GPU performance scores |
-| `data/` | `prices.csv`, `market_latest.csv`, `market_seen.csv` and `market_meta.json` |
+## Where history comes from
+| Source | File | Coverage |
+|---|---|---|
+| Your build tracker | `data/prices.csv` | Daily, from your first run |
+| Long-run history | `data/history.csv` | Seeded with real points back to 2023 (pricehistory.app, pcpricetracker, gpuprix). `backfill_history.py` adds each product's full drop log from pricehistory.app. |
+| Launch info | `data/launch.json` | Launch date, MSRP and 12-month low/median for 4 GPUs (gpuprix.com) |
+| Market history | `data/market_history.csv` | Every listing's price, stored only when it changes (stays small) |
 
 ## Commands
 ```bash
-python update_prices.py --test         # check build sources without saving
-python update_prices.py                # fetch and save build prices
-python update_prices.py --add GPU 74990
-python update_market.py --only GPU RAM # test-scan some categories (not saved)
-python update_market.py                # full market scan and save
-streamlit run app.py                   # run the app locally
+streamlit run app.py
+python update_prices.py      # build prices
+python update_market.py      # whole-market scan
+python backfill_history.py   # long-run history from pricehistory.app (--test to preview)
 ```
+The Windows task (`run_tracker.bat`) and the GitHub Action run all three every day.
 
 ## Setup
-1. Push to GitHub (`aashutosh2102/pc-price-tracker`).
-2. **Streamlit Secrets:** `GITHUB_REPO` plus a fine-grained `GITHUB_TOKEN` (this repo only, **Contents: Read and write**). Check it from the sidebar with **Check GitHub connection**.
-3. **GitHub Actions:** Settings → Actions → General → Workflow permissions → **Read and write**. It runs daily at 09:00 IST.
-4. **Windows:** in your cloned folder, run `pip install requests beautifulsoup4`, then double-click `setup_windows_task.bat` (runs daily at 10:00 AM).
+1. Push to `aashutosh2102/pc-price-tracker`.
+2. **Streamlit Secrets:** `GITHUB_REPO` and `GITHUB_TOKEN` (fine-grained token, this repo only, **Contents: Read and write**).
+3. **GitHub Actions:** Settings → Actions → General → Workflow permissions → Read and write.
+4. **Windows:** run `pip install -r requirements.txt`, then `setup_windows_task.bat`.
 
-## Notes
-- Product names drive the spec parsing, so an odd name can occasionally be categorised wrongly. Use **All products** view to check.
-- GPU performance scores (`market.json`) come from gpuprix.com. Only 4 chips are included, and you can add more.
-- Keep scans to about once a day and respect each site's terms of use.
+## Customise
+- **Theme:** `.streamlit/config.toml` (colours) and `viz.py` (`PALETTE`, `CSS`).
+- **Parts, targets and match rules:** `parts.json`. Use `history_item` and `history_urls` to link a part to long-run history.
+- **Launch data and GPU performance scores:** `data/launch.json` and `market.json`.
+
+Forecasts are a guide, not a guarantee.

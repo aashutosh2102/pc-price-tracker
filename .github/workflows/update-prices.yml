@@ -19,6 +19,7 @@ jobs:
       - run: pip install requests beautifulsoup4
       - run: python update_prices.py
       - run: python update_market.py
+      - run: python backfill_history.py
       - name: Commit new data
         run: |
           git config user.name "price-bot"

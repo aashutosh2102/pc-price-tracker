@@ -18,6 +18,8 @@ MARKET_CFG = ROOT / "market.json"
 LATEST = ROOT / "data" / "market_latest.csv"
 SEEN = ROOT / "data" / "market_seen.csv"
 META = ROOT / "data" / "market_meta.json"
+MHIST = ROOT / "data" / "market_history.csv"
+MHIST_FIELDS = ["date", "category", "key", "brand", "name", "url", "price"]
 
 PRICE_RE = re.compile(r"₹\s*([\d,]{3,})")
 EMI_RE = re.compile(r"₹\s*[\d,]+\s*(?:/\s*mo\w*|per month|x\s*\d+\s*m|Starting EMI|EMI)", re.I)
@@ -290,12 +292,16 @@ def update_seen(seen_rows, items, meta, today=None):
     meta.setdefault("baseline", today)
     seen = {r["url"]: r for r in seen_rows}
     old_keys = {(r["category"], r["key"]) for r in seen_rows}
-    changes = {"new_products": [], "new_models": [], "drops": [], "new_lows": []}
+    changes = {"new_products": [], "new_models": [], "drops": [], "new_lows": [], "history": []}
     for it in items:
         if not it.get("in_stock", True):
             continue
         p = int(it["price"])
         r = seen.get(it["url"])
+        hrow = {"date": today, "category": it["category"], "key": it.get("key", ""), "brand": it.get("brand", ""),
+                "name": it["name"], "url": it["url"], "price": p}
+        if r is None or int(float(r["price"])) != p:
+            changes["history"].append(hrow)
         if r is None:
             seen[it["url"]] = {"url": it["url"], "category": it["category"], "name": it["name"], "key": it.get("key", ""),
                                "first_seen": today, "last_seen": today, "price": p, "prev_price": "",
@@ -410,8 +416,10 @@ def cheapest_per_key(items, category, keys=None):
 
 
 # ======================= local storage helpers =======================
-def save_local(latest_text, seen_text, meta):
+def save_local(latest_text, seen_text, meta, hist_text=None):
     LATEST.parent.mkdir(parents=True, exist_ok=True)
+    if hist_text is not None:
+        MHIST.write_text(hist_text, encoding="utf-8")
     LATEST.write_text(latest_text, encoding="utf-8")
     SEEN.write_text(seen_text, encoding="utf-8")
     META.write_text(json.dumps(meta, indent=2), encoding="utf-8")
@@ -424,12 +432,19 @@ def load_local():
     return lt, st, mt
 
 
-def run_scan_and_merge(latest_text_unused, seen_text, meta, progress=None, cfg=None):
+def load_local_history():
+    return MHIST.read_text(encoding="utf-8") if MHIST.exists() else ""
+
+
+def run_scan_and_merge(hist_text, seen_text, meta, progress=None, cfg=None):
+    """Returns (latest_csv, seen_csv, meta, changes, log, history_csv)."""
     items, log = scan_market(cfg, progress=progress)
     if not items:
-        return None, None, meta, {"new_products": [], "new_models": [], "drops": [], "new_lows": []}, log
+        return None, None, meta, {"new_products": [], "new_models": [], "drops": [], "new_lows": [], "history": []}, log, hist_text
     today = date.today().isoformat()
     for i in items:
         i["scanned"] = today
     seen_rows, meta, changes = update_seen(read_csv_text(seen_text), items, meta)
-    return to_csv_text(items), to_csv_text(seen_rows, SEEN_FIELDS), meta, changes, log
+    hist = read_csv_text(hist_text or "") + changes["history"]
+    return (to_csv_text(items), to_csv_text(seen_rows, SEEN_FIELDS), meta, changes, log,
+            to_csv_text(hist, MHIST_FIELDS))

@@ -34,7 +34,11 @@
           "Core Ultra 7 265K",
           "Core Ultra 5 245K"
         ]
-      }
+      },
+      "history_item": "Ryzen 7 9700X",
+      "history_urls": [
+        "https://pricehistory.app/p/amd-ryzen-7-9700x-desktop-processor-integrated-89nYvxSj"
+      ]
     },
     {
       "name": "Motherboard",
@@ -70,7 +74,11 @@
           "X670",
           "X670E"
         ]
-      }
+      },
+      "history_item": "MSI B650M Gaming WiFi",
+      "history_urls": [
+        "https://pricehistory.app/p/msi-b650m-gaming-wifi-motherboard-matx-supports-3j2WJs2h"
+      ]
     },
     {
       "name": "RAM",
@@ -90,7 +98,11 @@
         "total_gb": 32,
         "kit": true,
         "min_speed": 6000
-      }
+      },
+      "history_item": "Patriot Viper Venom 32GB DDR5-6000",
+      "history_urls": [
+        "https://pricehistory.app/p/patriot-memory-viper-venom-ddr5-ram-32gb-32vKxqce"
+      ]
     },
     {
       "name": "GPU",
@@ -116,7 +128,9 @@
           "RTX 5070 Ti",
           "RX 9060 XT 16GB"
         ]
-      }
+      },
+      "history_item": "RTX 5070",
+      "history_urls": []
     },
     {
       "name": "SSD",
@@ -144,7 +158,11 @@
         "capacity_gb": 2000,
         "min_gen": 4,
         "nvme": true
-      }
+      },
+      "history_item": "WD Black SN7100 2TB",
+      "history_urls": [
+        "https://pricehistory.app/p/western-digital-wd-black-sn7100-nvme-2tb-jG6Yhpmb"
+      ]
     },
     {
       "name": "CPU Cooler",
@@ -168,7 +186,11 @@
           "Phantom Spirit",
           "AK500"
         ]
-      }
+      },
+      "history_item": "Thermalright Peerless Assassin 120 SE",
+      "history_urls": [
+        "https://pricehistory.app/p/thermalright-peerless-assassin-120-se-cpu-air-AQ8y5r2h"
+      ]
     },
     {
       "name": "Power Supply",
@@ -193,7 +215,9 @@
         "min_watt": 750,
         "max_watt": 1000,
         "min_rating": "Gold"
-      }
+      },
+      "history_item": "Corsair RM750e",
+      "history_urls": []
     },
     {
       "name": "Case",
@@ -227,7 +251,15 @@
           "Forge 120A",
           "Forge 320R"
         ]
-      }
+      },
+      "history_item": "Lian Li Lancool 216",
+      "history_urls": []
+    }
+  ],
+  "extra_history": [
+    {
+      "item": "RTX 5070 Ti",
+      "url": "https://pricehistory.app/p/asus-prime-geforce-rtx-5070-ti-oc-IxWxeASj"
     }
   ]
 }
