@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "canonical": "RTX 5070 Ti",
+    "query": "5070 Ti",
+    "kind": "GPU",
+    "urls": {
+      "gpuprix.com": "https://gpuprix.com/india/gpus/geforce-rtx-5070-ti"
+    },
+    "added": "2026-10-18"
+  }
+]
