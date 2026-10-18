@@ -1,5 +1,5 @@
 @echo off
-REM Runs the price tracker and (if this folder is a git repo) pushes new prices to GitHub.
+REM Fetches prices and pushes them to GitHub (if this folder is a git clone).
 cd /d "%~dp0"
 if not exist logs mkdir logs
 echo ==== %date% %time% ==== >> logs\tracker.log

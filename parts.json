@@ -7,8 +7,21 @@
       "target": 25000,
       "outlook_90d": 0.0,
       "outlook_basis": "CPUs not hit by memory shortage. Lowest seen Rs 24,898 (pcpaisa, 17 Oct 2026).",
-      "url": "https://pcpaisa.in/price/amd-ryzen-7-9700x-100-100001404wof",
-      "patterns": ["lowest live in-stock price at\\s*₹\\s*([\\d,]+)"]
+      "sources": [
+        {
+          "url": "https://mdcomputers.in/product/amd-ryzen-7-9700x-100-100001404wof-desktop-processor",
+          "pattern": "Offer Price\\s*₹\\s*([\\d,]+)",
+          "require": "Availability:\\s*In Stock"
+        },
+        {
+          "url": "https://pricehistory.app/p/amd-ryzen-7-9700x-desktop-processor-integrated-89nYvxSj",
+          "pattern": "current Price in India is\\s*₹\\s*([\\d,]+)"
+        },
+        {
+          "url": "https://pcpaisa.in/price/amd-ryzen-7-9700x-100-100001404wof",
+          "pattern": "lowest live in-stock price at\\s*₹\\s*([\\d,]+)"
+        }
+      ]
     },
     {
       "name": "Motherboard",
@@ -16,17 +29,34 @@
       "target": 10000,
       "outlook_90d": 0.0,
       "outlook_basis": "Not memory-driven. Recent lows Rs 9,920-10,449 (pcpaisa, Oct 2026).",
-      "url": "https://pcpaisa.in/price/msi-b650-b650m-gaming-wifi-atx-gaming-633202",
-      "patterns": ["lowest live in-stock price at\\s*₹\\s*([\\d,]+)"]
+      "sources": [
+        {
+          "url": "https://mdcomputers.in/product/msi-b650m-gaming-wifi-motherboard",
+          "pattern": "Offer Price\\s*₹\\s*([\\d,]+)",
+          "require": "Availability:\\s*In Stock"
+        },
+        {
+          "url": "https://pricehistory.app/p/msi-b650m-gaming-wifi-motherboard-matx-supports-3j2WJs2h",
+          "pattern": "current Price in India is\\s*₹\\s*([\\d,]+)"
+        },
+        {
+          "url": "https://pcpaisa.in/price/msi-b650-b650m-gaming-wifi-atx-gaming-633202",
+          "pattern": "lowest live in-stock price at\\s*₹\\s*([\\d,]+)"
+        }
+      ]
     },
     {
       "name": "RAM",
       "model": "Patriot Viper Venom 32GB (2x16) DDR5-6000 CL30",
       "target": 40000,
       "outlook_90d": 0.08,
-      "outlook_basis": "TrendForce (30 Sep 2026): DRAM contract prices +10-15% QoQ in 4Q26; other analysis ~0-5%. 8% sits between.",
-      "url": null,
-      "patterns": []
+      "outlook_basis": "TrendForce (30 Sep 2026): DRAM contract +10-15% QoQ in 4Q26; other analysis ~0-5%. 8% sits between.",
+      "sources": [
+        {
+          "url": "https://pricehistory.app/p/patriot-memory-viper-venom-ddr5-ram-32gb-32vKxqce",
+          "pattern": "current Price in India is\\s*₹\\s*([\\d,]+)"
+        }
+      ]
     },
     {
       "name": "GPU",
@@ -34,17 +64,34 @@
       "target": 75000,
       "outlook_90d": 0.0,
       "outlook_basis": "No clear forecast. NVIDIA kit price hikes push up; India price ~35% above 3-month typical pulls down.",
-      "url": "https://gpuprix.com/india/gpus/geforce-rtx-5070",
-      "patterns": ["[Cc]urrent low\\s*₹\\s*([\\d,]+)"]
+      "sources": [
+        {
+          "url": "https://gpuprix.com/india/gpus/geforce-rtx-5070",
+          "pattern": "[Cc]urrent low\\s*₹\\s*([\\d,]+)"
+        }
+      ]
     },
     {
       "name": "SSD",
       "model": "WD Black SN7100 2TB",
       "target": 25000,
       "outlook_90d": 0.12,
-      "outlook_basis": "TrendForce (30 Sep 2026): NAND contract prices +15-20% QoQ in 4Q26; set lower as retail lags.",
-      "url": "https://pcpricetracker.in/products/54c5803f55df6d695e13038330444b9f",
-      "patterns": ["Lowest available price\\s*₹\\s*([\\d,]+)"]
+      "outlook_basis": "TrendForce (30 Sep 2026): NAND contract +15-20% QoQ in 4Q26; set lower as retail lags.",
+      "sources": [
+        {
+          "url": "https://mdcomputers.in/product/wd-black-sn7100-2tb-nvme-ssd-wds200t4x0e",
+          "pattern": "Offer Price\\s*₹\\s*([\\d,]+)",
+          "require": "Availability:\\s*In Stock"
+        },
+        {
+          "url": "https://pricehistory.app/p/western-digital-wd-black-sn7100-nvme-2tb-jG6Yhpmb",
+          "pattern": "current Price in India is\\s*₹\\s*([\\d,]+)"
+        },
+        {
+          "url": "https://pcpricetracker.in/products/54c5803f55df6d695e13038330444b9f",
+          "pattern": "Lowest available price\\s*₹\\s*([\\d,]+)"
+        }
+      ]
     },
     {
       "name": "CPU Cooler",
@@ -52,8 +99,12 @@
       "target": 4300,
       "outlook_90d": 0.0,
       "outlook_basis": "Not memory-driven. Lowest ever Rs 4,195 (12 Aug 2026).",
-      "url": "https://pricehistory.app/p/thermalright-peerless-assassin-120-se-cpu-air-AQ8y5r2h",
-      "patterns": ["current Price in India is\\s*₹\\s*([\\d,]+)"]
+      "sources": [
+        {
+          "url": "https://pricehistory.app/p/thermalright-peerless-assassin-120-se-cpu-air-AQ8y5r2h",
+          "pattern": "current Price in India is\\s*₹\\s*([\\d,]+)"
+        }
+      ]
     },
     {
       "name": "Power Supply",
@@ -61,8 +112,18 @@
       "target": 8500,
       "outlook_90d": 0.0,
       "outlook_basis": "Not memory-driven. Computech Rs 9,989 (Oct 2026).",
-      "url": null,
-      "patterns": []
+      "sources": [
+        {
+          "url": "https://computechstore.in/product/corsair-rme-series-rm750e-cp-9020292-in/",
+          "pattern": "₹\\s*[\\d,]+\\s*₹\\s*([\\d,]+)\\s*Save Extra",
+          "require": "Availability\\s*(?:In Stock|Low Stock)"
+        },
+        {
+          "url": "https://mdcomputers.in/product/corsair-rm750e-gold-modular-smps-cp-9020262-in",
+          "pattern": "Offer Price\\s*₹\\s*([\\d,]+)",
+          "require": "Availability:\\s*In Stock"
+        }
+      ]
     },
     {
       "name": "Case",
@@ -70,8 +131,18 @@
       "target": 9000,
       "outlook_90d": 0.0,
       "outlook_basis": "Not memory-driven. Computech Rs 9,499 / MD Rs 10,000 (Oct 2026).",
-      "url": "https://mdcomputers.in/product/lian-li-lancool-216-argb-mid-tower-cabinet-g99-lan216rx-in",
-      "patterns": ["Offer Price\\s*₹\\s*([\\d,]+)"]
+      "sources": [
+        {
+          "url": "https://mdcomputers.in/product/lian-li-lancool-216-argb-mid-tower-cabinet-g99-lan216rx-in",
+          "pattern": "Offer Price\\s*₹\\s*([\\d,]+)",
+          "require": "Availability:\\s*In Stock"
+        },
+        {
+          "url": "https://computechstore.in/product/lian-li-lancool-216-rgb-e-atx-black/",
+          "pattern": "₹\\s*[\\d,]+\\s*₹\\s*([\\d,]+)\\s*Save Extra",
+          "require": "Availability\\s*(?:In Stock|Low Stock)"
+        }
+      ]
     }
   ]
 }

@@ -1,13 +1,16 @@
 """
-Fetch today's prices and save them to data/prices.csv.
+Fetch today's prices (lowest in-stock across several sites) into data/prices.csv.
 
-  python update_prices.py                 fetch automatically (used by Task Scheduler / GitHub Actions)
-  python update_prices.py --ask           also ask you to type prices it couldn't fetch
-  python update_prices.py --add GPU 74990 record a quote, e.g. from Nehru Place
+  python update_prices.py                  automatic (used by Task Scheduler / GitHub Actions)
+  python update_prices.py --ask            also ask you to type prices it couldn't fetch
+  python update_prices.py --add GPU 74990  record a quote, e.g. from Nehru Place
+  python update_prices.py --test           show what every source returns, without saving
 """
 import sys
 
-from tracker_core import fetch_price, load_config, read_rows, save_rows, summarize, upsert
+import requests
+
+from tracker_core import fetch_part, load_config, read_rows, save_rows, summarize, upsert
 
 
 def main():
@@ -29,22 +32,25 @@ def main():
         rows = upsert(rows, match[0], price, "manual quote")
         added = 1
     else:
-        for p in cfg["parts"]:
-            price, status = fetch_price(p)
-            shown = f"Rs {price:,}" if price else "-"
-            print(f"  {p['name']:<13} {shown:>11}   ({status})")
-            if not price and "--ask" in args:
-                v = input(f"    Type today's {p['name']} price (Enter to skip): ").strip().replace(",", "")
-                if v.isdigit():
-                    price, status = int(v), "manual"
-            if price:
-                rows = upsert(rows, p["name"], price, p["url"] if status == "ok" else "manual")
-                added += 1
+        with requests.Session() as s:
+            for p in cfg["parts"]:
+                price, src, log = fetch_part(p, s)
+                for l in log:
+                    shown = f"Rs {l['price']:,}" if l["price"] else "-"
+                    print(f"  {l['part']:<13} {l['site']:<22} {shown:>11}  {l['status']}")
+                if price:
+                    print(f"  {'':<13} -> using Rs {price:,} from {src}")
+                elif "--ask" in args:
+                    v = input(f"    Type today's {p['name']} price (Enter to skip): ").strip().replace(",", "")
+                    if v.isdigit():
+                        price, src = int(v), "manual"
+                if price and "--test" not in args:
+                    rows = upsert(rows, p["name"], price, src)
+                    added += 1
 
     if added:
         save_rows(rows)
     print(f"\nSaved {added} price(s).\n")
-
     print(f"{'Part':<13}{'Latest':>10}{'Target':>10}{'90d':>8}{'In 1 yr':>10}  Signal")
     for s in summarize(rows, cfg):
         f, p = s["f"], s["part"]

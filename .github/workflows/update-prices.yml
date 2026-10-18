@@ -3,7 +3,7 @@ name: Update prices
 on:
   schedule:
     - cron: "30 3 * * *"   # every day at 09:00 IST (03:30 UTC)
-  workflow_dispatch:         # lets you run it manually from the Actions tab
+  workflow_dispatch:         # run manually from the Actions tab
 
 permissions:
   contents: write
