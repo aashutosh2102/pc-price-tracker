@@ -21,7 +21,20 @@
           "url": "https://pcpaisa.in/price/amd-ryzen-7-9700x-100-100001404wof",
           "pattern": "lowest live in-stock price at\\s*₹\\s*([\\d,]+)"
         }
-      ]
+      ],
+      "match": {
+        "category": "CPU",
+        "key_in": [
+          "Ryzen 7 9700X"
+        ],
+        "compare": [
+          "Ryzen 7 9800X3D",
+          "Ryzen 7 7700X",
+          "Ryzen 7 7800X3D",
+          "Core Ultra 7 265K",
+          "Core Ultra 5 245K"
+        ]
+      }
     },
     {
       "name": "Motherboard",
@@ -43,7 +56,21 @@
           "url": "https://pcpaisa.in/price/msi-b650-b650m-gaming-wifi-atx-gaming-633202",
           "pattern": "lowest live in-stock price at\\s*₹\\s*([\\d,]+)"
         }
-      ]
+      ],
+      "match": {
+        "category": "Motherboard",
+        "socket": "AM5",
+        "wifi": true,
+        "chipset_in": [
+          "B650",
+          "B650E",
+          "B850",
+          "X870",
+          "X870E",
+          "X670",
+          "X670E"
+        ]
+      }
     },
     {
       "name": "RAM",
@@ -56,7 +83,14 @@
           "url": "https://pricehistory.app/p/patriot-memory-viper-venom-ddr5-ram-32gb-32vKxqce",
           "pattern": "current Price in India is\\s*₹\\s*([\\d,]+)"
         }
-      ]
+      ],
+      "match": {
+        "category": "RAM",
+        "ddr": 5,
+        "total_gb": 32,
+        "kit": true,
+        "min_speed": 6000
+      }
     },
     {
       "name": "GPU",
@@ -69,7 +103,20 @@
           "url": "https://gpuprix.com/india/gpus/geforce-rtx-5070",
           "pattern": "[Cc]urrent low\\s*₹\\s*([\\d,]+)"
         }
-      ]
+      ],
+      "match": {
+        "category": "GPU",
+        "key_in": [
+          "RTX 5070"
+        ],
+        "compare": [
+          "RTX 5060 Ti 16GB",
+          "RX 9070 XT",
+          "RX 9070",
+          "RTX 5070 Ti",
+          "RX 9060 XT 16GB"
+        ]
+      }
     },
     {
       "name": "SSD",
@@ -91,7 +138,13 @@
           "url": "https://pcpricetracker.in/products/54c5803f55df6d695e13038330444b9f",
           "pattern": "Lowest available price\\s*₹\\s*([\\d,]+)"
         }
-      ]
+      ],
+      "match": {
+        "category": "SSD",
+        "capacity_gb": 2000,
+        "min_gen": 4,
+        "nvme": true
+      }
     },
     {
       "name": "CPU Cooler",
@@ -104,7 +157,18 @@
           "url": "https://pricehistory.app/p/thermalright-peerless-assassin-120-se-cpu-air-AQ8y5r2h",
           "pattern": "current Price in India is\\s*₹\\s*([\\d,]+)"
         }
-      ]
+      ],
+      "match": {
+        "category": "CPU Cooler",
+        "name_any": [
+          "Peerless Assassin",
+          "AK620",
+          "AG620",
+          "Hyper 620",
+          "Phantom Spirit",
+          "AK500"
+        ]
+      }
     },
     {
       "name": "Power Supply",
@@ -123,7 +187,13 @@
           "pattern": "Offer Price\\s*₹\\s*([\\d,]+)",
           "require": "Availability:\\s*In Stock"
         }
-      ]
+      ],
+      "match": {
+        "category": "Power Supply",
+        "min_watt": 750,
+        "max_watt": 1000,
+        "min_rating": "Gold"
+      }
     },
     {
       "name": "Case",
@@ -142,7 +212,22 @@
           "pattern": "₹\\s*[\\d,]+\\s*₹\\s*([\\d,]+)\\s*Save Extra",
           "require": "Availability\\s*(?:In Stock|Low Stock)"
         }
-      ]
+      ],
+      "match": {
+        "category": "Case",
+        "name_any": [
+          "Lancool 216",
+          "Lancool 217",
+          "Lancool 207",
+          "4000D Airflow",
+          "H5 Flow",
+          "Pop Air",
+          "North",
+          "CC560",
+          "Forge 120A",
+          "Forge 320R"
+        ]
+      }
     }
   ]
 }

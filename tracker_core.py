@@ -1,4 +1,4 @@
-"""Shared logic: config, multi-source price fetching, history storage, forecast model."""
+"""Shared logic for the tracked build: config, multi-source price fetching, history, forecast model."""
 import csv
 import json
 import re
@@ -28,6 +28,7 @@ def load_config():
         if "sources" not in p:
             p["sources"] = ([{"url": p["url"], "pattern": pat} for pat in p.get("patterns", [])]
                             if p.get("url") else [])
+        p.setdefault("match", {})
     return cfg
 
 
@@ -103,15 +104,13 @@ def fetch_source(src, target, session=None):
 
 
 def fetch_part(part, session=None, pause=1.0):
-    """Try every source; keep the lowest in-stock price.
-    Returns (price or None, source label, [log rows])."""
+    """Try every source; keep the lowest in-stock price. Returns (price|None, source, log)."""
     log, best = [], None
     for i, src in enumerate(part.get("sources", [])):
         if i:
-            time.sleep(pause)  # be polite to sites
+            time.sleep(pause)
         price, status = fetch_source(src, part["target"], session)
-        log.append({"part": part["name"], "site": site(src["url"]),
-                    "price": price, "status": status})
+        log.append({"part": part["name"], "site": site(src["url"]), "price": price, "status": status})
         if price and (best is None or price < best[0]):
             best = (price, site(src["url"]))
     if not part.get("sources"):

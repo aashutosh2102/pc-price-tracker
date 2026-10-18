@@ -1,5 +1,5 @@
 """
-Fetch today's prices (lowest in-stock across several sites) into data/prices.csv.
+Fetch today's prices for the tracked build (lowest in-stock across several sites) into data/prices.csv.
 
   python update_prices.py                  automatic (used by Task Scheduler / GitHub Actions)
   python update_prices.py --ask            also ask you to type prices it couldn't fetch
@@ -19,7 +19,6 @@ def main():
     names = [p["name"] for p in cfg["parts"]]
     rows = read_rows()
     added = 0
-
     if "--add" in args:
         i = args.index("--add")
         try:
@@ -47,7 +46,6 @@ def main():
                 if price and "--test" not in args:
                     rows = upsert(rows, p["name"], price, src)
                     added += 1
-
     if added:
         save_rows(rows)
     print(f"\nSaved {added} price(s).\n")
@@ -56,7 +54,6 @@ def main():
         f, p = s["f"], s["part"]
         if f:
             print(f"{p['name']:<13}{f['latest']:>10,}{p['target']:>10,}{f['change_90d']:>+8.1%}{f['f1y']:>10,}  {f['signal']}")
-    # Always exit 0 so scheduled jobs don't fail when a site blocks requests.
 
 
 if __name__ == "__main__":

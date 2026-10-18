@@ -1,0 +1,79 @@
+{
+  "pages_limit": 15,
+  "per_page": 100,
+  "pause_sec": 1.0,
+  "categories": [
+    {
+      "name": "CPU",
+      "urls": [
+        "https://mdcomputers.in/catalog/processor"
+      ],
+      "must": "Ryzen|Core|Intel|Athlon|Threadripper|Pentium|Celeron|Xeon|EPYC",
+      "exclude": "Cooler|Thermal Paste|Motherboard"
+    },
+    {
+      "name": "GPU",
+      "urls": [
+        "https://mdcomputers.in/catalog/graphics-card"
+      ],
+      "must": "\\bRTX\\b|\\bGTX\\b|\\bRX\\s?\\d|\\bArc\\b|Quadro|\\bGT\\s?\\d|Graphics Card",
+      "exclude": "Riser|Bracket|Holder|Cable|Support"
+    },
+    {
+      "name": "Motherboard",
+      "urls": [
+        "https://mdcomputers.in/catalog/motherboard",
+        "https://mdcomputers.in/catalog/motherboard/amd-chipset-motherboard"
+      ],
+      "must": "Motherboard|\\b[ABHXZ]\\d{3}[EM]?\\b",
+      "exclude": "Processor|Combo"
+    },
+    {
+      "name": "RAM",
+      "urls": [
+        "https://mdcomputers.in/catalog/ram/desktop-ram"
+      ],
+      "must": "DDR\\d",
+      "exclude": "Laptop|SODIMM|SO-DIMM"
+    },
+    {
+      "name": "SSD",
+      "urls": [
+        "https://mdcomputers.in/catalog/storage/ssd-drive"
+      ],
+      "must": "SSD|NVMe",
+      "exclude": "External|Portable|Enclosure|Heatsink Only"
+    },
+    {
+      "name": "CPU Cooler",
+      "urls": [
+        "https://mdcomputers.in/catalog/cpu-cooler/cpu-cooler"
+      ],
+      "must": "Cooler|AIO",
+      "exclude": "Thermal Paste|Fan \\(|Cabinet Fan|Sleeving|Tubing"
+    },
+    {
+      "name": "Power Supply",
+      "urls": [
+        "https://mdcomputers.in/catalog/smps"
+      ],
+      "must": "SMPS|Power Supply|PSU|\\d{3,4}\\s?W",
+      "exclude": "Cable|Extension"
+    },
+    {
+      "name": "Case",
+      "urls": [
+        "https://mdcomputers.in/catalog/cabinet"
+      ],
+      "must": "Case|Cabinet|Tower|Chassis",
+      "exclude": "Fan \\(|Riser|Accessor"
+    }
+  ],
+  "gpu_scores": {
+    "_source": "gpuprix.com India performance score (0-100), Oct 2026. Add more chips as you find consistent scores.",
+    "RTX 5070": 46,
+    "RTX 5060 Ti 16GB": 31,
+    "RX 9070 XT": 52,
+    "RTX 5070 Ti": 55
+  }
+}
