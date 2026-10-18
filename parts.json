@@ -1,0 +1,77 @@
+{
+  "half_life_days": 45,
+  "parts": [
+    {
+      "name": "CPU",
+      "model": "AMD Ryzen 7 9700X",
+      "target": 25000,
+      "outlook_90d": 0.0,
+      "outlook_basis": "CPUs not hit by memory shortage. Lowest seen Rs 24,898 (pcpaisa, 17 Oct 2026).",
+      "url": "https://pcpaisa.in/price/amd-ryzen-7-9700x-100-100001404wof",
+      "patterns": ["lowest live in-stock price at\\s*₹\\s*([\\d,]+)"]
+    },
+    {
+      "name": "Motherboard",
+      "model": "MSI B650M Gaming WiFi",
+      "target": 10000,
+      "outlook_90d": 0.0,
+      "outlook_basis": "Not memory-driven. Recent lows Rs 9,920-10,449 (pcpaisa, Oct 2026).",
+      "url": "https://pcpaisa.in/price/msi-b650-b650m-gaming-wifi-atx-gaming-633202",
+      "patterns": ["lowest live in-stock price at\\s*₹\\s*([\\d,]+)"]
+    },
+    {
+      "name": "RAM",
+      "model": "Patriot Viper Venom 32GB (2x16) DDR5-6000 CL30",
+      "target": 40000,
+      "outlook_90d": 0.08,
+      "outlook_basis": "TrendForce (30 Sep 2026): DRAM contract prices +10-15% QoQ in 4Q26; other analysis ~0-5%. 8% sits between.",
+      "url": null,
+      "patterns": []
+    },
+    {
+      "name": "GPU",
+      "model": "NVIDIA RTX 5070 12GB (good brand)",
+      "target": 75000,
+      "outlook_90d": 0.0,
+      "outlook_basis": "No clear forecast. NVIDIA kit price hikes push up; India price ~35% above 3-month typical pulls down.",
+      "url": "https://gpuprix.com/india/gpus/geforce-rtx-5070",
+      "patterns": ["[Cc]urrent low\\s*₹\\s*([\\d,]+)"]
+    },
+    {
+      "name": "SSD",
+      "model": "WD Black SN7100 2TB",
+      "target": 25000,
+      "outlook_90d": 0.12,
+      "outlook_basis": "TrendForce (30 Sep 2026): NAND contract prices +15-20% QoQ in 4Q26; set lower as retail lags.",
+      "url": "https://pcpricetracker.in/products/54c5803f55df6d695e13038330444b9f",
+      "patterns": ["Lowest available price\\s*₹\\s*([\\d,]+)"]
+    },
+    {
+      "name": "CPU Cooler",
+      "model": "Thermalright Peerless Assassin 120 SE",
+      "target": 4300,
+      "outlook_90d": 0.0,
+      "outlook_basis": "Not memory-driven. Lowest ever Rs 4,195 (12 Aug 2026).",
+      "url": "https://pricehistory.app/p/thermalright-peerless-assassin-120-se-cpu-air-AQ8y5r2h",
+      "patterns": ["current Price in India is\\s*₹\\s*([\\d,]+)"]
+    },
+    {
+      "name": "Power Supply",
+      "model": "Corsair RM750e 750W Gold",
+      "target": 8500,
+      "outlook_90d": 0.0,
+      "outlook_basis": "Not memory-driven. Computech Rs 9,989 (Oct 2026).",
+      "url": null,
+      "patterns": []
+    },
+    {
+      "name": "Case",
+      "model": "Lian Li Lancool 216",
+      "target": 9000,
+      "outlook_90d": 0.0,
+      "outlook_basis": "Not memory-driven. Computech Rs 9,499 / MD Rs 10,000 (Oct 2026).",
+      "url": "https://mdcomputers.in/product/lian-li-lancool-216-argb-mid-tower-cabinet-g99-lan216rx-in",
+      "patterns": ["Offer Price\\s*₹\\s*([\\d,]+)"]
+    }
+  ]
+}
