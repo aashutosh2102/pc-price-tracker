@@ -2,9 +2,11 @@ date,item,price,source
 2024-04-04,MSI B650M Gaming WiFi,14999,pricehistory.app highest
 2025-09-22,MSI B650M Gaming WiFi,10049,pricehistory.app lowest ever
 2026-10-18,MSI B650M Gaming WiFi,12199,pricehistory.app current
+2026-10-19,MSI B650M Gaming WiFi,12199,pricehistory.app current
 2025-06-20,Patriot Viper Venom 32GB DDR5-6000,8499,pricehistory.app lowest ever
 2026-09-19,Patriot Viper Venom 32GB DDR5-6000,85152,pricehistory.app highest
 2026-10-18,Patriot Viper Venom 32GB DDR5-6000,51999,pricehistory.app current
+2026-10-19,Patriot Viper Venom 32GB DDR5-6000,51999,pricehistory.app current
 2026-10-07,RTX 5060 Ti 16GB,77799,gpuprix.com India current low
 2026-10-07,RTX 5070,98500,gpuprix.com India current low
 2026-10-18,RTX 5070,74990,Kryptronix Nehru Place (Zotac Solid)
@@ -22,12 +24,14 @@ date,item,price,source
 2026-01-16,RTX 5070 Ti,89199,pricehistory.app drop log (ASUS Prime; Flipkart)
 2026-10-18,RTX 5070 Ti,130769,pricehistory.app current (ASUS Prime; Flipkart)
 2026-10-18,RTX 5070 Ti,150200,gpuprix.com India current low
+2026-10-19,RTX 5070 Ti,130769,pricehistory.app current
 2026-10-18,RX 9070 XT,92500,gpuprix.com India current low
 2024-08-13,Ryzen 7 9700X,50000,pricehistory.app highest
 2026-10-10,Ryzen 7 9700X,28769,pricehistory.app lowest ever
 2026-10-17,Ryzen 7 9700X,24898,pcpaisa.in lowest in-stock (Variety Infotech)
 2026-10-17,Ryzen 7 9700X,27898,pcpaisa.in (Computech)
 2026-10-18,Ryzen 7 9700X,28769,pricehistory.app current
+2026-10-19,Ryzen 7 9700X,28769,pricehistory.app current
 2026-08-30,Ryzen 7 9800X3D,39299,pcpricetracker.in all-time low (SMC International)
 2026-10-13,Ryzen 7 9800X3D,46990,pcpricetracker.in 90-day high
 2026-10-17,Ryzen 7 9800X3D,46984,pcpricetracker.in lowest (Computech)
@@ -42,6 +46,7 @@ date,item,price,source
 2026-08-12,Thermalright Peerless Assassin 120 SE,4195,pricehistory.app lowest ever (Amazon)
 2026-10-16,Thermalright Peerless Assassin 120 SE,5129,pricehistory.app current (Amazon)
 2026-10-18,Thermalright Peerless Assassin 120 SE,5129,pricehistory.app current
+2026-10-19,Thermalright Peerless Assassin 120 SE,5129,pricehistory.app current
 2025-06-23,WD Black SN7100 2TB,11999,pcpricetracker.in all-time low (Computech)
 2025-08-07,WD Black SN7100 2TB,10999,pricehistory.app lowest ever (Amazon)
 2025-12-14,WD Black SN7100 2TB,22299,pricehistory.app drop log (Amazon)
@@ -60,3 +65,4 @@ date,item,price,source
 2026-10-12,WD Black SN7100 2TB,28999,pricerig.in best in-stock
 2026-10-17,WD Black SN7100 2TB,38200,pricehistory.app current (Amazon)
 2026-10-18,WD Black SN7100 2TB,38200,pricehistory.app current
+2026-10-19,WD Black SN7100 2TB,38200,pricehistory.app current
