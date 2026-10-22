@@ -14,3 +14,48 @@ date,category,key,brand,name,url,price
 2026-10-20,SSD,128GB SATA,Evm,EVM 128GB SATA SSD,https://mdcomputers.in/product/evm-128gb-2-5-inch-ssd/storage/ssd-drive,2065
 2026-10-20,Case,Mini Tower ITX,Cooler,Cooler Master Ncore 100 Max Bronze M-ITX Mini Tower Case,https://mdcomputers.in/product/cabinet/cooler-master-ncore-max-mini-tower-cabinet-nr100-znnn85-sl0,25999
 2026-10-21,Case,Mini Tower,Cooler,Cooler Master MasterFrame 400 Mesh Gold Limited Edition Mini Tower Case,https://mdcomputers.in/product/cabinet/cooler-master-masterframe-400-mesh-gold-mini-tower-cabinet,26000
+2026-10-22,CPU,Ryzen 5 5600X,Amd,AMD Ryzen 5 5600X Processor,https://mdcomputers.in/product/amd-ryzen-5-5600x-100-100000065box-desktop-processor/processor,15200
+2026-10-22,GPU,RTX 3050 6GB,Asus,Asus Dual RTX 3050 OC Edition 6GB Gaming Graphics Card,https://mdcomputers.in/product/asus-dual-graphics-card-rtx3050-o6g/graphics-card,29386
+2026-10-22,GPU,RTX 3050 6GB,Msi,MSI GeForce RTX 3050 Ventus 2X E 6GB OC GDDR6 Graphics Card,https://mdcomputers.in/product/graphics-card/msi-ventus-graphics-card-rtx-3050-2x-e-6gb-oc,29186
+2026-10-22,GPU,RTX 3050 6GB,Gigabyte,Gigabyte RTX 3050 Windforce OC V2 6GB Graphics Card,https://mdcomputers.in/product/gigabyte-windforce-graphics-card-gv-n3050wf2ocv2-6gd/graphics-card,29988
+2026-10-22,GPU,RTX 3050 6GB,Zotac,ZOTAC Gaming GeForce RTX 3050 Twin Edge OC 6GB GDDR6 GPU,https://mdcomputers.in/product/graphics-card/zotac-rtx3050-twin-edge-oc-graphics-card-zt-a30510h-10l,30590
+2026-10-22,GPU,RX 7600,Asus,ASUS Dual RX 7600 EVO OC 8GB GDDR6 Graphics Card,https://mdcomputers.in/product/asus-dual-graphics-card-rx7600-o8g-evo/graphics-card,38699
+2026-10-22,GPU,RTX 3050 8GB,Gigabyte,Gigabyte RTX 3050 Windforce OC V2 8GB Gaming Graphics Card,https://mdcomputers.in/product/gigabyte-windforce-graphics-card-gv-n3050wf2ocv2-8gd/graphics-card,40219
+2026-10-22,GPU,RX 7600,Gigabyte,Gigabyte RX 7600 Gaming OC 8GB Graphics Card,https://mdcomputers.in/product/gigabyte-gaming-graphics-card-gv-r76gaming-oc-8gd/graphics-card,40999
+2026-10-22,GPU,RTX 5050,Gigabyte,Gigabyte RTX 5050 Windforce OC 8GB GDDR6 Graphics Card,https://mdcomputers.in/product/gigabyte-windforce-oc-graphics-card-gv-n5050wf2oc-8gd/graphics-card,46699
+2026-10-22,GPU,RTX 5050,Msi,MSI RTX 5050 Shadow 2X OC 8GB GDDR6 Graphics Card,https://mdcomputers.in/product/graphics-card/msi-rtx-5050-8g-shadow-2x-graphics-card-g5050-8s2c,48399
+2026-10-22,GPU,RTX 5050,Msi,MSI RTX 5050 Ventus 2X OC 8GB GDDR6 Graphics Card,https://mdcomputers.in/product/graphics-card/msi-rtx-5050-ventus-2x-graphics-card-g5050-8v2c,48999
+2026-10-22,GPU,RTX 5050,Msi,MSI RTX 5050 Gaming OC 8GB GDDR6 Graphics Card,https://mdcomputers.in/product/graphics-card/msi-rtx-5050-8g-gaming-oc-graphics-card,53199
+2026-10-22,GPU,RTX 5050,Zotac,Zotac RTX 5050 Twin Edge 8GB GDDR6 Graphics Card,https://mdcomputers.in/product/graphics-card/zotac-rtx-5050-twin-edge-graphics-card-zt-b50500e-10m,54060
+2026-10-22,GPU,RTX 5050,Zotac,Zotac RTX 5050 Twin Edge OC 8GB GDDR6 Graphics Card,https://mdcomputers.in/product/graphics-card/zotac-rtx-5050-twin-edge-oc-graphics-card-zt-b50500h-10m,54662
+2026-10-22,GPU,RTX 5050,Zotac,Zotac Gaming RTX 5050 Twin Edge OC White 8GB GDDR6 Graphics Card,https://mdcomputers.in/product/graphics-card/zotac-rtx-5050-twin-edge-oc-white-graphics-card-zt-b50500q-10m,55866
+2026-10-22,GPU,RTX 5060,Msi,MSI RTX 5060 Shadow 2X OC 8GB GDDR7 Graphics Card,https://mdcomputers.in/product/graphics-card/msi-rtx-5060-shadow-2x-oc-graphics-card-g5060-8s2c,61999
+2026-10-22,GPU,RTX 5060,Msi,MSI RTX 5060 Ventus 2X OC White 8GB GDDR7 Graphics Card,https://mdcomputers.in/product/graphics-card/msi-rtx-5060-ventus-2x-oc-graphics-card-g5060-8v2cw,62599
+2026-10-22,GPU,RTX 5060,Msi,MSI RTX 5060 Ventus 2X OC 8GB GDDR7 Graphics Card,https://mdcomputers.in/product/graphics-card/msi-rtx-5060-ventus-2x-oc-graphics-card-g5060-8v2c,62999
+2026-10-22,GPU,RTX 5060 Ti 16GB,Asus,ASUS Dual RTX 5060 Ti OC Edition 16GB GDDR7 Graphics Card,https://mdcomputers.in/product/asus-dual-graphics-card-rtx5060ti-o16g/graphics-card,96000
+2026-10-22,GPU,RX 9070 XT,Asrock,Asrock RX 9070 XT Challenger 16GB GDDR6 Graphics Card,https://mdcomputers.in/product/asrock-challenger-graphics-card-rx9070xt-cl-16g/graphics-card,102806
+2026-10-22,GPU,RX 9070 XT,Sapphire,Sapphire Pulse RX 9070 XT 16GB GDDR6 Graphics Card,https://mdcomputers.in/product/graphics-card/sapphire-pulse-graphics-card-rx-9070-xt-11348-03-20g,105213
+2026-10-22,GPU,RX 9070 XT,Gigabyte,Gigabyte RX 9070 XT Gaming OC 16GB GDDR6 Graphics Card,https://mdcomputers.in/product/gigabyte-gaming-graphics-card-gv-r9070xtgaming-oc-16gd/graphics-card,106417
+2026-10-22,GPU,RX 9070 XT,Asus,ASUS Prime RX 9070 XT OC 16GB GDDR6 Graphics Card,https://mdcomputers.in/product/asus-prime-graphics-card-rx9070xt-o16g/graphics-card,108824
+2026-10-22,GPU,RTX 5080,Pny,PNY RTX 5080 ARGB OC 16GB GDDR7 Graphics Card,https://mdcomputers.in/product/graphics-card/pny-rtx-5080-argb-oc-graphics-card-vcg508016tfxxpb1-o,205112
+2026-10-22,GPU,RTX 5080,Gigabyte,Gigabyte RTX 5080 WindForce OC SFF 16GB GDDR7 Graphics Card,https://mdcomputers.in/product/gigabyte-windforce-graphics-card-gv-n5080wf3oc-16gd/graphics-card,211130
+2026-10-22,GPU,RTX 5080,Inno3D,INNO3D RTX 5080 X3 16GB GDDR7 SFF Graphics Card,https://mdcomputers.in/product/graphics-card/inno3d-graphics-card-rtx-5080-x3-n50803-16d7-376068n,211130
+2026-10-22,GPU,RTX 5080,Zotac,Zotac Gaming RTX 5080 Solid Core 16GB GDDR7 Graphics Card,https://mdcomputers.in/product/graphics-card/zotac-rtx-5080-solid-core-graphics-card-zt-b50800d2-10p,211130
+2026-10-22,GPU,RTX 5080,Gigabyte,Gigabyte RTX 5080 Gaming OC 16GB GDDR7 Graphics Card,https://mdcomputers.in/product/gigabyte-gaming-graphics-card-gv-n5080gaming-oc-16gd/graphics-card,217148
+2026-10-22,GPU,RTX 5080,Zotac,Zotac RTX 5080 Solid Core OC 16GB GDDR7 Graphics Card,https://mdcomputers.in/product/graphics-card/zotac-rtx-5080-solid-core-oc-graphics-card-zt-b50800j2-10p,217148
+2026-10-22,GPU,RTX 5080,Msi,MSI RTX 5080 Ventus 3X OC 16GB GDDR7 Graphics Card,https://mdcomputers.in/product/graphics-card/msi-ventus-3x-oc-graphics-card-g5080-16v3c,218999
+2026-10-22,GPU,RTX 5080,Asus,ASUS Prime RTX 5080 EVO OC 16GB GDDR7 Graphics Card,https://mdcomputers.in/product/asus-prime-graphics-card-rtx5080-o16g-evo/graphics-card,229184
+2026-10-22,GPU,RTX 5080,Asus,ASUS Prime RTX 5080 OC 16GB GDDR7 Graphics Card,https://mdcomputers.in/product/asus-prime-graphics-card-rtx5080-o16g/graphics-card,229184
+2026-10-22,GPU,RTX 5080,Gigabyte,Gigabyte RTX 5080 Aero OC SFF 16GB GDDR7 Graphics Card,https://mdcomputers.in/product/gigabyte-aero-graphics-card-gv-n5080aero-oc-16gd/graphics-card,229184
+2026-10-22,GPU,RTX 5080,Msi,MSI RTX 5080 Gaming Trio OC 16GB GDDR7 Graphics Card,https://mdcomputers.in/product/graphics-card/msi-gaming-trio-oc-graphics-card-g5080-16gtc,229184
+2026-10-22,GPU,RTX 5080,Msi,MSI RTX 5080 Inspire 3X OC 16GB GDDR7 Graphics Card,https://mdcomputers.in/product/graphics-card/msi-inspire-graphics-card-rtx-5080-3x-oc-16g,229184
+2026-10-22,GPU,RTX 5080,Zotac,Zotac Gaming RTX 5080 Solid OC White 16GB GDDR7 Graphics Card,https://mdcomputers.in/product/graphics-card/zotac-rtx-5080-solid-oc-white-graphics-card-zt-b50800q-10p,229184
+2026-10-22,GPU,RTX 5080,Asus,Asus ProArt RTX 5080 OC 16GB GDDR7 Graphics Card,https://mdcomputers.in/product/asus-proart-graphics-card-rtx5080-o16g/graphics-card,241220
+2026-10-22,RAM,DDR5 16GB 4800,Adata,Adata 16GB 4800MHz CL40 DDR5 RAM,https://mdcomputers.in/product/adata-ram-16gb-ddr5-4800mhz-ad5u480016g-s/ram/desktop-ram,24440
+2026-10-22,RAM,DDR5 32GB 4800,Adata,Adata 32GB 4800MHz CL40 DDR5 RAM,https://mdcomputers.in/product/adata-ram-32gb-ddr5-4800mhz-ad5u480032g-s/ram/desktop-ram,48080
+2026-10-22,RAM,DDR5 32GB 5600,Adata,Adata 32GB 5600MHz CL46 DDR5 RAM,https://mdcomputers.in/product/adata-ram-32gb-ddr5-5600mhz-ad5u560032g-s/ram/desktop-ram,52280
+2026-10-22,SSD,2000GB Gen4,Wd,WD Black SN7100 NVMe 2TB Gen4 SSD,https://mdcomputers.in/product/storage/ssd-drive/wd-black-sn7100-2tb-nvme-ssd-wds200t4x0e,31699
+2026-10-22,SSD,1000GB Gen4,Wd,WD Black SN7100 NVMe 1TB Gen4 SSD,https://mdcomputers.in/product/storage/ssd-drive/wd-black-sn7100-1tb-nvme-ssd-wds100t4x0e,18250
+2026-10-22,SSD,4000GB Gen4,Wd,WD Black SN7100 4TB NVMe Gen4 SSD,https://mdcomputers.in/product/storage/ssd-drive/wd-black-sn7100-4tb-nvme-ssd-wds400t4x0e,61999
+2026-10-22,Power Supply,650W Unrated,Ant,ANT Esports VS650L SMPS,https://mdcomputers.in/product/ant-esports-vs650l-black-smps/smps,3599
+2026-10-22,Case,Mini Tower ITX,Fractal,Fractal Design Terra Jade M-ITX Mini Tower Case,https://mdcomputers.in/product/cabinet/fractal-design-terra-mini-tower-cabinet-fd-c-ter1n-03,26100
