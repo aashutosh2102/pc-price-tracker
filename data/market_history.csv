@@ -341,3 +341,82 @@ date,category,key,brand,name,url,price
 2026-10-23,Case,Mini Tower ITX,Fractal,Fractal Design Terra Graphite M-ITX Mini Tower Case,https://mdcomputers.in/product/cabinet/fractal-design-terra-mini-tower-cabinet-fd-c-ter1n-01,26100
 2026-10-23,Case,Mid Tower E-ATX,Fractal,Fractal Design Torrent TG Light Tint E-ATX Mid Tower Case,https://mdcomputers.in/product/cabinet/fractal-design-torrent-mid-tower-cabinet-fd-c-tor1a-01,26600
 2026-10-23,Case,Full Tower ATX,Corsair,Corsair 7000D Airflow White ATX Full Tower Case,https://mdcomputers.in/product/cabinet/corsair-7000d-airflow-white-full-tower-cabinet-cc-9011219-ww,26800
+2026-10-24,CPU,Ryzen 5 5500,Amd,AMD Ryzen 5 5500 Processor,https://mdcomputers.in/product/amd-ryzen-5-5500-100-100000457box-desktop-processor/processor,10700
+2026-10-24,CPU,Ryzen 5 8600G,Amd,AMD Ryzen 5 8600G Processor with Radeon Graphics,https://mdcomputers.in/product/amd-ryzen-5-8600g-100-100001237box-desktop-processor/processor,20800
+2026-10-24,CPU,Ryzen 7 5700G,Amd,AMD Ryzen 7 5700G Processor with Radeon Graphics,https://mdcomputers.in/product/amd-ryzen-7-5700g-100-100000263box-desktop-processor/processor,22900
+2026-10-24,CPU,Core i9-14900K,Intel,Intel Core i9-14900K Processor,https://mdcomputers.in/product/intel-i9-14900k-bx8071514900k-desktop-processor/processor,47200
+2026-10-24,GPU,RTX 5060 Ti 8GB,Pny,PNY RTX 5060 Ti EPIC-X RGB OC 8GB GDDR7 Graphics Card,https://mdcomputers.in/product/graphics-card/pny-rtx-5060-ti-epic-x-rgb-oc-graphics-card-vcg5060t8tfxxpb1-o,59476
+2026-10-24,GPU,RX 9060 XT 16GB,Sapphire,Sapphire Pulse RX 9060 XT OC 16GB GDDR6 Graphics Card,https://mdcomputers.in/product/graphics-card/sapphire-pulse-graphics-card-rx-9060-xt-11350-03-20g,69899
+2026-10-24,GPU,RX 9060 XT 16GB,Asus,Asus Dual RX 9060 XT 16GB GDDR6 Graphics Card,https://mdcomputers.in/product/asus-dual-graphics-card-rx9060xt-16g/graphics-card,70999
+2026-10-24,GPU,RX 9060 XT 16GB,Asrock,ASRock RX 9060 XT Challenger OC 16GB GDDR6 Graphics Card,https://mdcomputers.in/product/asrock-challenger-graphics-card-rx9060xt-cl-16go/graphics-card,72902
+2026-10-24,GPU,RX 9060 XT 16GB,Gigabyte,Gigabyte RX 9060 XT Gaming OC 16GB GDDR6 Graphics Card,https://mdcomputers.in/product/gigabyte-gaming-graphics-card-gv-r9060xtgaming-oc-16gd/graphics-card,75309
+2026-10-24,GPU,RX 9060 XT 16GB,Asus,ASUS Prime RX 9060 XT OC Edition 16GB GDDR6 Graphics Card,https://mdcomputers.in/product/asus-prime-graphics-card-rx9060xt-o16g/graphics-card,76512
+2026-10-24,GPU,RX 9070,Asrock,ASRock RX 9070 Challenger 16GB GDDR6 Graphics Card,https://mdcomputers.in/product/asrock-challenger-graphics-card-rx9070-cl-16g/graphics-card,83548
+2026-10-24,GPU,RTX 5060 Ti 16GB,Asus,ASUS Dual RTX 5060 Ti OC Edition 16GB GDDR7 Graphics Card,https://mdcomputers.in/product/asus-dual-graphics-card-rtx5060ti-o16g/graphics-card,103599
+2026-10-24,GPU,RTX 5070 Ti,Gigabyte,Gigabyte RTX 5070 Ti Windforce OC SFF 16GB GDDR7 Graphics Card,https://mdcomputers.in/product/gigabyte-windforce-graphics-card-gv-n507twf3oc-16gd/graphics-card,162986
+2026-10-24,GPU,RTX 5070 Ti,Gigabyte,Gigabyte RTX 5070 Ti Windforce OC V2 16GB GDDR7 Graphics Card,https://mdcomputers.in/product/gigabyte-windforce-oc-v2-graphics-card-gv-n507twf3ocv2-16gd/graphics-card,162986
+2026-10-24,GPU,RTX 5070 Ti,Gigabyte,Gigabyte RTX 5070 Ti Gaming OC 16GB GDDR7 Graphics Card,https://mdcomputers.in/product/gigabyte-gaming-graphics-card-gv-n507tgaming-oc-16gd/graphics-card,169004
+2026-10-24,GPU,RTX 5070 Ti,Gigabyte,Gigabyte RTX 5070 Ti Aero OC White 16GB GDDR7 Graphics Card,https://mdcomputers.in/product/gigabyte-rtx-5070-ti-aero-oc-graphics-card-gv-n507taero-oc-16gd/graphics-card,169004
+2026-10-24,GPU,Asus Turbo Radeon AI Pro R9700 32GB GDDR6 Graphics Card,Asus,Asus Turbo Radeon AI Pro R9700 32GB GDDR6 Graphics Card,https://mdcomputers.in/product/asus-radeon-graphics-card-turbo-ai-pro-r9700-32gb/graphics-card,265292
+2026-10-24,Motherboard,B850 mATX,Msi,MSI PRO B850M-P M-ATX Motherboard,https://mdcomputers.in/product/motherboard/msi-pro-b850m-p-motherboard,13350
+2026-10-24,Motherboard,B650 mATX,Gigabyte,Gigabyte B650M Gaming X AX WIFI M-ATX Motherboard,https://mdcomputers.in/product/gigabyte-b650m-gaming-x-ax-wifi-motherboard/motherboard,14700
+2026-10-24,Motherboard,B860 mATX,Msi,MSI MAG B860M Mortar WiFi DDR5 M-ATX Motherboard,https://mdcomputers.in/product/motherboard/msi-mag-b860m-mortar-wifi-motherboard,22600
+2026-10-24,Motherboard,Z890 ATX,Gigabyte,Gigabyte Z890 EAGLE WIFI7 Plus Motherboard,https://mdcomputers.in/product/gigabyte-z890-eagle-wifi7-plus-gaming-motherboard/motherboard,27700
+2026-10-24,Motherboard,B850 mATX,Msi,MSI PRO B850M-P M-ATX Motherboard,https://mdcomputers.in/product/motherboard/amd-chipset-motherboard/msi-pro-b850m-p-motherboard,13350
+2026-10-24,Motherboard,B650 mATX,Gigabyte,Gigabyte B650M Gaming X AX WIFI M-ATX Motherboard,https://mdcomputers.in/product/gigabyte-b650m-gaming-x-ax-wifi-motherboard/motherboard/amd-chipset-motherboard,14700
+2026-10-24,RAM,DDR4 8GB 3600,Corsair,Corsair Vengeance LPX 8GB 3600MHz CL18 DDR4 RAM,https://mdcomputers.in/product/corsair-ram-vengeance-lpx-cmk8gx4m1z3600c18/ram/desktop-ram,7480
+2026-10-24,RAM,DDR4 8GB 3200,Adata,Adata XPG Gammix D35 8GB 3200MHz CL16 DDR4 RAM,https://mdcomputers.in/product/adata-ram-xpg-gammix-d35-8gb-ddr4-ax4u32008g16a-sbkd35/ram/desktop-ram,7199
+2026-10-24,RAM,DDR4 16GB 2666,Evm,EVM 16GB 2666MHz CL19 DDR4 RAM,https://mdcomputers.in/product/evm-ram-16gb-ddr4-evmt16g2666u88p/ram/desktop-ram,8195
+2026-10-24,RAM,DDR4 16GB 3200,G.Skill,G.Skill Aegis 16GB 3200MHz CL16 DDR4 RAM,https://mdcomputers.in/product/gskill-ram-aegis-16gb-f4-3200c16s-16gis/ram/desktop-ram,11899
+2026-10-24,RAM,DDR4 16GB 3200,Klevv,Klevv Bolt X 16GB 3200MHz CL16 DDR4 RAM,https://mdcomputers.in/product/klevv-ram-bolt-x-16gb-ddr4-kd4agu880-32a160t/ram/desktop-ram,12660
+2026-10-24,RAM,DDR5 16GB 5600,Klevv,Klevv FIT V 16GB 5600MHz CL30 DDR5 RAM,https://mdcomputers.in/product/klevv-fit-v-16gb-ddr5-kd5agu880-56k300k/ram/desktop-ram,24799
+2026-10-24,RAM,DDR5 16GB 5600,Adata,Adata XPG Lancer Blade 16GB 5600MHz CL46 DDR5 RAM,https://mdcomputers.in/product/adata-ram-xpg-lancer-blade-16gb-ddr5-ax5u5600c4616g-slabbk/ram/desktop-ram,25950
+2026-10-24,RAM,DDR5 16GB 6000,Crucial,Crucial Pro 16GB 6000MHz CL48 DDR5 RAM,https://mdcomputers.in/product/crucial-ram-pro-16gb-ddr5-cp16g60c48u5/ram/desktop-ram,26999
+2026-10-24,RAM,DDR4 16GB 3200,Kingston,Kingston Server Premier 16GB 3200MHz CL22 DDR4 ECC Registered RAM,https://mdcomputers.in/product/kingston-server-premier-ecc-16gb-ram-ksm32rs8-16hd/ram/desktop-ram,29799
+2026-10-24,RAM,DDR5 16GB 5200,Kingston,Kingston Fury Beast 16GB 5200MHz CL36 DDR5 RAM,https://mdcomputers.in/product/kingston-ram-fury-beast-16gb-5200mhz-ddr5-kf552c36bbe-16/ram/desktop-ram,32360
+2026-10-24,RAM,DDR5 16GB 5200,Kingston,Kingston Fury Beast White 16GB 5200MHz CL40 DDR5 RAM,https://mdcomputers.in/product/kingston-ram-fury-beast-16gb-ddr5-kf552c40bw-16/ram/desktop-ram,32360
+2026-10-24,RAM,DDR5 16GB 6000,Kingston,Kingston Fury Beast 16GB 6000MHz CL36 DDR5 RAM,https://mdcomputers.in/product/kingston-ram-fury-beast-16gb-ddr5-kf560c36bbe2-16/ram/desktop-ram,34160
+2026-10-24,RAM,DDR5 16GB 6000,Kingston,Kingston Fury Beast White 16GB 6000MHz CL36 DDR5 RAM,https://mdcomputers.in/product/kingston-ram-fury-beast-16gb-6000mhz-ddr5-kf560c36bwe2-16/ram/desktop-ram,34160
+2026-10-24,RAM,DDR5 16GB 6000,Kingston,Kingston Fury Beast RGB White 16GB 6000MHz CL36 DDR5 RAM,https://mdcomputers.in/product/kingston-ram-fury-beast-16gb-ddr5-kf560c36bwe2a-16/ram/desktop-ram,35960
+2026-10-24,RAM,DDR5 16GB 6000,Kingston,Kingston Fury Beast RGB 16GB 6000MHz CL30 DDR5 RAM,https://mdcomputers.in/product/kingston-ram-fury-beast-16gb-ddr5-kf560c30bbea-16/ram/desktop-ram,39080
+2026-10-24,RAM,DDR5 32GB 5600,Geil,Geil Orion V 32GB 5600MHz CL38 DDR5 RAM,https://mdcomputers.in/product/geil-orion-v-32gb-ddr5-gvg532gb5600c38asc/ram/desktop-ram,49299
+2026-10-24,RAM,DDR5 32GB 5600,Teamgroup,TeamGroup T-Force Delta RGB 32GB 5600MHz CL36 DDR5 RAM,https://mdcomputers.in/product/ram/desktop-ram/teamgroup-ram-t-force-delta-rgb-ff4d532g5600hc36b01,50899
+2026-10-24,RAM,DDR5 32GB kit 6000,Klevv,Klevv Urbane V RGB 32GB (16GBx2) 6000MHz CL30 DDR5 RAM,https://mdcomputers.in/product/klevv-urbane-v-rgb-32gb-ddr5-kd5agua80-60a300v/ram/desktop-ram,56719
+2026-10-24,RAM,DDR5 32GB 5200,Kingston,Kingston Fury Beast 32GB 5200MHz CL40 DDR5 RAM,https://mdcomputers.in/product/kingston-ram-fury-beast-32gb-ddr5-kf552c40bb2-32/ram/desktop-ram,60140
+2026-10-24,RAM,DDR5 32GB 5600,Kingston,Kingston Fury Beast 32GB 5600MHz CL36 DDR5 RAM,https://mdcomputers.in/product/kingston-ram-fury-beast-32gb-ddr5-kf556c36bbe2-32/ram/desktop-ram,61520
+2026-10-24,RAM,DDR5 32GB 6000,Kingston,Kingston Fury Beast 32GB 6000MHz CL36 DDR5 RAM,https://mdcomputers.in/product/kingston-ram-fury-beast-32gb-ddr5-kf560c36bbe2-32/ram/desktop-ram,63080
+2026-10-24,RAM,DDR5 32GB 6000,Kingston,Kingston Fury Beast RGB 32GB 6000MHz CL36 DDR5 RAM,https://mdcomputers.in/product/kingston-ram-fury-beast-32gb-ddr5-kf560c36bbe2a-32/ram/desktop-ram,66380
+2026-10-24,RAM,DDR5 16GB 5600,Kingston,Kingston Server Premier ECC Unbuffered DIMM 16GB 5600MHz CL46 DDR5 RAM,https://mdcomputers.in/product/kingston-server-premier-ecc-ram-ksm56e46bs8km-16ha/ram/desktop-ram,68199
+2026-10-24,RAM,DDR5 16GB 5600,Kingston,Kingston Server Premier ECC Registered DIMM 16GB 5600MHz CL46 DDR5 RAM,https://mdcomputers.in/product/kingston-server-premier-ecc-ram-ksm56r46bs8-16ha/ram/desktop-ram,68199
+2026-10-24,RAM,DDR5 32GB kit 6000,Kingston,Kingston Fury Beast RGB EXPO 32GB (16GBx2) 6000MHz CL30 DDR5 RAM,https://mdcomputers.in/product/kingston-ram-fury-beast-32gb-ddr5-kf560c30bbeak2-32/ram/desktop-ram,76880
+2026-10-24,RAM,DDR5 64GB kit 6000,Klevv,Klevv CRAS V RGB 64GB (32GBx2) 6000MHz CL30 DDR5 RAM,https://mdcomputers.in/product/klevv-cras-v-rgb-64gb-ddr5-kd5bgua80-60a300g/ram/desktop-ram,120530
+2026-10-24,RAM,DDR5 64GB 5600,Kingston,Kingston Value 64GB 5600MHz CL46 DDR5 RAM,https://mdcomputers.in/product/kingston-value-ram-64gb-ddr5-kvr56u46bd8-64/ram/desktop-ram,125140
+2026-10-24,RAM,DDR5 64GB 5600,Kingston,Kingston Fury Beast 64GB 5600MHz CL36 DDR5 RAM,https://mdcomputers.in/product/kingston-fury-beast-ram-64gb-ddr5-kf556c36bbe-64/ram/desktop-ram,126399
+2026-10-24,RAM,DDR5 64GB kit 6000,G.Skill,G.Skill Trident Z5 Neo RGB 64GB (32GBx2) 6000MHz CL36 DDR5 RAM,https://mdcomputers.in/product/g-skill-trident-z5-neo-64gb-ddr5-f5-6000j3636f32gx2-tz5nr/ram/desktop-ram,126530
+2026-10-24,RAM,DDR5 32GB 5600,Kingston,Kingston Server Premier ECC Registered DIMM 32GB 5600MHz CL46 DDR5 RAM,https://mdcomputers.in/product/kingston-server-premier-ecc-ram-ksm56r46bd8-32ha/ram/desktop-ram,128860
+2026-10-24,RAM,DDR5 64GB kit 6000,Kingston,Kingston Fury Beast 64GB (32GB x 2) 6000MHz CL30 DDR5 RAM,https://mdcomputers.in/product/kingston-ram-fury-beast-64gb-kf560c30bbek2-64/ram/desktop-ram,151120
+2026-10-24,RAM,DDR5 128GB kit 6000,Corsair,Corsair Vengeance RGB 128GB (64GBx2) 6000MHz CL40 DDR5 RAM,https://mdcomputers.in/product/corsair-ram-vengeance-rgb-128gb-ddr5-cmh128gx5m2d6000c40/ram/desktop-ram,252890
+2026-10-24,RAM,DDR5 64GB 5600,Kingston,Kingston Server Premier ECC Registered DIMM 64GB 5600MHz CL46 DDR5 RAM,https://mdcomputers.in/product/kingston-server-premier-ecc-ram-ksm56r46bd4-64ha/ram/desktop-ram,291100
+2026-10-24,SSD,1000GB Gen4,Adata,Adata Legend 960 1TB M.2 NVMe Gen4 SSD,https://mdcomputers.in/product/adata-legend-960-1tb-nvme-ssd-aleg-960-1tcs,20650
+2026-10-24,SSD,1000GB Gen4,Samsung,Samsung 990 PRO 1TB M.2 NVMe Gen4 SSD,https://mdcomputers.in/product/samsung-990-pro-1tb-nvme-ssd-mz-v9p1t0bw,24399
+2026-10-24,SSD,1000GB Gen4,Crucial,Crucial P310 NVMe 1TB Gen4 SSD,https://mdcomputers.in/product/crucial-p310-1tb-nvme-ssd-ct1000p310ssd8,16399
+2026-10-24,SSD,2000GB Gen4,Wd,WD Blue SN5100 2TB NVMe Gen4 SSD,https://mdcomputers.in/product/wd-blue-sn5100-2tb-nvme-ssd-wds200t5b0e,28999
+2026-10-24,SSD,2000GB Gen4,Acer,Acer FA200 2TB NVMe Gen4 SSD,https://mdcomputers.in/product/acer-fa200-2tb-nvme-ssd-bl-9bwwa-125,27799
+2026-10-24,SSD,128GB Gen3,Consistent,Consistent S7 128GB NVMe Gen3 SSD,https://mdcomputers.in/product/consistent-s7-128gb-nvme-ssd,2899
+2026-10-24,SSD,256GB Gen3,Evm,EVM 256GB NVMe Gen3 SSD,https://mdcomputers.in/product/evm-256gb-nvme-ssd/storage/ssd-drive,4430
+2026-10-24,SSD,256GB SATA,Evm,EVM 256GB Sata SSD,https://mdcomputers.in/product/evm-256gb-2-5-inch-ssd/storage/ssd-drive,3230
+2026-10-24,SSD,128GB SATA,Evm,EVM 128GB SATA SSD,https://mdcomputers.in/product/evm-128gb-2-5-inch-ssd/storage/ssd-drive,1990
+2026-10-24,SSD,512GB SATA,Evm,EVM 512GB Sata SSD,https://mdcomputers.in/product/evm-512gb-2-5-inch-ssd/storage/ssd-drive,5680
+2026-10-24,SSD,1000GB SATA,Evm,EVM 1TB SATA SSD,https://mdcomputers.in/product/evm-1tb-sata-ssd-evm25/storage/ssd-drive,10770
+2026-10-24,SSD,1000GB Gen4,Crucial,Crucial P310 NVMe 1TB Gen4 SSD,https://mdcomputers.in/product/crucial-p310-1tb-nvme-ssd-ct1000p310ssd8/storage/ssd-drive,16399
+2026-10-24,SSD,1000GB Gen4,Adata,Adata Legend 960 1TB M.2 NVMe Gen4 SSD,https://mdcomputers.in/product/adata-legend-960-1tb-nvme-ssd-aleg-960-1tcs/storage/ssd-drive,20650
+2026-10-24,SSD,1000GB Gen4,Samsung,Samsung 990 PRO 1TB M.2 NVMe Gen4 SSD,https://mdcomputers.in/product/samsung-990-pro-1tb-nvme-ssd-mz-v9p1t0bw/storage/ssd-drive,24399
+2026-10-24,SSD,2000GB Gen4,Acer,Acer FA200 2TB NVMe Gen4 SSD,https://mdcomputers.in/product/acer-fa200-2tb-nvme-ssd-bl-9bwwa-125/storage/ssd-drive,27799
+2026-10-24,SSD,2000GB Gen4,Wd,WD Blue SN5100 2TB NVMe Gen4 SSD,https://mdcomputers.in/product/storage/ssd-drive/wd-blue-sn5100-2tb-nvme-ssd-wds200t5b0e,28999
+2026-10-24,SSD,4000GB Gen5,Samsung,Samsung 9100 PRO 4TB NVMe Gen5 SSD,https://mdcomputers.in/product/samsung-9100-pro-4tb-nvme-ssd-mz-vap4t0bw/storage/ssd-drive,117680
+2026-10-24,Power Supply,650W Bronze,Msi,Msi Pro A650BN Bronze 650 Watt SMPS,https://mdcomputers.in/product/msi-pro-a650bn-bronze-smps/smps,4950
+2026-10-24,Power Supply,1600W Platinum,Cooler,Cooler Master V Platinum 1600 Watt V2 ATX 3.1 Fully Modular Smps,https://mdcomputers.in/product/cooler-master-v-platinum-1600-v2-smps-mpz-g002-afap-bin/smps,38800
+2026-10-24,Case,Case M-ATX,Ant,Ant Esports Crystal Neo Mini ARGB M-ATX Case,https://mdcomputers.in/product/ant-esports-crystal-neo-mini-tower-cabinet/cabinet,3999
+2026-10-24,Case,Mid Tower E-ATX,Cooler,Cooler Master Qube 540 Stardust Iron E-ATX Mid Tower Case,https://mdcomputers.in/product/cabinet/cooler-master-qube-540-stardust-iron-mid-tower-cabinet,6500
+2026-10-24,Case,Full Tower E-ATX,Cooler,Cooler Master HAF 700 Titanium Grey ARGB E-ATX Full Tower Case,https://mdcomputers.in/product/cabinet/cooler-master-haf-full-tower-cabinet-h700-ignn-s00,27200
+2026-10-24,Case,Full Tower ATX,Corsair,CORSAIR ICUE 7000X RGB ATX Full Tower Case,https://mdcomputers.in/product/cabinet/corsair-icue-7000x-rgb-full-tower-cabinet-cc-9011226-ww,29100
