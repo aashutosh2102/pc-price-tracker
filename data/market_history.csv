@@ -420,3 +420,86 @@ date,category,key,brand,name,url,price
 2026-10-24,Case,Mid Tower E-ATX,Cooler,Cooler Master Qube 540 Stardust Iron E-ATX Mid Tower Case,https://mdcomputers.in/product/cabinet/cooler-master-qube-540-stardust-iron-mid-tower-cabinet,6500
 2026-10-24,Case,Full Tower E-ATX,Cooler,Cooler Master HAF 700 Titanium Grey ARGB E-ATX Full Tower Case,https://mdcomputers.in/product/cabinet/cooler-master-haf-full-tower-cabinet-h700-ignn-s00,27200
 2026-10-24,Case,Full Tower ATX,Corsair,CORSAIR ICUE 7000X RGB ATX Full Tower Case,https://mdcomputers.in/product/cabinet/corsair-icue-7000x-rgb-full-tower-cabinet-cc-9011226-ww,29100
+2026-10-25,CPU,Ryzen 9 9950X3D,Amd,AMD Ryzen 9 9950X3D Processor,https://mdcomputers.in/product/amd-ryzen-9-9950x3d-100-100000719wof-desktop-processor/processor,71200
+2026-10-25,GPU,RX 580,Nextron,Nextron Nforce RX 580 8GB GDDR5 Graphics Card,https://mdcomputers.in/product/graphics-card/nextron-graphics-card-rx-580-8g,13999
+2026-10-25,GPU,GTX 1650,Nextron,Nextron GTX1650 4GB GDDR6 Graphics Card,https://mdcomputers.in/product/graphics-card/nextron-graphics-card-gtx1650-4gb,16999
+2026-10-25,GPU,RX 9050,Asrock,ASRock RX 9050 Challenger 8GB GDDR6 Graphics Card,https://mdcomputers.in/product/asrock-challenger-graphics-card-rx9050-cl-8g/graphics-card,37812
+2026-10-25,GPU,RX 7600,Asus,ASUS Dual RX 7600 EVO OC 8GB GDDR6 Graphics Card,https://mdcomputers.in/product/asus-dual-graphics-card-rx7600-o8g-evo/graphics-card,42626
+2026-10-25,GPU,RTX 3050 8GB,Msi,MSI RTX 3050 Ventus 2X XS OC 8GB Graphics Card,https://mdcomputers.in/product/graphics-card/msi-ventus-graphics-card-rtx-3050-2x-xs-8g-oc,42626
+2026-10-25,GPU,RX 7600,Gigabyte,Gigabyte RX 7600 Gaming OC 8GB Graphics Card,https://mdcomputers.in/product/gigabyte-gaming-graphics-card-gv-r76gaming-oc-8gd/graphics-card,43829
+2026-10-25,GPU,RTX 5050,Msi,MSI RTX 5050 Shadow 2X OC 8GB GDDR6 Graphics Card,https://mdcomputers.in/product/graphics-card/msi-rtx-5050-8g-shadow-2x-graphics-card-g5050-8s2c,47599
+2026-10-25,GPU,RTX 3060 12GB,Gigabyte,Gigabyte RTX 3060 Windforce OC 12GB Graphics Card,https://mdcomputers.in/product/gigabyte-windforce-graphics-card-gv-n3060wf2oc-12gd/graphics-card,54680
+2026-10-25,GPU,RTX 5060,Msi,MSI RTX 5060 Ventus 2X OC V1 8GB GDDR7 Graphics Card,https://mdcomputers.in/product/graphics-card/msi-rtx-5060-ventus-2x-oc-v1-graphics-card-g5060-8v2cv1,59500
+2026-10-25,GPU,RTX 5060,Gigabyte,Gigabyte RTX 5060 Windforce OC 8GB GDDR7 Graphics Card,https://mdcomputers.in/product/gigabyte-windforce-graphics-card-gv-n5060wf2oc-8gd/graphics-card,62700
+2026-10-25,GPU,RX 9060 XT 16GB,Asrock,ASRock RX 9060 XT Challenger OC 16GB GDDR6 Graphics Card,https://mdcomputers.in/product/asrock-challenger-graphics-card-rx9060xt-cl-16go/graphics-card,69105
+2026-10-25,GPU,RX 9060 XT 16GB,Gigabyte,Gigabyte RX 9060 XT Gaming OC 16GB GDDR6 Graphics Card,https://mdcomputers.in/product/gigabyte-gaming-graphics-card-gv-r9060xtgaming-oc-16gd/graphics-card,70309
+2026-10-25,GPU,RX 9060 XT 16GB,Asus,ASUS Prime RX 9060 XT OC Edition 16GB GDDR6 Graphics Card,https://mdcomputers.in/product/asus-prime-graphics-card-rx9060xt-o16g/graphics-card,71512
+2026-10-25,GPU,RTX 5060 Ti 8GB,Asus,Asus T1 RTX 5060 Ti OC 8GB GDDR7 Graphics Card,https://mdcomputers.in/product/asus-t1-graphics-card-rtx5060ti-o8g-gaming/graphics-card,73632
+2026-10-25,GPU,RTX 5060 Ti 16GB,Asus,ASUS Dual RTX 5060 Ti OC Edition 16GB GDDR7 Graphics Card,https://mdcomputers.in/product/asus-dual-graphics-card-rtx5060ti-o16g/graphics-card,102806
+2026-10-25,GPU,RX 9070 XT,Asrock,Asrock RX 9070 XT Challenger 16GB GDDR6 Graphics Card,https://mdcomputers.in/product/asrock-challenger-graphics-card-rx9070xt-cl-16g/graphics-card,105213
+2026-10-25,GPU,RTX 5060 Ti 16GB,Msi,MSI RTX 5060 Ti Shadow 2X OC Plus 16GB GDDR7 Graphics Card,https://mdcomputers.in/product/graphics-card/msi-rtx-5060-ti-shadow-2x-oc-plus-graphics-card-g506t-16s2cp,107999
+2026-10-25,GPU,RX 9070 XT,Asrock,Asrock RX 9070 XT Steel Legend Dark 16GB GDDR6 Graphics Card,https://mdcomputers.in/product/asrock-steel-legend-graphics-card-rx9070xt-sld-16g/graphics-card,108824
+2026-10-25,GPU,RTX 5060 Ti 16GB,Msi,MSI RTX 5060 Ti Ventus 2X OC Plus 16GB GDDR7 Graphics Card,https://mdcomputers.in/product/graphics-card/msi-rtx-5060-ti-ventus-2x-oc-graphics-card-g506t-16v2cp,108999
+2026-10-25,GPU,RX 9070 XT,Asrock,ASRock RX 9070 XT Steel Legend 16GB GDDR6 Graphics Card,https://mdcomputers.in/product/asrock-steel-legend-graphics-card-rx9070xt-sl-16g/graphics-card,112435
+2026-10-25,GPU,RTX 5080,Inno3D,INNO3D RTX 5080 X3 16GB GDDR7 SFF Graphics Card,https://mdcomputers.in/product/graphics-card/inno3d-graphics-card-rtx-5080-x3-n50803-16d7-376068n,241220
+2026-10-25,GPU,RTX 5080,Pny,PNY RTX 5080 ARGB OC 16GB GDDR7 Graphics Card,https://mdcomputers.in/product/graphics-card/pny-rtx-5080-argb-oc-graphics-card-vcg508016tfxxpb1-o,241220
+2026-10-25,GPU,RTX 5080,Gigabyte,Gigabyte RTX 5080 WindForce OC SFF 16GB GDDR7 Graphics Card,https://mdcomputers.in/product/gigabyte-windforce-graphics-card-gv-n5080wf3oc-16gd/graphics-card,253256
+2026-10-25,GPU,RTX 5080,Zotac,Zotac Gaming RTX 5080 Solid Core 16GB GDDR7 Graphics Card,https://mdcomputers.in/product/graphics-card/zotac-rtx-5080-solid-core-graphics-card-zt-b50800d2-10p,249999
+2026-10-25,GPU,RTX 5080,Asus,Asus ProArt RTX 5080 OC 16GB GDDR7 Graphics Card,https://mdcomputers.in/product/asus-proart-graphics-card-rtx5080-o16g/graphics-card,265292
+2026-10-25,GPU,RTX 5080,Asus,ASUS Prime RTX 5080 EVO OC 16GB GDDR7 Graphics Card,https://mdcomputers.in/product/asus-prime-graphics-card-rtx5080-o16g-evo/graphics-card,265292
+2026-10-25,GPU,RTX 5080,Asus,ASUS Prime RTX 5080 OC 16GB GDDR7 Graphics Card,https://mdcomputers.in/product/asus-prime-graphics-card-rtx5080-o16g/graphics-card,265292
+2026-10-25,GPU,RTX 5080,Gigabyte,Gigabyte RTX 5080 Gaming OC 16GB GDDR7 Graphics Card,https://mdcomputers.in/product/gigabyte-gaming-graphics-card-gv-n5080gaming-oc-16gd/graphics-card,265292
+2026-10-25,GPU,RTX 5080,Msi,MSI RTX 5080 Ventus 3X OC 16GB GDDR7 Graphics Card,https://mdcomputers.in/product/graphics-card/msi-ventus-3x-oc-graphics-card-g5080-16v3c,265292
+2026-10-25,GPU,RTX 5080,Zotac,Zotac RTX 5080 Solid Core OC 16GB GDDR7 Graphics Card,https://mdcomputers.in/product/graphics-card/zotac-rtx-5080-solid-core-oc-graphics-card-zt-b50800j2-10p,265292
+2026-10-25,GPU,RTX 5080,Gigabyte,Gigabyte RTX 5080 Aero OC SFF 16GB GDDR7 Graphics Card,https://mdcomputers.in/product/gigabyte-aero-graphics-card-gv-n5080aero-oc-16gd/graphics-card,277328
+2026-10-25,GPU,RTX 5080,Msi,MSI RTX 5080 Gaming Trio OC 16GB GDDR7 Graphics Card,https://mdcomputers.in/product/graphics-card/msi-gaming-trio-oc-graphics-card-g5080-16gtc,250000
+2026-10-25,GPU,RTX 5080,Zotac,Zotac Gaming RTX 5080 Solid OC White 16GB GDDR7 Graphics Card,https://mdcomputers.in/product/graphics-card/zotac-rtx-5080-solid-oc-white-graphics-card-zt-b50800q-10p,277328
+2026-10-25,GPU,RTX 5080,Msi,MSI RTX 5080 Inspire 3X OC 16GB GDDR7 Graphics Card,https://mdcomputers.in/product/graphics-card/msi-inspire-graphics-card-rtx-5080-3x-oc-16g,289364
+2026-10-25,GPU,RTX 5090,Inno3D,Inno3d RTX 5090 X3 OC 32GB GDDR7 Graphics Card,https://mdcomputers.in/product/graphics-card/inno3d-rtx5090-x3-oc-graphics-card-n50903-32d7x-37593928,903200
+2026-10-25,GPU,RTX 5090,Msi,MSI RTX 5090 Ventus 3X OC 32GB GDDR7 Graphics Card,https://mdcomputers.in/product/graphics-card/msi-ventus-3x-oc-graphics-card-g5090-32v3c,933290
+2026-10-25,GPU,RTX 5090,Asus,ASUS ROG Astral RTX 5090 OC 32GB GDDR7 Graphics Card,https://mdcomputers.in/product/asus-rog-astral-graphics-card-rtx5090-o32g-gaming/graphics-card,963380
+2026-10-25,GPU,RTX 5090,Msi,MSI RTX 5090 Gaming Trio OC 32GB GDDR7 Graphics Card,https://mdcomputers.in/product/graphics-card/msi-rtx-5090-gaming-trio-oc-graphics-card-g5090-32gtc,963380
+2026-10-25,GPU,RTX 5090,Zotac,Zotac Gaming RTX 5090 Solid OC 32GB GDDR7 Graphics Card,https://mdcomputers.in/product/graphics-card/zotac-rtx-5090-solid-oc-graphics-card-zt-b50900j-10p,963380
+2026-10-25,GPU,RTX 5090,Asus,Asus ROG Astral RTX 5090 OC Edition 20 32GB GDDR7 Graphics Card With Curved AMOLED Display,https://mdcomputers.in/product/asus-rog-astral-graphics-card-rtx5090-p32g-edition-20/graphics-card,993470
+2026-10-25,GPU,RTX 5090,Msi,MSI RTX 5090 Suprim SOC 32GB GDDR7 Graphics Card,https://mdcomputers.in/product/graphics-card/msi-rtx-5090-suprim-soc-graphics-card-g5090-32sps,993470
+2026-10-25,Motherboard,B650 ATX,Msi,MSI MPG B650 Edge WIFI ATX Motherboard,https://mdcomputers.in/product/motherboard/msi-mpg-b650-edge-wifi-motherboard,22250
+2026-10-25,Motherboard,B650 ATX,Msi,MSI MPG B650 Edge WIFI ATX Motherboard,https://mdcomputers.in/product/motherboard/amd-chipset-motherboard/msi-mpg-b650-edge-wifi-motherboard,22250
+2026-10-25,RAM,DDR5 16GB 5600,Crucial,Crucial 16GB 5600MHz CL46 DDR5 RAM,https://mdcomputers.in/product/crucial-ram-ct16g56c46u5/ram/desktop-ram,24880
+2026-10-25,RAM,DDR5 16GB 5200,Corsair,Corsair Vengeance 16GB 5200MHz CL40 DDR5 RAM,https://mdcomputers.in/product/corsair-vengeance-16gb-ddr5-5200mhz-cmk16gx5m1b5200c40/ram/desktop-ram,27090
+2026-10-25,RAM,DDR5 16GB 6000,Corsair,Corsair Vengeance 16GB 6000MHz CL36 DDR5 RAM,https://mdcomputers.in/product/corsair-ram-vengeance-16gb-cmk16gx5m1e6000z36/ram/desktop-ram,28999
+2026-10-25,RAM,DDR5 16GB 6000,G.Skill,G.Skill Flare X5 16GB 6000MHz CL30 DDR5 RAM,https://mdcomputers.in/product/gskill-ram-flare-x5-16gb-ddr5-f5-6000j3038f16gh1-fx5/ram/desktop-ram,31444
+2026-10-25,RAM,DDR5 16GB 6000,G.Skill,G.Skill Trident Z5 Neo RGB 16GB 6000MHz CL30 DDR5 RAM,https://mdcomputers.in/product/gskill-trident-z5-neo-rgb-16gb-ddr5-f5-6000j3038f16gh1-tz5nr/ram/desktop-ram,32286
+2026-10-25,RAM,DDR5 16GB 6000,Kingston,Kingston Fury Beast 16GB 6000MHz CL36 DDR5 RAM,https://mdcomputers.in/product/kingston-ram-fury-beast-16gb-ddr5-kf560c36bbe2-16/ram/desktop-ram,33680
+2026-10-25,RAM,DDR5 32GB 5200,G.Skill,G.Skill Ripjaws S5 32GB 5200MHz CL40 DDR5 RAM,https://mdcomputers.in/product/g-skill-ram-ripjaws-s5-32gb-f5-5200j4040a32gx1-rs5k/ram/desktop-ram,52880
+2026-10-25,RAM,DDR5 32GB 5600,G.Skill,G.Skill Ripjaws S5 Matte Black 32GB 5600MHz CL36 DDR5 RAM,https://mdcomputers.in/product/g-skill-ram-ripjaws-s5-32gb-ddr5-f5-5600j3636d32gx1-rs5k/ram/desktop-ram,53180
+2026-10-25,RAM,DDR5 32GB kit 6000,G.Skill,G.Skill Flare X5 32GB(16GBx2) 6000MHz CL30 DDR5 RAM,https://mdcomputers.in/product/gskill-ram-flare-x5-32gb-ddr5-f5-6000j3038f16gh2-fx5/ram/desktop-ram,62738
+2026-10-25,RAM,DDR5 32GB kit 6000,G.Skill,G.Skill Trident Z5 Neo RGB 32GB(16GBx2) 6000MHz CL30 DDR5 RAM,https://mdcomputers.in/product/g-skill-ram-32gb-ddr5-f5-6000j3038f16gh2-tz5nr/ram/desktop-ram,65144
+2026-10-25,RAM,DDR5 32GB kit 6000,Teamgroup,TEAMGROUP T-Create Expert DDR5 32GB (16GB x 2) 6000MHz CL30 RAM,https://mdcomputers.in/product/ram/desktop-ram/teamgroup-ram-expert-ddr5-32gb-ctced532g6000hc30dc01,66699
+2026-10-25,RAM,DDR5 32GB kit 6000,Teamgroup,TeamGroup T-Create Expert DDR5 White 32GB (16GB x 2) 6000MHz CL30 RAM,https://mdcomputers.in/product/ram/desktop-ram/teamgroup-ram-expert-ddr5-32gb-white-ctcwd532g6000hc30dc01,66699
+2026-10-25,RAM,DDR5 32GB kit 6000,Teamgroup,TEAMGROUP Delta RGB DDR5 White 32GB (16GB x 2) 6000MHz CL30 RAM,https://mdcomputers.in/product/ram/desktop-ram/teamgroup-ram-delta-rgb-32gb-white-ff4d532g6000hc30dc01,66999
+2026-10-25,SSD,500GB Gen4,Wd,WD Blue SN5100 NVMe 500GB Gen4 SSD,https://mdcomputers.in/product/wd-blue-sn5100-500gb-nvme-ssd-wds500g5b0e,10999
+2026-10-25,SSD,2000GB Gen5,Crucial,Crucial P510 2TB NVMe Gen5 SSD,https://mdcomputers.in/product/crucial-p510-2tb-nvme-ssd-ct2000p510ssd8,39299
+2026-10-25,SSD,1000GB Gen4,Corsair,CORSAIR MP600 PRO NH 1TB M.2 NVMe Gen4 SSD,https://mdcomputers.in/product/corsair-mp600-pro-nh-1tb-nvme-ssd-cssd-f1000gbmp600pnh,17990
+2026-10-25,SSD,4000GB Gen4,Samsung,Samsung 990 Pro 4TB M.2 NVMe Gen4 SSD,https://mdcomputers.in/product/samsung-990-pro-4tb-nvme-ssd-mz-v9p4t0bw/storage/ssd-drive,80480
+2026-10-25,SSD,256GB Gen3,Consistent,Consistent S7 256GB NVMe Gen3 SSD,https://mdcomputers.in/product/consistent-s7-256gb-nvme-ssd/storage/ssd-drive,5490
+2026-10-25,SSD,512GB Gen3,Miphi,MiPhi MP300G3 NVMe 512GB Gen3 SSD,https://mdcomputers.in/product/miphi-mp300g3-512gb-nvme-ssd-mp5015512g/storage/ssd-drive,8250
+2026-10-25,SSD,512GB Gen4,Miphi,MiPhi MP500G4 NVMe 512GB Gen4 SSD,https://mdcomputers.in/product/miphi-mp500g4-512gb-nvme-ssd-mp5021512g/storage/ssd-drive,8675
+2026-10-25,SSD,480GB Gen4,Crucial,Crucial E100 480GB NVMe Gen4 SSD,https://mdcomputers.in/product/crucial-e100-480gb-nvme-ssd-ct480e100ssd8/storage/ssd-drive,8900
+2026-10-25,SSD,1000GB SATA,Miphi,MiPhi MP100 1TB SATA SSD,https://mdcomputers.in/product/miphi-mp100-1tb-sata-ssd-mp311100t/storage/ssd-drive,11705
+2026-10-25,SSD,1000GB Gen3,Miphi,MiPhi MP300G3 NVMe 1TB Gen3 SSD,https://mdcomputers.in/product/miphi-mp300g3-1tb-nvme-ssd-mp5015100t/storage/ssd-drive,13000
+2026-10-25,SSD,1000GB Gen4,Miphi,MiPhi MP700G4 NVMe 1TB Gen4 SSD,https://mdcomputers.in/product/miphi-mp700g4-1tb-nvme-ssd-mp5018100t/storage/ssd-drive,14599
+2026-10-25,SSD,1000GB Gen4,Crucial,Crucial E100 1TB NVMe Gen4 SSD,https://mdcomputers.in/product/crucial-e100-1tb-nvme-ssd-ct1000e100ssd8/storage/ssd-drive,16000
+2026-10-25,SSD,2000GB Gen4,Miphi,MiPhi MP500G4 NVMe 2TB Gen4 SSD,https://mdcomputers.in/product/miphi-mp500g4-2tb-nvme-ssd-mp5021200t/storage/ssd-drive,25426
+2026-10-25,SSD,2000GB Gen4,Miphi,MiPhi MP700G4 NVMe 2TB Gen4 SSD,https://mdcomputers.in/product/miphi-mp700g4-2tb-nvme-ssd-mp5018200t/storage/ssd-drive,26127
+2026-10-25,SSD,4000GB Gen4,Wd,WD Black SN7100 4TB NVMe Gen4 SSD,https://mdcomputers.in/product/storage/ssd-drive/wd-black-sn7100-4tb-nvme-ssd-wds400t4x0e,60500
+2026-10-25,CPU Cooler,Air,Cooler,Cooler Master V8 ACE 3DHP 120mm Intel CPU Air Cooler,https://mdcomputers.in/product/cooler-master-v8-ace-3dhp-intel-cpu-air-cooler-mam-t6hp-225pk-rb/cpu-cooler,10000
+2026-10-25,Case,Mid Tower ATX,Ant,Ant Esports Si26 ATX Mid Tower Case,https://mdcomputers.in/product/ant-esports-si26-mid-tower-cabinet/cabinet,2300
+2026-10-25,Case,Mid Tower ATX,Dawg,Dawg V 210 White ATX Mid Tower Case,https://mdcomputers.in/product/cabinet/dawg-v210-white-mid-tower-cabinet,2999
+2026-10-25,Case,Mini Tower M-ATX,Cooler,Cooler Master QUBE 340 M-ATX Mini Tower Case,https://mdcomputers.in/product/cabinet/cooler-master-qube-340-mini-tower-cabinet-q340-kgnn-s00,4800
+2026-10-25,Case,Full Tower E-ATX,Fractal,Fractal Design Define 7 XL Solid E-ATX Full Tower Case,https://mdcomputers.in/product/cabinet/fractal-design-define-7-xl-full-tower-cabinet-fd-c-def7x-01,29600
+2026-10-25,Case,Mini Tower ITX,Cooler,Cooler Master Ncore 100 Max Bronze M-ITX Mini Tower Case,https://mdcomputers.in/product/cabinet/cooler-master-ncore-max-mini-tower-cabinet-nr100-znnn85-sl0,30000
+2026-10-25,Case,Full Tower E-ATX,Fractal,Fractal Design Define 7 XL Dark E-ATX Full Tower Case,https://mdcomputers.in/product/cabinet/fractal-design-define-7-xl-dark-full-tower-cabinet-fd-c-def7x-03,30900
+2026-10-25,Case,Mid Tower E-ATX,Fractal,Fractal Design Meshify 3 Ambience Pro RGB TG Light Tint E-ATX Mid Tower Case,https://mdcomputers.in/product/cabinet/fractal-design-meshify-3-ambience-pro-tg-cabinet-fd-c-mes3a-03,31850
+2026-10-25,Case,Mid Tower E-ATX,Fractal,Fractal Design Torrent TG Light Tint RGB E-ATX Mid Tower Case,https://mdcomputers.in/product/cabinet/fractal-design-torrent-mid-tower-cabinet-fd-c-tor1a-04,32600
+2026-10-25,Case,Mid Tower E-ATX,Corsair,Corsair Frame 4000D LCD RS ARGB Premium E-ATX Mid Tower Case,https://mdcomputers.in/product/cabinet/corsair-frame-4000d-lcd-rs-mid-tower-cabinet-cc-9011326-ww,32700
+2026-10-25,Case,Mid Tower E-ATX,Asus,Asus ROG Strix Helios II E-ATX Mid Tower Case,https://mdcomputers.in/product/asus-rog-strix-helios-ii-mid-tower-cabinet/cabinet,33000
