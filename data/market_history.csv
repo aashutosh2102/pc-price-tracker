@@ -659,3 +659,54 @@ date,category,key,brand,name,url,price
 2026-10-27,Case,Mid Tower ATX,Msi,MSI MAG PANO 100R PZ ARGB ATX Black Mid Tower Case,https://mdcomputers.in/product/cabinet/msi-mag-pano-100r-pz-mid-tower-cabinet,13300
 2026-10-27,Case,Mid Tower E-ATX,Corsair,Corsair Frame 5000D RS ARGB E-ATX Mid Tower Case,https://mdcomputers.in/product/cabinet/corsair-frame-5000d-rs-black-mid-tower-cabinet-cc-9011309-ww,18700
 2026-10-27,Case,Mid Tower E-ATX,Cooler,Cooler Master MasterFrame 600 E-ATX Mid Tower Case,https://mdcomputers.in/product/cabinet/cooler-master-masterframe-600-mid-tower-cabinet-mf600-kgnn-s00,18999
+2026-10-28,GPU,RX 7600,Asus,ASUS Dual RX 7600 EVO OC 8GB GDDR6 Graphics Card,https://mdcomputers.in/product/asus-dual-graphics-card-rx7600-o8g-evo/graphics-card,47440
+2026-10-28,GPU,RX 7600,Gigabyte,Gigabyte RX 7600 Gaming OC 8GB Graphics Card,https://mdcomputers.in/product/gigabyte-gaming-graphics-card-gv-r76gaming-oc-8gd/graphics-card,48644
+2026-10-28,GPU,RX 9070,Asrock,ASRock RX 9070 Challenger 16GB GDDR6 Graphics Card,https://mdcomputers.in/product/asrock-challenger-graphics-card-rx9070-cl-16g/graphics-card,90000
+2026-10-28,GPU,RTX 5060 Ti 16GB,Asus,ASUS Dual RTX 5060 Ti OC Edition 16GB GDDR7 Graphics Card,https://mdcomputers.in/product/asus-dual-graphics-card-rtx5060ti-o16g/graphics-card,105213
+2026-10-28,GPU,RTX 5070,Asus,ASUS Prime RTX 5070 OC 12GB GDDR7 Graphics Card,https://mdcomputers.in/product/asus-prime-graphics-card-rtx5070-o12g/graphics-card,120860
+2026-10-28,Motherboard,H610 mATX,Asrock,ASRock H610M-X D5 M-ATX Motherboard,https://mdcomputers.in/product/asrock-h610m-x-d5-motherboard/motherboard,5799
+2026-10-28,Motherboard,B760 mATX,Msi,MSI Pro B760M-E Motherboard,https://mdcomputers.in/product/motherboard/msi-pro-b760m-e-motherboard,8999
+2026-10-28,Motherboard,B760 mATX,Asus,Asus Prime B760M-A DDR5 M-ATX Motherboard,https://mdcomputers.in/product/asus-prime-b760m-a-motherboard/motherboard,13050
+2026-10-28,Motherboard,B650 mATX,Msi,MSI B650M Gaming Plus WIFI M-ATX Motherboard,https://mdcomputers.in/product/motherboard/msi-b650m-gaming-plus-wifi-motherboard,16100
+2026-10-28,Motherboard,Z790 ATX,Msi,MSI Pro Z790-A WiFi 6E II ATX Motherboard,https://mdcomputers.in/product/motherboard/msi-pro-z790-a-wifi-ii-motherboard,26799
+2026-10-28,Motherboard,X870E ATX,Msi,MSI MAG X870E Gaming PLUS MAX Wifi7 ATX Motherboard,https://mdcomputers.in/product/motherboard/msi-mag-x870e-gaming-plus-max-wifi-motherboard,30650
+2026-10-28,Motherboard,B850 ATX,Gigabyte,Gigabyte B850 Aorus Stealth Ice WIFI7 ATX Motherboard,https://mdcomputers.in/product/gigabyte-b850-aorus-stealth-ice-wifi7-motherboard/motherboard,30999
+2026-10-28,Motherboard,X870E ATX,Msi,MSI MAG X870E Tomahawk MAX WIFI7 ATX Motherboard,https://mdcomputers.in/product/motherboard/msi-mag-x870e-tomahawk-max-wifi-motherboard,37550
+2026-10-28,Motherboard,B650 mATX,Msi,MSI B650M Gaming Plus WIFI M-ATX Motherboard,https://mdcomputers.in/product/motherboard/amd-chipset-motherboard/msi-b650m-gaming-plus-wifi-motherboard,16100
+2026-10-28,Motherboard,X870E ATX,Msi,MSI MAG X870E Gaming PLUS MAX Wifi7 ATX Motherboard,https://mdcomputers.in/product/motherboard/amd-chipset-motherboard/msi-mag-x870e-gaming-plus-max-wifi-motherboard,30650
+2026-10-28,Motherboard,B850 ATX,Gigabyte,Gigabyte B850 Aorus Stealth Ice WIFI7 ATX Motherboard,https://mdcomputers.in/product/gigabyte-b850-aorus-stealth-ice-wifi7-motherboard/motherboard/amd-chipset-motherboard,30999
+2026-10-28,RAM,DDR4 8GB 3200,Corsair,Corsair Vengeance LPX 8GB 3200MHz CL16 DDR4 RAM,https://mdcomputers.in/product/corsair-ram-vengeance-lpx-8gb-ddr4-cmk8gx4m1e3200c16/ram/desktop-ram,7730
+2026-10-28,RAM,DDR5 32GB 6000,Kingston,Kingston Fury Beast 32GB 6000MHz CL36 DDR5 RAM,https://mdcomputers.in/product/kingston-ram-fury-beast-32gb-ddr5-kf560c36bbe2-32/ram/desktop-ram,60680
+2026-10-28,SSD,1000GB Gen4,Samsung,Samsung 990 NVMe 1TB M.2 Gen4 SSD,https://mdcomputers.in/product/samsung-990-1tb-nvme-ssd-mz-v9v1t0bw,20860
+2026-10-28,SSD,1000GB Gen4,Corsair,CORSAIR MP600 PRO NH 1TB M.2 NVMe Gen4 SSD,https://mdcomputers.in/product/corsair-mp600-pro-nh-1tb-nvme-ssd-cssd-f1000gbmp600pnh,17950
+2026-10-28,SSD,128GB Gen3,Consistent,Consistent S7 128GB NVMe Gen3 SSD,https://mdcomputers.in/product/consistent-s7-128gb-nvme-ssd,2860
+2026-10-28,SSD,2000GB Gen5,Wd,WD Black SN8100 2TB NVMe Gen5 SSD,https://mdcomputers.in/product/storage/ssd-drive/wd-black-sn8100-2tb-nvme-ssd-wds200t1x0m,52480
+2026-10-28,SSD,1000GB Gen4,Samsung,Samsung 990 NVMe 1TB M.2 Gen4 SSD,https://mdcomputers.in/product/samsung-990-1tb-nvme-ssd-mz-v9v1t0bw/storage/ssd-drive,20860
+2026-10-28,SSD,1000GB Gen4,Corsair,CORSAIR MP600 PRO NH 1TB M.2 NVMe Gen4 SSD,https://mdcomputers.in/product/corsair-mp600-pro-nh-1tb-nvme-ssd-cssd-f1000gbmp600pnh/storage/ssd-drive,17950
+2026-10-28,SSD,500GB Gen4,Wd,WD Black SN7100 NVMe 500GB Gen4 SSD,https://mdcomputers.in/product/storage/ssd-drive/wd-black-sn7100-500gb-nvme-ssd-wds500g4x0e,13199
+2026-10-28,SSD,4000GB Gen4,Samsung,Samsung 990 Pro 4TB M.2 NVMe Gen4 SSD,https://mdcomputers.in/product/samsung-990-pro-4tb-nvme-ssd-mz-v9p4t0bw/storage/ssd-drive,79590
+2026-10-28,SSD,512GB SATA,Consistent,Consistent 512GB Internal SSD,https://mdcomputers.in/product/consistent-512gb-ssd-ctssd512s6/storage/ssd-drive,5940
+2026-10-28,SSD,256GB NVMe,Adata,Adata Legend 710 Blue 256GB M.2 NVMe SSD,https://mdcomputers.in/product/adata-legend-710-256gb-nvme-ssd-aleg-710-256gcs/storage/ssd-drive,5960
+2026-10-28,SSD,512GB Gen3,Evm,EVM 512GB NVMe Gen3 SSD,https://mdcomputers.in/product/evm-512gb-nvme-ssd/storage/ssd-drive,7790
+2026-10-28,SSD,480GB Gen4,Crucial,Crucial E100 480GB NVMe Gen4 SSD,https://mdcomputers.in/product/crucial-e100-480gb-nvme-ssd-ct480e100ssd8/storage/ssd-drive,8980
+2026-10-28,SSD,1000GB Gen4,Crucial,Crucial E100 1TB NVMe Gen4 SSD,https://mdcomputers.in/product/crucial-e100-1tb-nvme-ssd-ct1000e100ssd8/storage/ssd-drive,15460
+2026-10-28,SSD,1000GB Gen4,Adata,Adata XPG Gammix S60 1TB M.2 NVMe Gen4 Internal SSD,https://mdcomputers.in/product/adata-xpg-gammix-s60-1tb-nvme-ssd-agammixs60-1t-cs/storage/ssd-drive,15560
+2026-10-28,SSD,1000GB Gen4,Wd,WD Black SN7100 NVMe 1TB Gen4 SSD,https://mdcomputers.in/product/storage/ssd-drive/wd-black-sn7100-1tb-nvme-ssd-wds100t4x0e,18700
+2026-10-28,SSD,1000GB Gen4,Adata,Adata XPG Gammix S70 Blade 1TB M.2 NVMe Gen4 Internal SSD,https://mdcomputers.in/product/adata-xpg-gammix-s70-blade-nvme-ssd-agammixs70b-1t-cs/storage/ssd-drive,20790
+2026-10-28,SSD,1000GB NVMe,Samsung,SAMSUNG 990 EVO Plus 1TB M.2 NVMe SSD,https://mdcomputers.in/product/samsung-990-evo-plus-1tb-nvme-ssd-mz-v9s1t0bw/storage/ssd-drive,23660
+2026-10-28,SSD,1000GB Gen5,Samsung,Samsung 9100 PRO 1TB NVMe Gen5 SSD,https://mdcomputers.in/product/samsung-9100-pro-1tb-nvme-ssd-mz-vap1t0bw/storage/ssd-drive,28580
+2026-10-28,CPU Cooler,Air,Cooler,Cooler Master Hyper 212 Spectrum V3 ARGB CPU Air Cooler,https://mdcomputers.in/product/cooler-master-hyper-212-spectrum-cpu-air-cooler-rr-s4na-17pa-r1/cpu-cooler,1950
+2026-10-28,CPU Cooler,Liquid,Cougar,Cougar Poseidon Vistek 240mm ARGB White CPU Liquid Cooler with Digital Display,https://mdcomputers.in/product/cougar-poseidon-vistek-cpu-liquid-cooler-cgr-psdvargb-w-240/cpu-cooler,7050
+2026-10-28,CPU Cooler,Air,Deepcool,Deepcool AK700 VC 120mm CPU Air Cooler,https://mdcomputers.in/product/cpu-cooler/deepcool-ak700-vc-cpu-air-cooler,7100
+2026-10-28,CPU Cooler,Liquid,Msi,MSI MAG Coreliquid A15 360mm ARGB CPU Liquid Cooler,https://mdcomputers.in/product/cpu-cooler/msi-mag-coreliquid-a15-360mm-liquid-cooler,8950
+2026-10-28,CPU Cooler,Liquid,Cougar,Cougar Poseidon Vistek Pro 360mm ARGB White CPU Liquid Cooler with LCD Display,https://mdcomputers.in/product/cougar-poseidon-vistek-pro-cpu-liquid-cooler-cgr-psdvprgb-w-360/cpu-cooler,11799
+2026-10-28,Power Supply,650W Bronze,Corsair,Corsair CX650 80 Plus Bronze SMPS,https://mdcomputers.in/product/corsair-cx650-bronze-smps-cp-9020278-na/smps,5250
+2026-10-28,Power Supply,750W Unrated,Thermaltake,Thermaltake Toughpower GT 750 Watt ATX 3.1 Fully Modular SMPS,https://mdcomputers.in/product/smps/thermaltake-toughpower-gt-750w-gold-atx-3-1-smps,8150
+2026-10-28,Power Supply,850W Gold,Thermaltake,Thermaltake ToughPower GF A3 Snow Gold 850 Watt ATX 3.1 Fully Modular SMPS,https://mdcomputers.in/product/smps/thermaltake-toughpower-gf-a3-snow-850w-gold-modular-smps,9950
+2026-10-28,Power Supply,1250W Gold,Cooler,Cooler Master MWE Gold 1250 Watt V2 ATX 3.1 Fully Modular Smps,https://mdcomputers.in/product/cooler-master-mwe-gold-1250-v2-modular-smps-mpe-c501-afcag-3ein/smps,21000
+2026-10-28,Case,Mid Tower ATX,Cougar,Cougar Airface Pure RGB ATX Mid Tower Case,https://mdcomputers.in/product/cabinet/cougar-airface-pure-mid-tower-cabinet-cgr-2ga5b-rgb,3830
+2026-10-28,Case,Mini Tower M-ATX,Cougar,Cougar FV150 Mini M-ATX Mini Tower Case,https://mdcomputers.in/product/cabinet/cougar-fv150-mini-cabinet-cgr-2qa6b-rgb,4200
+2026-10-28,Case,Mini Tower M-ATX,Msi,MSI PRO FORGE M051R ARGB M-ATX Mini Tower Case,https://mdcomputers.in/product/cabinet/msi-pro-forge-m051r-mini-tower-cabinet,4300
+2026-10-28,Case,Mini Tower M-ATX,Cougar,Cougar FV150 Mini White M-ATX Mini Tower Case,https://mdcomputers.in/product/cabinet/cougar-fv150-mini-white-cabinet-cgr-2qa6w-rgb,4550
+2026-10-28,Case,Mid Tower,Cougar,Cougar CFV235 ARGB White CEB Mid Tower Case,https://mdcomputers.in/product/cabinet/cougar-cfv235-white-mid-tower-cabinet-cgr-2da4w,10700
+2026-10-28,Case,Mid Tower ATX,Cougar,Cougar Omnyx ARGB ATX Mid Tower Case,https://mdcomputers.in/product/cabinet/cougar-omnyx-mid-tower-cabinet-cgr-2wa3b-rgb,12880
