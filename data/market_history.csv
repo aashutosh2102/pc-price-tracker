@@ -710,3 +710,74 @@ date,category,key,brand,name,url,price
 2026-10-28,Case,Mini Tower M-ATX,Cougar,Cougar FV150 Mini White M-ATX Mini Tower Case,https://mdcomputers.in/product/cabinet/cougar-fv150-mini-white-cabinet-cgr-2qa6w-rgb,4550
 2026-10-28,Case,Mid Tower,Cougar,Cougar CFV235 ARGB White CEB Mid Tower Case,https://mdcomputers.in/product/cabinet/cougar-cfv235-white-mid-tower-cabinet-cgr-2da4w,10700
 2026-10-28,Case,Mid Tower ATX,Cougar,Cougar Omnyx ARGB ATX Mid Tower Case,https://mdcomputers.in/product/cabinet/cougar-omnyx-mid-tower-cabinet-cgr-2wa3b-rgb,12880
+2026-10-29,CPU,Core i9-14900KS,Intel,Intel Core i9-14900KS Desktop Processor,https://mdcomputers.in/product/intel-i9-14900ks-bx8071514900ks-desktop-processor/processor,86500
+2026-10-29,GPU,RTX 5060,Zotac,ZOTAC Gaming RTX 5060 Twin Edge 8GB GDDR7 Graphics Card,https://mdcomputers.in/product/graphics-card/zotac-rtx-5060-twin-edge-graphics-card-zt-b50600e-10m,57069
+2026-10-29,GPU,RX 9060 XT 16GB,Asrock,ASRock RX 9060 XT Challenger OC 16GB GDDR6 Graphics Card,https://mdcomputers.in/product/asrock-challenger-graphics-card-rx9060xt-cl-16go/graphics-card,72716
+2026-10-29,GPU,RX 9070,Asrock,ASRock RX 9070 Challenger 16GB GDDR6 Graphics Card,https://mdcomputers.in/product/asrock-challenger-graphics-card-rx9070-cl-16g/graphics-card,90770
+2026-10-29,GPU,RTX 2000,Nvidia,NVIDIA Quadro RTX 2000 Ada Generation 16GB Graphics Card,https://mdcomputers.in/product/graphics-card/nvidia-quadro-graphics-card-900-5g192-2541-000,106417
+2026-10-29,GPU,RTX 5060 Ti 16GB,Asus,ASUS Prime RTX 5060 Ti OC 16GB GDDR7 Graphics Card,https://mdcomputers.in/product/asus-prime-graphics-card-rtx5060ti-o16g/graphics-card,111231
+2026-10-29,GPU,RTX 5060 Ti 16GB,Zotac,Zotac RTX 5060 Ti Twin Edge OC White 16GB GDDR7 Graphics Card,https://mdcomputers.in/product/graphics-card/zotac-rtx-5060-ti-twin-edge-oc-graphics-card-zt-b50620q-10m,114842
+2026-10-29,GPU,RTX 5070,Pny,PNY RTX 5070 Slim OC 12GB GDDR7 Graphics Card,https://mdcomputers.in/product/graphics-card/pny-rtx-5070-slim-oc-graphics-card-vcg507012dfsxpb1-o,114999
+2026-10-29,GPU,RTX 5070,Pny,PNY RTX 5070 OC 12GB GDDR7 Graphics Card,https://mdcomputers.in/product/graphics-card/pny-rtx-5070-oc-graphics-card-vcg507012tfxpb1-o,115699
+2026-10-29,GPU,RTX 5070,Zotac,Zotac RTX 5070 Twin Edge 12GB GDDR7 Graphics Card,https://mdcomputers.in/product/graphics-card/zotac-rtx-5070-twin-edge-graphics-card-zt-b50700e-10p,117850
+2026-10-29,GPU,RTX 5070,Zotac,Zotac RTX 5070 Twin Edge OC 12GB GDDR7 Graphics Card,https://mdcomputers.in/product/graphics-card/zotac-rtx-5070-twin-edge-oc-graphics-card-zt-b50700h-10p,119200
+2026-10-29,GPU,RTX 5070,Zotac,Zotac Gaming RTX 5070 Solid OC 12GB GDDR7 Graphics Card,https://mdcomputers.in/product/graphics-card/zotac-rtx-5070-solid-oc-graphics-card-zt-b50700j-10p,120860
+2026-10-29,GPU,RTX 5070 Ti,Gigabyte,Gigabyte RTX 5070 Ti Gaming OC 16GB GDDR7 Graphics Card,https://mdcomputers.in/product/gigabyte-gaming-graphics-card-gv-n507tgaming-oc-16gd/graphics-card,174500
+2026-10-29,GPU,RTX 5080,Asus,Asus ProArt RTX 5080 OC 16GB GDDR7 Graphics Card,https://mdcomputers.in/product/asus-proart-graphics-card-rtx5080-o16g/graphics-card,279730
+2026-10-29,GPU,RTX 5080,Gigabyte,Gigabyte RTX 5080 Aero OC SFF 16GB GDDR7 Graphics Card,https://mdcomputers.in/product/gigabyte-aero-graphics-card-gv-n5080aero-oc-16gd/graphics-card,295382
+2026-10-29,Motherboard,B760 mATX,Asus,Asus Prime B760M-K D4 M-ATX DDR4 Motherboard,https://mdcomputers.in/product/asus-prime-b760m-k-d4-motherboard/motherboard,9550
+2026-10-29,Motherboard,ATX,Asus,Asus Pro WS TRX50-SAGE WiFi7 A Workstation CEB Motherboard,https://mdcomputers.in/product/asus-pro-ws-trx50-sage-wifi-a-motherboard/motherboard,89900
+2026-10-29,RAM,DDR4 16GB 2666,Evm,EVM 16GB 2666MHz CL19 DDR4 RAM,https://mdcomputers.in/product/evm-ram-16gb-ddr4-evmt16g2666u88p/ram/desktop-ram,8250
+2026-10-29,RAM,DDR4 8GB 3200,Klevv,Klevv Bolt X 8GB 3200MHz CL16 DDR4 RAM,https://mdcomputers.in/product/klevv-ram-bolt-x-8gb-ddr4-kd48gu880-32a160t/ram/desktop-ram,8330
+2026-10-29,RAM,DDR4 16GB 3200,Evm,EVM 16GB 3200MHz CL19 DDR4 RAM,https://mdcomputers.in/product/evm-ram-16gb-ddr4-evmt16g3200u88p/ram/desktop-ram,9650
+2026-10-29,RAM,DDR5 8GB 5600,Evm,EVM 8GB 5600MHz DDR5 RAM,https://mdcomputers.in/product/evm-ram-8gb-ddr5-evmt8g5600u88p/ram/desktop-ram,11500
+2026-10-29,RAM,DDR4 16GB 3200,Klevv,Klevv Bolt X 16GB 3200MHz CL16 DDR4 RAM,https://mdcomputers.in/product/klevv-ram-bolt-x-16gb-ddr4-kd4agu880-32a160t/ram/desktop-ram,14590
+2026-10-29,RAM,DDR4 16GB kit 3200,Klevv,Klevv Bolt X 16GB (8GBx2) 3200MHz CL16 DDR4 RAM,https://mdcomputers.in/product/klevv-ram-bolt-x-16gb-ddr4-kd48gu880-32a160u/ram/desktop-ram,14699
+2026-10-29,RAM,DDR4 32GB kit 3200,Acer,Acer Predator Pallas Silver 32GB (16GBx2) 3200MHz CL16 DDR4 RAM,https://mdcomputers.in/product/acer-predator-ram-pallas-32gb-bl-9bwwr-344/ram/desktop-ram,24520
+2026-10-29,RAM,DDR5 16GB 5600,Klevv,Klevv FIT V 16GB 5600MHz CL30 DDR5 RAM,https://mdcomputers.in/product/klevv-fit-v-16gb-ddr5-kd5agu880-56k300k/ram/desktop-ram,27790
+2026-10-29,RAM,DDR5 16GB 6000,Corsair,Corsair Vengeance Grey 16GB 6000MHz CL38 DDR5 RAM,https://mdcomputers.in/product/corsair-ram-vengeance-16gb-ddr5-cmk16gx5m1d6000z38/ram/desktop-ram,28199
+2026-10-29,RAM,DDR5 16GB 6000,Klevv,Klevv FIT V 16GB 6000MHz CL30 DDR5 RAM,https://mdcomputers.in/product/klevv-ram-fit-v-16gb-6000-ddr5-kd5agu880-60a300k/ram/desktop-ram,29599
+2026-10-29,RAM,DDR5 16GB 6000,Klevv,Klevv FIT V White 16GB 6000MHz CL30 DDR5 RAM,https://mdcomputers.in/product/klevv-ram-fit-v-16gb-ddr5-kd5agu880-60a300q/ram/desktop-ram,30199
+2026-10-29,RAM,DDR5 16GB 6000,Adata,Adata XPG Lancer Blade White 16GB 6000MHz CL34 DDR5 RAM,https://mdcomputers.in/product/adata-ram-xpg-lancer-blade-16gb-ddr5-ax5u6000c3416g-slabwh/ram/desktop-ram,31999
+2026-10-29,RAM,DDR5 32GB kit 6000,Klevv,Klevv Urbane V RGB 32GB (16GBx2) 6000MHz CL30 DDR5 RAM,https://mdcomputers.in/product/klevv-urbane-v-rgb-32gb-ddr5-kd5agua80-60a300v/ram/desktop-ram,58999
+2026-10-29,RAM,DDR5 32GB kit 6000,Klevv,Klevv FIT V 32GB (16GBx2) 6000MHz CL28 DDR5 RAM,https://mdcomputers.in/product/klevv-fit-v-32gb-ddr5-kd5agu880-60b280l/ram/desktop-ram,60299
+2026-10-29,RAM,DDR5 32GB kit 6000,Klevv,Klevv Cras V RGB 32GB (16GBx2) 6000MHz CL28 DDR5 RAM,https://mdcomputers.in/product/klevv-ram-cras-v-32gb-6000mhz-ddr5-kd5agua80-60b280g/ram/desktop-ram,61499
+2026-10-29,RAM,DDR5 32GB kit 6000,Klevv,Klevv Cras V RGB White 32GB (16GBx2) 6000MHz CL30 DDR5 RAM,https://mdcomputers.in/product/klevv-ram-cras-v-32gb-ddr5-kd5agua80-60a300j/ram/desktop-ram,61499
+2026-10-29,RAM,DDR5 32GB kit 6400,Klevv,Klevv Cras V RGB White 32GB (16GBx2) 6400MHz CL30 DDR5 RAM,https://mdcomputers.in/product/klevv-ram-cras-v-32gb-6400-ddr5-kd5agua80-64b300j/ram/desktop-ram,61999
+2026-10-29,RAM,DDR5 32GB kit 6000,Adata,Adata XPG Lancer Blade RGB White 32GB (16GBx2) 6000MHz CL34 DDR5 RAM,https://mdcomputers.in/product/adata-ram-xpg-lancer-blade-32gb-ddr5-ax5u6000c3416g-dtlabrwh/ram/desktop-ram,64999
+2026-10-29,RAM,DDR5 64GB kit 6000,Klevv,Klevv CRAS V RGB 64GB (32GBx2) 6000MHz CL30 DDR5 RAM,https://mdcomputers.in/product/klevv-cras-v-rgb-64gb-ddr5-kd5bgua80-60a300g/ram/desktop-ram,127130
+2026-10-29,SSD,2000GB Gen4,Wd,WD Black SN7100 NVMe 2TB Gen4 SSD,https://mdcomputers.in/product/storage/ssd-drive/wd-black-sn7100-2tb-nvme-ssd-wds200t4x0e,34000
+2026-10-29,SSD,512GB Gen4,Adata,Adata XPG Gammix S60 512GB M.2 NVMe Gen4 Internal SSD,https://mdcomputers.in/product/adata-xpg-gammix-s60-512gb-nvme-ssd-agammixs60-512g-cs/storage/ssd-drive,10900
+2026-10-29,SSD,1000GB Gen4,Wd,WD Black SN7100 NVMe 1TB Gen4 SSD,https://mdcomputers.in/product/storage/ssd-drive/wd-black-sn7100-1tb-nvme-ssd-wds100t4x0e,18199
+2026-10-29,SSD,1000GB Gen5,Adata,Adata XPG Mars 980 Blade 1TB NVMe Gen5 SSD,https://mdcomputers.in/product/adata-mars-980-blade-1tb-nvme-ssd-smar-980b-1tcs/storage/ssd-drive,23000
+2026-10-29,SSD,2000GB Gen4,Adata,Adata Legend 960 Max 2TB NVMe Gen4 SSD with Heatsink,https://mdcomputers.in/product/adata-legend-960-max-2tb-nvme-ssd-aleg-960m-2tcs/storage/ssd-drive,36799
+2026-10-29,SSD,2000GB Gen5,Adata,Adata XPG Mars 980 Blade 2TB NVMe Gen5 SSD,https://mdcomputers.in/product/adata-mars-980-blade-2tb-nvme-ssd-smar-980b-2tcs/storage/ssd-drive,43000
+2026-10-29,CPU Cooler,Liquid,Dawg,Dawg L240 AIO ARGB 240mm White CPU Liquid Cooler,https://mdcomputers.in/product/cpu-cooler/dawg-240mm-white-liquid-cooler-l240aio,6399
+2026-10-29,CPU Cooler,Air,Deepcool,Deepcool AK700 VC White 120mm CPU Air Cooler,https://mdcomputers.in/product/cpu-cooler/deepcool-ak700-vc-white-cpu-air-cooler,7600
+2026-10-29,CPU Cooler,Liquid,Cooler,Cooler Master MasterLiquid Atmos II VRM Fan 360mm ARGB White CPU Liquid Cooler,https://mdcomputers.in/product/cooler-master-masterliquid-atmos-ii-vrm-wh-360mm-liquid-cooler/cpu-cooler,11399
+2026-10-29,CPU Cooler,Liquid,Arctic,Arctic Liquid Freezer III Pro 420mm CPU Liquid Cooler,https://mdcomputers.in/product/arctic-liquid-freezer-iii-pro-420mm-liquid-cooler-acfre00181a/cpu-cooler,14199
+2026-10-29,CPU Cooler,Liquid 420mm,Deepcool,Deepcool Spartacus 420 CPU Liquid Cooler With LCD Display,https://mdcomputers.in/product/cpu-cooler/deepcool-spartacus-420mm-liquid-cooler-r-spt420-bkdsmp-g-1,18899
+2026-10-29,Power Supply,650W Bronze,Coconut,Coconut SM70 X650 Bronze 650 Watt White SMPS,https://mdcomputers.in/product/coconut-sm70-x650-bronze-white-smps/smps,2999
+2026-10-29,Power Supply,550W Bronze,Thermaltake,Thermaltake Smart BX1 550 Watt Bronze Smps - DC To DC Version,https://mdcomputers.in/product/smps/thermaltake-smart-bx1-550w-bronze-smps-ps-spd-0550nnfabd-4,3630
+2026-10-29,Power Supply,650W Bronze,Thermaltake,Thermaltake Smart BX1 650 Watt Bronze Smps,https://mdcomputers.in/product/smps/thermaltake-smart-bx1-bronze-smps-ps-spd-0650nnsabe-1,4650
+2026-10-29,Power Supply,650W Bronze,Thermaltake,Thermaltake Smart BX1 650 Watt Bronze Smps - DC To DC Version,https://mdcomputers.in/product/smps/thermaltake-smart-bx1-650w-bronze-smps-ps-spd-0650nnfabd-4,4710
+2026-10-29,Power Supply,750W Bronze,Thermaltake,Thermaltake Smart BX1 750W 80 Plus Bronze SMPS,https://mdcomputers.in/product/smps/thermaltake-smart-bx1-bronze-smps-ps-spd-0750nnsabe-1,5730
+2026-10-29,Power Supply,750W Unrated,Thermaltake,Thermaltake Toughpower GT 750 Watt ATX 3.1 Fully Modular SMPS,https://mdcomputers.in/product/smps/thermaltake-toughpower-gt-750w-gold-atx-3-1-smps,8030
+2026-10-29,Power Supply,850W Gold,Thermaltake,Thermaltake Toughpower GF A3 Gold 850 Watt ATX 3.0 Fully Modular SMPS,https://mdcomputers.in/product/smps/thermaltake-toughpower-gold-modular-smps-ps-tpd-0850fnfagd-h,8930
+2026-10-29,Power Supply,850W Gold,Thermaltake,Thermaltake ToughPower GF A3 Gold 850 Watt ATX 3.1 Fully Modular SMPS,https://mdcomputers.in/product/smps/thermaltake-toughpower-gf-a3-850w-gold-atx-3-1-modular-smps,9230
+2026-10-29,Power Supply,850W Gold,Thermaltake,Thermaltake ToughPower GF A3 Snow Gold 850 Watt ATX 3.1 Fully Modular SMPS,https://mdcomputers.in/product/smps/thermaltake-toughpower-gf-a3-snow-850w-gold-modular-smps,9470
+2026-10-29,Power Supply,1050W Gold,Thermaltake,Thermaltake Toughpower GF A3 1050 Watt Gold ATX 3.1 Fully Modular SMPS,https://mdcomputers.in/product/smps/thermaltake-toughpower-gf-a3-1050w-gold-atx-3-1-modular-smps,14150
+2026-10-29,Power Supply,1200W Gold,Thermaltake,Thermaltake Toughpower GF A3 1200 Watt 80 Plus Gold ATX 3.0 SMPS,https://mdcomputers.in/product/smps/thermaltake-toughpower-gold-modular-smps-ps-tpd-1200fnfagd-h,16070
+2026-10-29,Power Supply,1350W Gold,Thermaltake,Thermaltake Toughpower GF3 1350 Watt Gold ATX 3.0 Fully Modular SMPS,https://mdcomputers.in/product/smps/thermaltake-toughpower-gold-modular-smps-ps-tpd-1350fnfagd-4,20390
+2026-10-29,Power Supply,1650W Gold,Thermaltake,Thermaltake Toughpower GF3 1650W TT Premium Edition ATX 3.0 SMPS - 1650 Watt 80 Plus Gold SMPS,https://mdcomputers.in/product/smps/thermaltake-toughpower-gold-modular-smps-ps-tpd1650fnfagd-4,29300
+2026-10-29,Power Supply,?W Unrated,Msi,MSI MEG Ai1300P PCIE5 ATX 3.1 Fully Modular SMPS,https://mdcomputers.in/product/msi-meg-ai1300p-pcie5-atx-3-1-platinum-modular-smps/smps,30500
+2026-10-29,Power Supply,1550W Titanium,Thermaltake,Thermaltake ToughPower TF1 Titanium 1550 Watt Fully Modular SMPS,https://mdcomputers.in/product/smps/thermaltake-toughpower-tf1-1550w-titanium-modular-smps,33380
+2026-10-29,Power Supply,1600W Platinum,Cooler,Cooler Master V Platinum 1600 Watt V2 ATX 3.1 Fully Modular Smps,https://mdcomputers.in/product/cooler-master-v-platinum-1600-v2-smps-mpz-g002-afap-bin/smps,38999
+2026-10-29,Case,Case M-ATX,Ant,Ant Esports Crystal Z2 ARGB White M-ATX Mid-Tower Case,https://mdcomputers.in/product/ant-esports-crystal-z2-white-mid-tower-cabinet/cabinet,3700
+2026-10-29,Case,Mid Tower ATX,Coco,Coco Sports RAMPAGE 3000D ARGB ATX Mid Tower Case,https://mdcomputers.in/product/cabinet/coconut-rampage-3000d-argb-mid-tower-cabinet,12999
+2026-10-29,Case,Mid Tower ATX,Cooler,Cooler Master Elite 681 ARGB ATX Mid Tower Case,https://mdcomputers.in/product/cabinet/cooler-master-elite-681-mid-tower-cabinet-e681-khnn-s00,5900
+2026-10-29,Case,Mid Tower E-ATX,Cooler,Cooler Master Qube 540 Stardust Iron E-ATX Mid Tower Case,https://mdcomputers.in/product/cabinet/cooler-master-qube-540-stardust-iron-mid-tower-cabinet,6600
+2026-10-29,Case,Mid Tower ATX,Corsair,Corsair 3200D RS ARGB Smoke ATX Mid Tower Case,https://mdcomputers.in/product/cabinet/corsair-3200d-rs-argb-smoke-mid-tower-cabinet,7799
+2026-10-29,Case,Mid Tower ATX,Cooler,Cooler Master Qube 540 SPECIAL Stainless Steel ATX Mid Tower Case,https://mdcomputers.in/product/cabinet/cooler-master-qube-540-special-stainless-steel-mid-tower-cabinet,11400
+2026-10-29,Case,Mini Tower ITX,Cooler,Cooler Master Ncore 100 Max Bronze M-ITX Mini Tower Case,https://mdcomputers.in/product/cabinet/cooler-master-ncore-max-mini-tower-cabinet-nr100-znnn85-sl0,26999
+2026-10-29,Case,Mid Tower E-ATX,Asus,Asus ROG Strix Helios II White E-ATX Mid Tower Case,https://mdcomputers.in/product/asus-rog-strix-helios-ii-white-mid-tower-cabinet/cabinet,31699
