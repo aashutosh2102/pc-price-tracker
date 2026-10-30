@@ -781,3 +781,49 @@ date,category,key,brand,name,url,price
 2026-10-29,Case,Mid Tower ATX,Cooler,Cooler Master Qube 540 SPECIAL Stainless Steel ATX Mid Tower Case,https://mdcomputers.in/product/cabinet/cooler-master-qube-540-special-stainless-steel-mid-tower-cabinet,11400
 2026-10-29,Case,Mini Tower ITX,Cooler,Cooler Master Ncore 100 Max Bronze M-ITX Mini Tower Case,https://mdcomputers.in/product/cabinet/cooler-master-ncore-max-mini-tower-cabinet-nr100-znnn85-sl0,26999
 2026-10-29,Case,Mid Tower E-ATX,Asus,Asus ROG Strix Helios II White E-ATX Mid Tower Case,https://mdcomputers.in/product/asus-rog-strix-helios-ii-white-mid-tower-cabinet/cabinet,31699
+2026-10-30,GPU,RTX 4060,Gigabyte,Gigabyte RTX 4060 Gaming OC 8GB Graphics Card,https://mdcomputers.in/product/gigabyte-gaming-graphics-card-gv-n4060gaming-oc-8gd/graphics-card,58270
+2026-10-30,GPU,RTX A1000,Nvidia,NVIDIA Quadro RTX A1000 8GB GDDR6 Graphics Card,https://mdcomputers.in/product/graphics-card/nvidia-quadro-graphics-card-rtx-a1000-900-5g172-2580-000,66698
+2026-10-30,GPU,RX 9060 XT 16GB,Sapphire,Sapphire Pulse RX 9060 XT OC 16GB GDDR6 Graphics Card,https://mdcomputers.in/product/graphics-card/sapphire-pulse-graphics-card-rx-9060-xt-11350-03-20g,82000
+2026-10-30,GPU,RX 9070 XT,Asrock,Asrock RX 9070 XT Challenger 16GB GDDR6 Graphics Card,https://mdcomputers.in/product/asrock-challenger-graphics-card-rx9070xt-cl-16g/graphics-card,108830
+2026-10-30,GPU,RX 9070 XT,Sapphire,Sapphire Pulse RX 9070 XT 16GB GDDR6 Graphics Card,https://mdcomputers.in/product/graphics-card/sapphire-pulse-graphics-card-rx-9070-xt-11348-03-20g,111231
+2026-10-30,GPU,RX 9070 XT,Asrock,Asrock RX 9070 XT Steel Legend Dark 16GB GDDR6 Graphics Card,https://mdcomputers.in/product/asrock-steel-legend-graphics-card-rx9070xt-sld-16g/graphics-card,112440
+2026-10-30,GPU,RX 9070 XT,Gigabyte,Gigabyte RX 9070 XT Gaming OC 16GB GDDR6 Graphics Card,https://mdcomputers.in/product/gigabyte-gaming-graphics-card-gv-r9070xtgaming-oc-16gd/graphics-card,112440
+2026-10-30,GPU,RX 9070 XT,Asrock,ASRock RX 9070 XT Steel Legend 16GB GDDR6 Graphics Card,https://mdcomputers.in/product/asrock-steel-legend-graphics-card-rx9070xt-sl-16g/graphics-card,114840
+2026-10-30,GPU,RX 9070 XT,Asus,ASUS Prime RX 9070 XT OC 16GB GDDR6 Graphics Card,https://mdcomputers.in/product/asus-prime-graphics-card-rx9070xt-o16g/graphics-card,115000
+2026-10-30,GPU,RTX 5070 Ti,Gigabyte,Gigabyte RTX 5070 Ti Gaming OC 16GB GDDR7 Graphics Card,https://mdcomputers.in/product/gigabyte-gaming-graphics-card-gv-n507tgaming-oc-16gd/graphics-card,174999
+2026-10-30,GPU,RTX 5080,Inno3D,INNO3D RTX 5080 X3 16GB GDDR7 SFF Graphics Card,https://mdcomputers.in/product/graphics-card/inno3d-graphics-card-rtx-5080-x3-n50803-16d7-376068n,253260
+2026-10-30,GPU,RTX 5080,Pny,PNY RTX 5080 ARGB OC 16GB GDDR7 Graphics Card,https://mdcomputers.in/product/graphics-card/pny-rtx-5080-argb-oc-graphics-card-vcg508016tfxxpb1-o,253260
+2026-10-30,GPU,RTX 5080,Gigabyte,Gigabyte RTX 5080 Gaming OC 16GB GDDR7 Graphics Card,https://mdcomputers.in/product/gigabyte-gaming-graphics-card-gv-n5080gaming-oc-16gd/graphics-card,265290
+2026-10-30,GPU,RTX 5080,Zotac,Zotac Gaming RTX 5080 Solid Core 16GB GDDR7 Graphics Card,https://mdcomputers.in/product/graphics-card/zotac-rtx-5080-solid-core-graphics-card-zt-b50800d2-10p,265290
+2026-10-30,GPU,RTX 5080,Msi,MSI RTX 5080 Ventus 3X OC 16GB GDDR7 Graphics Card,https://mdcomputers.in/product/graphics-card/msi-ventus-3x-oc-graphics-card-g5080-16v3c,277330
+2026-10-30,GPU,RTX 5080,Zotac,Zotac RTX 5080 Solid Core OC 16GB GDDR7 Graphics Card,https://mdcomputers.in/product/graphics-card/zotac-rtx-5080-solid-core-oc-graphics-card-zt-b50800j2-10p,277330
+2026-10-30,GPU,RTX 5080,Msi,MSI RTX 5080 Gaming Trio OC 16GB GDDR7 Graphics Card,https://mdcomputers.in/product/graphics-card/msi-gaming-trio-oc-graphics-card-g5080-16gtc,289360
+2026-10-30,GPU,RTX 5080,Asus,ASUS Prime RTX 5080 OC 16GB GDDR7 Graphics Card,https://mdcomputers.in/product/asus-prime-graphics-card-rtx5080-o16g/graphics-card,289364
+2026-10-30,GPU,RTX 5080,Asus,ASUS Prime RTX 5080 EVO OC 16GB GDDR7 Graphics Card,https://mdcomputers.in/product/asus-prime-graphics-card-rtx5080-o16g-evo/graphics-card,289365
+2026-10-30,GPU,RTX 5080,Gigabyte,Gigabyte RTX 5080 Aero OC SFF 16GB GDDR7 Graphics Card,https://mdcomputers.in/product/gigabyte-aero-graphics-card-gv-n5080aero-oc-16gd/graphics-card,295380
+2026-10-30,GPU,RTX 5080,Asus,Asus ProArt RTX 5080 OC 16GB GDDR7 Graphics Card,https://mdcomputers.in/product/asus-proart-graphics-card-rtx5080-o16g/graphics-card,301400
+2026-10-30,GPU,RTX 5080,Msi,MSI RTX 5080 Inspire 3X OC 16GB GDDR7 Graphics Card,https://mdcomputers.in/product/graphics-card/msi-inspire-graphics-card-rtx-5080-3x-oc-16g,301400
+2026-10-30,GPU,RTX 5080,Zotac,Zotac Gaming RTX 5080 Solid OC White 16GB GDDR7 Graphics Card,https://mdcomputers.in/product/graphics-card/zotac-rtx-5080-solid-oc-white-graphics-card-zt-b50800q-10p,2893645
+2026-10-30,Motherboard,X870E ATX,Msi,MSI Mag X870E Gaming Plus Max Wifi S ATX Motherboard,https://mdcomputers.in/product/motherboard/msi-mag-x870e-gaming-plus-max-wifi-s-motherboard,30900
+2026-10-30,RAM,DDR4 8GB 3200,Klevv,Klevv Bolt X 8GB 3200MHz CL16 DDR4 RAM,https://mdcomputers.in/product/klevv-ram-bolt-x-8gb-ddr4-kd48gu880-32a160t/ram/desktop-ram,6850
+2026-10-30,RAM,DDR4 16GB 3200,Evm,EVM 16GB 3200MHz CL19 DDR4 RAM,https://mdcomputers.in/product/evm-ram-16gb-ddr4-evmt16g3200u88p/ram/desktop-ram,9295
+2026-10-30,RAM,DDR5 8GB 5600,Evm,EVM 8GB 5600MHz DDR5 RAM,https://mdcomputers.in/product/evm-ram-8gb-ddr5-evmt8g5600u88p/ram/desktop-ram,11580
+2026-10-30,RAM,DDR4 16GB 3200,Klevv,Klevv Bolt X 16GB 3200MHz CL16 DDR4 RAM,https://mdcomputers.in/product/klevv-ram-bolt-x-16gb-ddr4-kd4agu880-32a160t/ram/desktop-ram,12999
+2026-10-30,RAM,DDR4 16GB kit 3200,Klevv,Klevv Bolt X 16GB (8GBx2) 3200MHz CL16 DDR4 RAM,https://mdcomputers.in/product/klevv-ram-bolt-x-16gb-ddr4-kd48gu880-32a160u/ram/desktop-ram,13160
+2026-10-30,RAM,DDR5 32GB kit 6000,Patriot,Patriot Viper Venom RGB 32GB (16GB x 2) 6000MHz CL30 DDR5 RAM,https://mdcomputers.in/product/patriot-ram-viper-venom-rgb-32gb-pvvr532g600c30k/ram/desktop-ram,51299
+2026-10-30,RAM,DDR5 32GB 5200,Corsair,Corsair Vengeance 32GB 5200MHz CL40 DDR5 RAM,https://mdcomputers.in/product/corsair-ram-vengeance-cmk32gx5m1b5200c40/ram/desktop-ram,52399
+2026-10-30,RAM,DDR5 32GB kit 6000,Klevv,Klevv Cras V RGB 32GB (16GBx2) 6000MHz CL28 DDR5 RAM,https://mdcomputers.in/product/klevv-ram-cras-v-32gb-ddr5-kd5agua80-60b280g/ram/desktop-ram,61499
+2026-10-30,RAM,DDR5 32GB kit 6400,Klevv,Klevv Cras V RGB White 32GB (16GBx2) 6400MHz CL30 DDR5 RAM,https://mdcomputers.in/product/klevv-ram-cras-v-32gb-ddr5-kd5agua80-64b300j/ram/desktop-ram,61999
+2026-10-30,SSD,2000GB Gen4,Wd,WD Black SN7100 NVMe 2TB Gen4 SSD,https://mdcomputers.in/product/storage/ssd-drive/wd-black-sn7100-2tb-nvme-ssd-wds200t4x0e,32970
+2026-10-30,SSD,250GB Gen3,Wd,WD Green SN350 NVMe 250GB Gen3 SSD,https://mdcomputers.in/product/storage/ssd-drive/wd-green-sn350-250gb-nvme-ssd-wds250g2g0c,6770
+2026-10-30,SSD,512GB Gen3,Evm,EVM 512GB NVMe Gen3 SSD,https://mdcomputers.in/product/evm-512gb-nvme-ssd/storage/ssd-drive,7670
+2026-10-30,SSD,512GB Gen4,Adata,Adata XPG Gammix S60 512GB M.2 NVMe Gen4 Internal SSD,https://mdcomputers.in/product/adata-xpg-gammix-s60-512gb-nvme-ssd-agammixs60-512g-cs/storage/ssd-drive,10990
+2026-10-30,SSD,500GB Gen4,Adata,Adata XPG Spectrix S65G 500GB NVMe Gen4 SSD,https://mdcomputers.in/product/adata-xpg-spectrix-s65g-500gb-nvme-ssd-sspectrixs65g-500g-ci/storage/ssd-drive,38999
+2026-10-30,SSD,1000GB Gen4,Adata,Adata XPG Spectrix S65G 1000GB NVMe Gen4 SSD,https://mdcomputers.in/product/adata-xpg-spectrix-s65g-1000gb-nvme-ssd-sspectrixs65g-1000g-ci/storage/ssd-drive,67999
+2026-10-30,SSD,1000GB Gen5,Adata,Adata XPG Mars 980 Blade 1TB NVMe Gen5 SSD,https://mdcomputers.in/product/adata-mars-980-blade-1tb-nvme-ssd-smar-980b-1tcs/storage/ssd-drive,22100
+2026-10-30,SSD,2000GB Gen5,Adata,Adata XPG Mars 980 Blade 2TB NVMe Gen5 SSD,https://mdcomputers.in/product/adata-mars-980-blade-2tb-nvme-ssd-smar-980b-2tcs/storage/ssd-drive,42270
+2026-10-30,Power Supply,850W Gold,Msi,MSI Mag A850GL PCIE5 ATX 3.1 Gold Fully Modular SMPS,https://mdcomputers.in/product/msi-mag-a850gl-pcie5-atx3-1-gold-modular-smps/smps,10100
+2026-10-30,Power Supply,1000W Gold,Deepcool,Deepcool Gamer Storm PN1000M Gold ATX 3.1 Fully Modular SMPS,https://mdcomputers.in/product/deepcool-pn1000m-gold-modular-smps-r-pna00m-fc0b-jgin/smps,12499
+2026-10-30,Power Supply,1000W Gold,Cooler,Cooler Master Elite Gold 1000 Watt ATX 3.1 Fully Modular Smps,https://mdcomputers.in/product/cooler-master-elite-gold-1000-modular-smps-mpx-a005-afag/smps,14150
+2026-10-30,Case,Mid Tower E-ATX,Ant,Ant Esports EVO 360 ARGB E-ATX Mid Tower Case,https://mdcomputers.in/product/ant-esports-evo-360-mid-tower-cabinet/cabinet,4400
+2026-10-30,Case,Full Tower,Thermaltake,Thermaltake AX500 SSI-EEB Full Tower Case,https://mdcomputers.in/product/cabinet/thermaltake-ax500-full-tower-cabinet-ca-11d-00f1wn-00,16300
