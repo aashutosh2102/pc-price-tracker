@@ -827,3 +827,66 @@ date,category,key,brand,name,url,price
 2026-10-30,Power Supply,1000W Gold,Cooler,Cooler Master Elite Gold 1000 Watt ATX 3.1 Fully Modular Smps,https://mdcomputers.in/product/cooler-master-elite-gold-1000-modular-smps-mpx-a005-afag/smps,14150
 2026-10-30,Case,Mid Tower E-ATX,Ant,Ant Esports EVO 360 ARGB E-ATX Mid Tower Case,https://mdcomputers.in/product/ant-esports-evo-360-mid-tower-cabinet/cabinet,4400
 2026-10-30,Case,Full Tower,Thermaltake,Thermaltake AX500 SSI-EEB Full Tower Case,https://mdcomputers.in/product/cabinet/thermaltake-ax500-full-tower-cabinet-ca-11d-00f1wn-00,16300
+2026-10-31,CPU,Core i5-12400,Intel,Intel Core i5-12400 Desktop Processor,https://mdcomputers.in/product/intel-core-i5-12400-bx8071512400-desktop-processor/processor,21100
+2026-10-31,GPU,RX 7600,Asus,ASUS Dual RX 7600 EVO OC 8GB GDDR6 Graphics Card,https://mdcomputers.in/product/asus-dual-graphics-card-rx7600-o8g-evo/graphics-card,49848
+2026-10-31,GPU,RX 7600,Gigabyte,Gigabyte RX 7600 Gaming OC 8GB Graphics Card,https://mdcomputers.in/product/gigabyte-gaming-graphics-card-gv-r76gaming-oc-8gd/graphics-card,52255
+2026-10-31,GPU,RX 9060 XT 16GB,Asus,Asus Dual RX 9060 XT 16GB GDDR6 Graphics Card,https://mdcomputers.in/product/asus-dual-graphics-card-rx9060xt-16g/graphics-card,78730
+2026-10-31,GPU,RX 9060 XT 16GB,Asus,ASUS Prime RX 9060 XT OC Edition 16GB GDDR6 Graphics Card,https://mdcomputers.in/product/asus-prime-graphics-card-rx9060xt-o16g/graphics-card,82350
+2026-10-31,GPU,RX 9070 XT,Asus,ASUS Prime RX 9070 XT OC 16GB GDDR6 Graphics Card,https://mdcomputers.in/product/asus-prime-graphics-card-rx9070xt-o16g/graphics-card,114840
+2026-10-31,GPU,RTX 5070,Pny,PNY RTX 5070 Slim OC 12GB GDDR7 Graphics Card,https://mdcomputers.in/product/graphics-card/pny-rtx-5070-slim-oc-graphics-card-vcg507012dfsxpb1-o,117249
+2026-10-31,GPU,RTX 5070,Pny,PNY RTX 5070 OC 12GB GDDR7 Graphics Card,https://mdcomputers.in/product/graphics-card/pny-rtx-5070-oc-graphics-card-vcg507012tfxpb1-o,117851
+2026-10-31,GPU,RTX 5070,Msi,MSI RTX 5070 Shadow 2X OC 12GB GDDR7 Graphics Card,https://mdcomputers.in/product/graphics-card/msi-rtx-5070-shadow-2x-oc-graphics-card-g5070-12s2c,118453
+2026-10-31,GPU,RTX 5070,Gigabyte,Gigabyte RTX 5070 Eagle OC SFF 12GB GDDR7 Graphics Card,https://mdcomputers.in/product/gigabyte-rtx-5070-eagle-graphics-card-gv-n5070eagle-oc-12gd/graphics-card,119656
+2026-10-31,GPU,RTX 5070,Msi,MSI Geforce RTX 5070 Ventus 2X OC 12G GDDR7 Graphics Card,https://mdcomputers.in/product/graphics-card/msi-rtx-5070-ventus-2x-oc-graphics-card-g5070-12v2c,119656
+2026-10-31,GPU,RTX 5070,Zotac,Zotac RTX 5070 Twin Edge 12GB GDDR7 Graphics Card,https://mdcomputers.in/product/graphics-card/zotac-rtx-5070-twin-edge-graphics-card-zt-b50700e-10p,120258
+2026-10-31,GPU,RTX 5070,Asus,Asus Dual RTX 5070 OC 12GB GDDR7 Graphics Card,https://mdcomputers.in/product/asus-dual-graphics-card-rtx5070-o12g/graphics-card,120860
+2026-10-31,GPU,RTX 5070,Zotac,Zotac RTX 5070 Twin Edge OC 12GB GDDR7 Graphics Card,https://mdcomputers.in/product/graphics-card/zotac-rtx-5070-twin-edge-oc-graphics-card-zt-b50700h-10p,122665
+2026-10-31,GPU,RTX 5070,Msi,MSI RTX 5070 Inspire 3X OC 12GB GDDR7 Graphics Card,https://mdcomputers.in/product/graphics-card/msi-rtx-5070-inspire-3x-oc-graphics-card-g5070-12i3c,123267
+2026-10-31,GPU,RTX 5070,Asus,ASUS Prime RTX 5070 OC 12GB GDDR7 Graphics Card,https://mdcomputers.in/product/asus-prime-graphics-card-rtx5070-o12g/graphics-card,126878
+2026-10-31,GPU,RTX 5070,Zotac,Zotac Gaming RTX 5070 Solid OC 12GB GDDR7 Graphics Card,https://mdcomputers.in/product/graphics-card/zotac-rtx-5070-solid-oc-graphics-card-zt-b50700j-10p,130489
+2026-10-31,GPU,RTX 5080,Zotac,Zotac Gaming RTX 5080 Solid OC White 16GB GDDR7 Graphics Card,https://mdcomputers.in/product/graphics-card/zotac-rtx-5080-solid-oc-white-graphics-card-zt-b50800q-10p,289364
+2026-10-31,RAM,DDR4 8GB 3200,Klevv,Klevv Bolt X 8GB 3200MHz CL16 DDR4 RAM,https://mdcomputers.in/product/klevv-ram-bolt-x-8gb-ddr4-kd48gu880-32a160t/ram/desktop-ram,6799
+2026-10-31,RAM,DDR4 8GB 3200,Adata,Adata XPG Gammix D35 8GB 3200MHz CL16 DDR4 RAM,https://mdcomputers.in/product/adata-ram-xpg-gammix-d35-8gb-ddr4-ax4u32008g16a-sbkd35/ram/desktop-ram,7099
+2026-10-31,RAM,DDR4 16GB 3200,G.Skill,G.Skill Aegis 16GB 3200MHz CL16 DDR4 RAM,https://mdcomputers.in/product/gskill-ram-aegis-16gb-f4-3200c16s-16gis/ram/desktop-ram,12380
+2026-10-31,RAM,DDR4 16GB 3200,Klevv,Klevv Bolt X 16GB 3200MHz CL16 DDR4 RAM,https://mdcomputers.in/product/klevv-ram-bolt-x-16gb-ddr4-kd4agu880-32a160t/ram/desktop-ram,12899
+2026-10-31,RAM,DDR4 16GB kit 3200,Klevv,Klevv Bolt X 16GB (8GBx2) 3200MHz CL16 DDR4 RAM,https://mdcomputers.in/product/klevv-ram-bolt-x-16gb-ddr4-kd48gu880-32a160u/ram/desktop-ram,13150
+2026-10-31,RAM,DDR5 16GB 5600,Crucial,Crucial 16GB 5600MHz CL46 DDR5 RAM,https://mdcomputers.in/product/crucial-ram-ct16g56c46u5/ram/desktop-ram,23999
+2026-10-31,RAM,DDR5 16GB 5600,Adata,Adata XPG Lancer Blade 16GB 5600MHz CL46 DDR5 RAM,https://mdcomputers.in/product/adata-ram-xpg-lancer-blade-16gb-ddr5-ax5u5600c4616g-slabbk/ram/desktop-ram,25999
+2026-10-31,RAM,DDR5 16GB 5600,Adata,ADATA XPG ARMAX RGB 16GB 5600MHz CL46 DDR5 RAM,https://mdcomputers.in/product/adata-ram-xpg-armax-rgb-ddr5-16gb-ax5u5600c4616g-samrbk/ram/desktop-ram,26480
+2026-10-31,RAM,DDR5 16GB 5600,Klevv,Klevv FIT V 16GB 5600MHz CL30 DDR5 RAM,https://mdcomputers.in/product/klevv-fit-v-16gb-ddr5-kd5agu880-56k300k/ram/desktop-ram,26999
+2026-10-31,RAM,DDR5 16GB 6000,Klevv,Klevv FIT V 16GB 6000MHz CL30 DDR5 RAM,https://mdcomputers.in/product/klevv-ram-fit-v-16gb-6000-ddr5-kd5agu880-60a300k/ram/desktop-ram,28999
+2026-10-31,RAM,DDR5 16GB 6000,Klevv,Klevv FIT V White 16GB 6000MHz CL30 DDR5 RAM,https://mdcomputers.in/product/klevv-ram-fit-v-16gb-ddr5-kd5agu880-60a300q/ram/desktop-ram,29599
+2026-10-31,RAM,DDR5 32GB 5600,Geil,Geil Orion V 32GB 5600MHz CL38 DDR5 RAM,https://mdcomputers.in/product/geil-orion-v-32gb-ddr5-gvg532gb5600c38asc/ram/desktop-ram,48590
+2026-10-31,RAM,DDR5 32GB 5600,Teamgroup,TeamGroup T-Force Delta RGB 32GB 5600MHz CL36 DDR5 RAM,https://mdcomputers.in/product/ram/desktop-ram/teamgroup-ram-t-force-delta-rgb-ff4d532g5600hc36b01,49999
+2026-10-31,RAM,DDR5 32GB 5200,Corsair,Corsair Vengeance 32GB 5200MHz CL40 DDR5 RAM,https://mdcomputers.in/product/corsair-ram-vengeance-cmk32gx5m1b5200c40/ram/desktop-ram,51999
+2026-10-31,RAM,DDR5 32GB 5200,G.Skill,G.Skill Ripjaws S5 32GB 5200MHz CL40 DDR5 RAM,https://mdcomputers.in/product/g-skill-ram-ripjaws-s5-32gb-f5-5200j4040a32gx1-rs5k/ram/desktop-ram,52280
+2026-10-31,RAM,DDR5 32GB 5200,Corsair,Corsair Vengeance RGB 32GB 5200MHz CL40 DDR5 RAM,https://mdcomputers.in/product/corsair-ram-vengeance-32gb-ddr5-cmh32gx5m1b5200z40/ram/desktop-ram,53260
+2026-10-31,RAM,DDR5 32GB 6000,Teamgroup,TeamGroup T-Force Delta RGB 32GB 6000MHz CL38 DDR5 RAM,https://mdcomputers.in/product/ram/desktop-ram/teamgroup-ram-t-force-delta-rgb-ff3d532g6000hc38a01,53499
+2026-10-31,RAM,DDR5 32GB 6000,G.Skill,G.Skill Flare X5 32GB 6000MHz CL38 DDR5 RAM,https://mdcomputers.in/product/gskill-ram-flare-x5-32gb-ddr5-f5-6000j3848d32gx1-fx5/ram/desktop-ram,55899
+2026-10-31,RAM,DDR5 32GB 6000,G.Skill,G.Skill Ripjaws S5 Matte Black 32GB 6000MHz CL36 DDR5 RAM,https://mdcomputers.in/product/g-skill-ram-ripjaws-s5-32gb-ddr5-f5-6000j3636f32gx1-rs5k/ram/desktop-ram,57999
+2026-10-31,RAM,DDR5 32GB kit 6000,Adata,ADATA XPG Lancer 32GB(16GBx2) 6000MHz CL40 DDR5 RAM,https://mdcomputers.in/product/adata-ram-xpg-lancer-32gb-ddr5-ax5u6000c4016g-dclabk/ram/desktop-ram,58280
+2026-10-31,RAM,DDR5 32GB kit 6000,Klevv,Klevv Urbane V RGB 32GB (16GBx2) 6000MHz CL30 DDR5 RAM,https://mdcomputers.in/product/klevv-urbane-v-rgb-32gb-ddr5-kd5agua80-60a300v/ram/desktop-ram,58699
+2026-10-31,RAM,DDR5 32GB kit 6000,Klevv,Klevv FIT V 32GB (16GBx2) 6000MHz CL28 DDR5 RAM,https://mdcomputers.in/product/klevv-fit-v-32gb-ddr5-kd5agu880-60b280l/ram/desktop-ram,59750
+2026-10-31,RAM,DDR5 32GB kit 6000,Adata,Adata XPG Lancer Blade 32GB (16GBx2) 6000MHz CL36 DDR5 RAM,https://mdcomputers.in/product/adata-ram-xpg-lancer-blade-32gb-ddr5-ax5u6000c3616g-dtlabbk/ram/desktop-ram,60080
+2026-10-31,RAM,DDR5 32GB kit 6000,Adata,Adata XPG Lancer Blade White 32GB (16GBx2) 6000MHz CL36 DDR5 RAM,https://mdcomputers.in/product/adata-ram-xpg-lancer-blade-32gb-ddr5-ax5u6000c3616g-dtlabwh/ram/desktop-ram,60080
+2026-10-31,RAM,DDR5 32GB 6000,Kingston,Kingston Fury Beast 32GB 6000MHz CL36 DDR5 RAM,https://mdcomputers.in/product/kingston-ram-fury-beast-32gb-ddr5-kf560c36bbe2-32/ram/desktop-ram,60150
+2026-10-31,RAM,DDR5 32GB kit 6000,Klevv,Klevv Cras V RGB White 32GB (16GBx2) 6000MHz CL30 DDR5 RAM,https://mdcomputers.in/product/klevv-ram-cras-v-32gb-ddr5-kd5agua80-60a300j/ram/desktop-ram,60999
+2026-10-31,RAM,DDR5 32GB kit 6000,Adata,Adata XPG Lancer Blade White 32GB (16GB x 2) 6000MHz CL34 DDR5 RAM,https://mdcomputers.in/product/adata-ram-xpg-lancer-blade-32gb-ddr5-ax5u6000c3416g-dtlabwh/ram/desktop-ram,63799
+2026-10-31,RAM,DDR5 32GB kit 6000,Kingston,Kingston Fury Beast RGB White EXPO 32GB (16GBx2) 6000MHz CL30 DDR5 RAM,https://mdcomputers.in/product/kingston-ram-fury-beast-32gb-ddr5-kf560c30bweak2-32/ram/desktop-ram,63999
+2026-10-31,RAM,DDR5 64GB kit 6000,G.Skill,G.Skill Trident Z5 Neo RGB 64GB (32GBx2) 6000MHz CL36 DDR5 RAM,https://mdcomputers.in/product/g-skill-trident-z5-neo-64gb-ddr5-f5-6000j3636f32gx2-tz5nr/ram/desktop-ram,125230
+2026-10-31,RAM,DDR5 64GB kit 6000,Klevv,Klevv CRAS V RGB 64GB (32GBx2) 6000MHz CL30 DDR5 RAM,https://mdcomputers.in/product/klevv-cras-v-rgb-64gb-ddr5-kd5bgua80-60a300g/ram/desktop-ram,126999
+2026-10-31,SSD,500GB Gen4,Wd,WD Blue SN5000 NVMe Gen4 500GB SSD,https://mdcomputers.in/product/storage/ssd-drive/wd-blue-sn5000-500gb-nvme-ssd-wds500g4b0e,10900
+2026-10-31,CPU Cooler,Air,Be,Be Quiet Pure Rock 3 120mm PWM CPU Air Cooler,https://mdcomputers.in/product/be-quiet-pure-rock-3-cpu-air-cooler/cpu-cooler,4100
+2026-10-31,CPU Cooler,Air,Be,Be Quiet Pure Rock 3 LX 120mm PWM CPU Air Cooler,https://mdcomputers.in/product/be-quiet-pure-rock-3-lx-cpu-air-cooler/cpu-cooler,4250
+2026-10-31,CPU Cooler,Liquid,Cooler,Cooler Master MasterLiquid 360L Core ARGB White 360mm CPU Liquid Cooler,https://mdcomputers.in/product/cooler-master-core-360mm-white-liquid-cooler-mlw-d36m-a18pa-rw/cpu-cooler,7500
+2026-10-31,CPU Cooler,Liquid 360mm,Cooler,Cooler Master MasterLiquid 360 Core II ARGB CPU Liquid Cooler,https://mdcomputers.in/product/cooler-master-360mm-liquid-cooler-mlw-d36m-a18pa-r1/cpu-cooler,8350
+2026-10-31,CPU Cooler,Liquid 360mm,Cooler,Cooler Master MasterLiquid Core NEX 360 ARGB CPU Liquid Cooler,https://mdcomputers.in/product/cooler-master-masterliquid-core-nex-360mm-cpu-cooler/cpu-cooler,8350
+2026-10-31,CPU Cooler,Liquid 360mm,Cooler,Cooler Master MasterLiquid Core NEX Digital 360 ARGB CPU Liquid Cooler,https://mdcomputers.in/product/cooler-master-masterliquid-core-nex-digital-360mm-cpu-cooler/cpu-cooler,9000
+2026-10-31,CPU Cooler,Liquid 360mm,Cooler,Cooler Master MasterLiquid Core NEX Digital 360 White CPU Liquid Cooler,https://mdcomputers.in/product/cooler-master-masterliquid-core-nex-digital-wh-360mm-cpu-cooler/cpu-cooler,9100
+2026-10-31,CPU Cooler,Air,Be,Be Quiet Dark Rock Elite 135mm PWM Dual Fan CPU Air Cooler,https://mdcomputers.in/product/be-quiet-dark-rock-elite-135mm-dual-fan-pwm-cpu-air-cooler/cpu-cooler,14200
+2026-10-31,Power Supply,750W Gold,Cooler,Cooler Master Elite Gold 750 Watt ATX 3.1 Fully Modular Smps,https://mdcomputers.in/product/cooler-master-elite-gold-750-modular-smps-mpx-7505-afag/smps,8200
+2026-10-31,Power Supply,850W Gold,Cooler,Cooler Master Elite Gold 850 Watt ATX 3.1 Fully Modular Smps,https://mdcomputers.in/product/cooler-master-elite-gold-850-modular-smps-mpx-8505-afag/smps,9300
+2026-10-31,Power Supply,1300W Platinum,Cooler,Cooler Master V Platinum 1300 Watt V2 ATX 3.1 Fully Modular Smps,https://mdcomputers.in/product/cooler-master-v-platinum-1300-v2-modular-smps-mpz-d002-afap-bin/smps,26800
+2026-10-31,Case,Mini Tower M-ATX,Cooler,Cooler Master Elite 490 ARGB M-ATX Mini Tower Case,https://mdcomputers.in/product/cabinet/cooler-master-elite-490-mini-tower-cabinet-e490-khnn-s00,4850
+2026-10-31,Case,Mid Tower ATX,Cooler,Cooler Master MasterBox K501L RGB ATX Mid Tower Case,https://mdcomputers.in/product/cabinet/cooler-master-masterbox-mid-tower-cabinet-mcb-k501l-kgnn-sr1,5100
+2026-10-31,Case,Mid Tower E-ATX,Cooler,Cooler Master MasterBox TD500 Mesh V2 ARGB E-ATX Mid Tower Case,https://mdcomputers.in/product/cabinet/cooler-master-masterbox-mid-tower-cabinet-td500v2-kgnn-s00,8600
