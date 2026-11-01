@@ -890,3 +890,42 @@ date,category,key,brand,name,url,price
 2026-10-31,Case,Mini Tower M-ATX,Cooler,Cooler Master Elite 490 ARGB M-ATX Mini Tower Case,https://mdcomputers.in/product/cabinet/cooler-master-elite-490-mini-tower-cabinet-e490-khnn-s00,4850
 2026-10-31,Case,Mid Tower ATX,Cooler,Cooler Master MasterBox K501L RGB ATX Mid Tower Case,https://mdcomputers.in/product/cabinet/cooler-master-masterbox-mid-tower-cabinet-mcb-k501l-kgnn-sr1,5100
 2026-10-31,Case,Mid Tower E-ATX,Cooler,Cooler Master MasterBox TD500 Mesh V2 ARGB E-ATX Mid Tower Case,https://mdcomputers.in/product/cabinet/cooler-master-masterbox-mid-tower-cabinet-td500v2-kgnn-s00,8600
+2026-11-01,CPU,Core i3-14100,Intel,Intel Core i3-14100 Processor,https://mdcomputers.in/product/intel-i3-14100-bx8071514100-desktop-processor/processor,14300
+2026-11-01,CPU,Core i5-14400,Intel,Intel Core i5-14400 Processor,https://mdcomputers.in/product/intel-i5-14400-bx8071514400-desktop-processor/processor,20600
+2026-11-01,CPU,Core Ultra 7 270K,Intel,Intel Core Ultra 7 270K Plus Processor,https://mdcomputers.in/product/intel-ultra-7-270k-plus-bx80768270k-desktop-processor/processor,35500
+2026-11-01,CPU,Threadripper 7980X,Amd,AMD Ryzen Threadripper 7980X Open Box OEM Processor,https://mdcomputers.in/product/amd-ryzen-threadripper-7980x-100-000001350-desktop-processor/processor,509000
+2026-11-01,GPU,RTX 3050 6GB,Gigabyte,Gigabyte RTX 3050 Windforce OC V2 6GB Graphics Card,https://mdcomputers.in/product/gigabyte-windforce-graphics-card-gv-n3050wf2ocv2-6gd/graphics-card,30800
+2026-11-01,Motherboard,H110 mATX,Gigabyte,Gigabyte H110M-M.2 DDR4 M-ATX Motherboard,https://mdcomputers.in/product/gigabyte-h110m-m-2-motherboard/motherboard,8850
+2026-11-01,Motherboard,H310 mATX,Gigabyte,Gigabyte H310M M.2 2.0 DDR4 M-ATX Motherboard,https://mdcomputers.in/product/gigabyte-h310m-m-2-2-0-motherboard/motherboard,9150
+2026-11-01,Motherboard,Z890 ATX,Msi,MSI Mag Z890 Tomahawk Wifi II ATX Motherboard,https://mdcomputers.in/product/motherboard/msi-mag-z890-tomahawk-wifi-motherboard,32700
+2026-11-01,RAM,DDR5 16GB 5600,Lexar,Lexar 16GB 5600MHz CL46 DDR5 RAM,https://mdcomputers.in/product/lexar-ram-16gb-ld5u16g56c46st-bgs/ram/desktop-ram,24250
+2026-11-01,RAM,DDR5 16GB 6000,Adata,Adata XPG Lancer Blade RGB 16GB 6000MHz CL48 DDR5 RAM,https://mdcomputers.in/product/adata-ram-xpg-lancer-blade-16gb-ax5u6000c4816g-slabrbk/ram/desktop-ram,28450
+2026-11-01,RAM,DDR5 16GB 6000,G.Skill,G.Skill Flare X5 16GB 6000MHz CL36 DDR5 RAM,https://mdcomputers.in/product/g-skill-ram-flare-x5-16gb-ddr5-f5-6000j3636f16gx1-fx5/ram/desktop-ram,28660
+2026-11-01,RAM,DDR5 16GB 5600,Adata,Adata XPG Lancer Blade White 16GB 5600MHz CL46 DDR5 RAM,https://mdcomputers.in/product/adata-ram-xpg-lancer-blade-16gb-ddr5-ax5u5600c4616g-slabwh/ram/desktop-ram,29430
+2026-11-01,RAM,DDR5 16GB 6000,G.Skill,G.Skill Trident Z5 RGB 16GB 6000MHz CL36 DDR5 RAM,https://mdcomputers.in/product/g-skill-trident-z5-rgb-16gb-ddr5-f5-6000j3636f16gx1-tz5rk/ram/desktop-ram,29480
+2026-11-01,RAM,DDR5 16GB 6000,Corsair,Corsair Vengeance RGB Grey 16GB 6000MHz CL38 DDR5 RAM,https://mdcomputers.in/product/corsair-ram-vengeance-16gb-ddr5-cmh16gx5m1d6000z38/ram/desktop-ram,29599
+2026-11-01,RAM,DDR5 16GB 6000,G.Skill,G.Skill Flare X5 16GB 6000MHz CL30 DDR5 RAM,https://mdcomputers.in/product/gskill-ram-flare-x5-16gb-ddr5-f5-6000j3038f16gh1-fx5/ram/desktop-ram,31299
+2026-11-01,RAM,DDR5 32GB kit 6000,Teamgroup,TEAMGROUP T-Create Expert DDR5 32GB (16GB x 2) 6000MHz CL30 RAM,https://mdcomputers.in/product/ram/desktop-ram/teamgroup-ram-expert-ddr5-32gb-ctced532g6000hc30dc01,64899
+2026-11-01,RAM,DDR5 32GB kit 6000,Teamgroup,TeamGroup T-Create Expert DDR5 White 32GB (16GB x 2) 6000MHz CL30 RAM,https://mdcomputers.in/product/ram/desktop-ram/teamgroup-ram-expert-ddr5-32gb-white-ctcwd532g6000hc30dc01,64899
+2026-11-01,SSD,128GB SATA,Consistent,Consistent S7 128GB Internal SSD,https://mdcomputers.in/product/consistent-s7-128gb-ssd-ctssd128s7/storage/ssd-drive,2350
+2026-11-01,SSD,4000GB Gen5,Adata,Adata XPG Mars 980 Blade 4TB NVMe Gen5 SSD,https://mdcomputers.in/product/adata-xpg-mars-980-blade-4tb-nvme-ssd-smar-980b-4tcs/storage/ssd-drive,77499
+2026-11-01,CPU Cooler,Air,Msi,MSI MAG COREFROZR AA13 White ARGB 120mm CPU Air Cooler,https://mdcomputers.in/product/cpu-cooler/msi-mag-corefrozr-aa13-white-cpu-air-cooler-306-7zwha21-l80,2200
+2026-11-01,CPU Cooler,Liquid,Cooler,Cooler Master MasterLiquid 240L Core 240mm CPU Liquid Cooler,https://mdcomputers.in/product/cooler-master-core-240mm-liquid-cooler-mlw-d24m-a17pk-r1/cpu-cooler,5200
+2026-11-01,CPU Cooler,Liquid,Cooler,Cooler Master MasterLiquid 360L Core ARGB White 360mm CPU Liquid Cooler,https://mdcomputers.in/product/cooler-master-core-360mm-white-liquid-cooler-mlw-d36m-a18pa-rw/cpu-cooler,6500
+2026-11-01,CPU Cooler,Liquid 360mm,Cooler,Cooler Master MasterLiquid 360 Core II ARGB CPU Liquid Cooler,https://mdcomputers.in/product/cooler-master-360mm-liquid-cooler-mlw-d36m-a18pa-r1/cpu-cooler,7250
+2026-11-01,CPU Cooler,Liquid 360mm,Cooler,Cooler Master MasterLiquid Core NEX 360 ARGB CPU Liquid Cooler,https://mdcomputers.in/product/cooler-master-masterliquid-core-nex-360mm-cpu-cooler/cpu-cooler,7250
+2026-11-01,CPU Cooler,Liquid,Cooler,Cooler Master MasterLiquid Atmos II LCD 360mm ARGB CPU Liquid Cooler,https://mdcomputers.in/product/cooler-master-atmos-360mm-liquid-cooler-mlx-d36m-a25sz-l1/cpu-cooler,15000
+2026-11-01,Power Supply,850W Gold,Thermaltake,Thermaltake Toughpower GT 850 Watt Gold ATX 3.1 Fully Modular SMPS,https://mdcomputers.in/product/smps/thermaltake-toughpower-gt-850w-atx-3-1-gold-smps,9250
+2026-11-01,Power Supply,850W Gold,Deepcool,DeepCool Gamer Storm PN850M Gold ATX 3.1 Fully Modular SMPS,https://mdcomputers.in/product/deepcool-850w-gold-modular-smps-r-pn850m-fc0b-jgin/smps,9550
+2026-11-01,Case,Mini Tower M-ATX,Cooler,Cooler Master Elite 301 ARGB White M-ATX Mini Tower Case,https://mdcomputers.in/product/cabinet/cooler-master-elite-mini-tower-cabinet-e301-wgnn-s00,4550
+2026-11-01,Case,Mid Tower E-ATX,Thermaltake,Thermaltake H570 TG ARGB White E-ATX Mid Tower Case,https://mdcomputers.in/product/cabinet/thermaltake-h570-tg-mid-tower-cabinet-ca-1t9-00m6wn-01,6040
+2026-11-01,Case,Mid Tower E-ATX,Cooler,Cooler Master HAF 500 White E-ATX Mid Tower Case,https://mdcomputers.in/product/cabinet/cooler-master-haf-mid-tower-cabinet-h500-wgnn-s00,10800
+2026-11-01,Case,Mid Tower E-ATX,Cooler,Cooler Master MasterBox CM694 E-ATX Mid Tower Case,https://mdcomputers.in/product/cabinet/cooler-master-masterbox-mid-tower-cabinet-mcb-cm694-kn5n-s00,11600
+2026-11-01,Case,Mini Tower ITX,Cooler,Cooler Master Ncore 100 Max Bronze M-ITX Mini Tower Case,https://mdcomputers.in/product/cabinet/cooler-master-ncore-max-mini-tower-cabinet-nr100-znnn85-sl0,23500
+2026-11-01,Case,Mid Tower E-ATX,Hyte,Hyte Y70 Touch Infinite Black Cherry E-ATX Mid Tower Case,https://mdcomputers.in/product/cabinet/hyte-y70-touch-infinite-cherry-mid-tower-cabinet,42640
+2026-11-01,Case,Mid Tower E-ATX,Hyte,Hyte Y70 Touch Infinite E-ATX Mid Tower Case,https://mdcomputers.in/product/cabinet/hyte-y70-touch-infinite-mid-tower-cabinet,42699
+2026-11-01,Case,Mid Tower E-ATX,Hyte,Hyte Y70 Touch Infinite Panda E-ATX Mid Tower Case,https://mdcomputers.in/product/cabinet/hyte-y70-touch-infinite-panda-mid-tower-cabinet,42699
+2026-11-01,Case,Full Tower,Corsair,Corsair 9000D RGB Airflow Super Tower Case,https://mdcomputers.in/product/cabinet/corsair-9000d-airflow-super-full-tower-cabinet-cc-9011273-ww,47600
+2026-11-01,Case,Full Tower E-ATX,Cooler,Cooler Master HAF 700 EVO ARGB Titanium Grey E-ATX Full Tower Case,https://mdcomputers.in/product/cabinet/cooler-master-haf-evo-full-tower-cabinet-h700e-ignn-s00,47700
+2026-11-01,Case,Full Tower E-ATX,Asus,Asus ROG GR20 Edition 20 Open Frame ARGB E-ATX Full Tower Case,https://mdcomputers.in/product/asus-rog-gr20-edition-20-full-tower-open-frame-cabinet/cabinet,76000
+2026-11-01,Case,SFF ITX,Cooler,"Cooler Master Shark X Mini ITX Case with SMPS, CPU Cooler and Fan",https://mdcomputers.in/product/cabinet/cooler-master-shark-x-mini-tower-cabinet-abk-ffb4-s38l1-r1,360000
