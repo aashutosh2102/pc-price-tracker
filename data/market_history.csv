@@ -1230,3 +1230,41 @@ date,category,key,brand,name,url,price
 2026-11-04,Case,Mid Tower ATX,Thermaltake,Thermaltake The Tower 600 Snow White ATX Mid Tower Case,https://mdcomputers.in/product/cabinet/thermaltake-the-tower-600-mid-tower-cabinet-ca-1z1-00m6wn-00,13840
 2026-11-04,Case,Mid Tower E-ATX,Arctic,Arctic Xtender VG ARGB Mirror Black E-ATX Mid Tower Case,https://mdcomputers.in/product/arctic-xtender-vg-mid-tower-cabinet-acpcc00019a/cabinet,16199
 2026-11-04,Case,Full Tower,Thermaltake,Thermaltake AX700 TG Workstation Super Tower Case,https://mdcomputers.in/product/cabinet/thermaltake-ax700-tg-super-tower-cabinet,34600
+2026-11-05,GPU,RX 9060 XT 16GB,Sapphire,Sapphire Pulse RX 9060 XT OC 16GB GDDR6 Graphics Card,https://mdcomputers.in/product/graphics-card/sapphire-pulse-graphics-card-rx-9060-xt-11350-03-20g,76327
+2026-11-05,GPU,RX 9060 XT 16GB,Gigabyte,Gigabyte RX 9060 XT Gaming OC 16GB GDDR6 Graphics Card,https://mdcomputers.in/product/gigabyte-gaming-graphics-card-gv-r9060xtgaming-oc-16gd/graphics-card,78734
+2026-11-05,GPU,RTX 5070,Msi,MSI RTX 5070 Gaming Trio OC 12GB GDDR7 Graphics Card,https://mdcomputers.in/product/graphics-card/msi-gaming-trio-oc-graphics-card-g5070-12gtc,148100
+2026-11-05,GPU,RTX 5080,Zotac,Zotac RTX 5080 Solid Core OC 16GB GDDR7 Graphics Card,https://mdcomputers.in/product/graphics-card/zotac-rtx-5080-solid-core-oc-graphics-card-zt-b50800j2-10p,289365
+2026-11-05,GPU,RTX 5080,Zotac,Zotac Gaming RTX 5080 Solid OC White 16GB GDDR7 Graphics Card,https://mdcomputers.in/product/graphics-card/zotac-rtx-5080-solid-oc-white-graphics-card-zt-b50800q-10p,289365
+2026-11-05,Motherboard,Z790 ATX,Msi,MSI Pro Z790-P WIFI DDR4 Motherboard,https://mdcomputers.in/product/motherboard/msi-pro-z790-p-wifi-ddr4-motherboard,20350
+2026-11-05,Motherboard,ATX,Asus,ASUS Pro WS W680-ACE IPMI ATX Workstation Motherboard,https://mdcomputers.in/product/asus-pro-ws-w680-ace-ipmi-workstation-motherboard/motherboard,45500
+2026-11-05,Motherboard,X870E ATX,Msi,MSI MPG X870E Carbon Max WiFi7 ATX Motherboard,https://mdcomputers.in/product/motherboard/msi-mpg-x870e-carbon-max-wifi-motherboard,53300
+2026-11-05,Motherboard,X870E ATX,Msi,MSI MPG X870E Carbon Max WiFi7 ATX Motherboard,https://mdcomputers.in/product/motherboard/amd-chipset-motherboard/msi-mpg-x870e-carbon-max-wifi-motherboard,53300
+2026-11-05,RAM,DDR4 16GB kit 3200,Klevv,Klevv Bolt X 16GB (8GBx2) 3200MHz CL16 DDR4 RAM,https://mdcomputers.in/product/klevv-ram-bolt-x-16gb-ddr4-kd48gu880-32a160u/ram/desktop-ram,13160
+2026-11-05,RAM,DDR4 16GB 3200,Corsair,Corsair Vengeance LPX 16GB 3200MHz CL16 DDR4 RAM,https://mdcomputers.in/product/corsair-ram-vengeance-lpx-cmk16gx4m1e3200c16/ram/desktop-ram,13400
+2026-11-05,RAM,DDR5 8GB 4800,Adata,Adata 8GB 4800MHz CL40 DDR5 RAM,https://mdcomputers.in/product/adata-ram-8gb-ddr5-4800mhz-ad5u48008g-s/ram/desktop-ram,14239
+2026-11-05,RAM,DDR5 16GB 5600,Geil,Geil Orion V 16GB 5600MHz CL38 DDR5 RAM,https://mdcomputers.in/product/geil-orion-v-16gb-ddr5-gvg516gb5600c38asc/ram/desktop-ram,24520
+2026-11-05,RAM,DDR5 16GB 5600,Corsair,Corsair Vengeance 16GB 5600MHz CL40 DDR5 RAM,https://mdcomputers.in/product/corsair-ram-vengeance-cmk16gx5m1b5600c40/ram/desktop-ram,26600
+2026-11-05,RAM,DDR5 16GB 6000,Klevv,Klevv FIT V 16GB 6000MHz CL30 DDR5 RAM,https://mdcomputers.in/product/klevv-ram-fit-v-16gb-6000-ddr5-kd5agu880-60a300k/ram/desktop-ram,29000
+2026-11-05,RAM,DDR5 16GB 5600,Kingston,Kingston Fury Beast 16GB 5600MHz CL36 DDR5 RAM,https://mdcomputers.in/product/kingston-ram-fury-beast-16gb-ddr5-kf556c36bbe-16/ram/desktop-ram,32900
+2026-11-05,SSD,2000GB Gen5,Crucial,Crucial P510 2TB NVMe Gen5 SSD,https://mdcomputers.in/product/crucial-p510-2tb-nvme-ssd-ct2000p510ssd8,39199
+2026-11-05,SSD,1000GB Gen4,Adata,Adata Legend 960 1TB M.2 NVMe Gen4 SSD,https://mdcomputers.in/product/adata-legend-960-1tb-nvme-ssd-aleg-960-1tcs,20699
+2026-11-05,SSD,2000GB Gen4,Acer,Acer FA200 2TB NVMe Gen4 SSD,https://mdcomputers.in/product/acer-fa200-2tb-nvme-ssd-bl-9bwwa-125,27799
+2026-11-05,SSD,1000GB Gen5,Crucial,Crucial P510 1TB NVMe Gen5 SSD,https://mdcomputers.in/product/crucial-p510-1tb-nvme-ssd-ct1000p510ssd8/storage/ssd-drive,23380
+2026-11-05,SSD,250GB Gen3,Wd,WD Green SN350 NVMe 250GB Gen3 SSD,https://mdcomputers.in/product/storage/ssd-drive/wd-green-sn350-250gb-nvme-ssd-wds250g2g0c,6590
+2026-11-05,SSD,512GB SATA,Adata,Adata Ultimate SU650 512GB SSD,https://mdcomputers.in/product/adata-ultimate-su650-512gb-ssd-asu650ss-512gt-r/storage/ssd-drive,7399
+2026-11-05,SSD,512GB Gen3,Acer,Acer FA100 512GB NVMe Gen3 SSD,https://mdcomputers.in/product/acer-fa100-512gb-nvme-ssd-bl-9bwwa-119/storage/ssd-drive,8980
+2026-11-05,SSD,1000GB Gen4,Wd,WD Black SN7100 NVMe 1TB Gen4 SSD,https://mdcomputers.in/product/storage/ssd-drive/wd-black-sn7100-1tb-nvme-ssd-wds100t4x0e,18200
+2026-11-05,SSD,1000GB Gen4,Adata,Adata XPG Gammix S70 Blade 1TB M.2 NVMe Gen4 Internal SSD,https://mdcomputers.in/product/adata-xpg-gammix-s70-blade-nvme-ssd-agammixs70b-1t-cs/storage/ssd-drive,20480
+2026-11-05,SSD,1000GB Gen4,Adata,Adata Legend 960 1TB M.2 NVMe Gen4 SSD,https://mdcomputers.in/product/adata-legend-960-1tb-nvme-ssd-aleg-960-1tcs/storage/ssd-drive,20699
+2026-11-05,SSD,1000GB Gen5,Adata,Adata XPG Mars 980 Blade 1TB NVMe Gen5 SSD,https://mdcomputers.in/product/adata-mars-980-blade-1tb-nvme-ssd-smar-980b-1tcs/storage/ssd-drive,21999
+2026-11-05,SSD,2000GB Gen4,Acer,Acer FA200 2TB NVMe Gen4 SSD,https://mdcomputers.in/product/acer-fa200-2tb-nvme-ssd-bl-9bwwa-125/storage/ssd-drive,27799
+2026-11-05,SSD,1000GB Gen5,Samsung,Samsung 9100 PRO 1TB NVMe Gen5 SSD,https://mdcomputers.in/product/samsung-9100-pro-1tb-nvme-ssd-mz-vap1t0bw/storage/ssd-drive,28280
+2026-11-05,SSD,1000GB Gen5,Crucial,Crucial T710 1TB NVMe Gen5 SSD with Heatsink,https://mdcomputers.in/product/crucial-t710-1tb-nvme-ssd-ct1000t710ssd5/storage/ssd-drive,28899
+2026-11-05,SSD,2000GB Gen5,Crucial,Crucial P510 2TB NVMe Gen5 SSD,https://mdcomputers.in/product/crucial-p510-2tb-nvme-ssd-ct2000p510ssd8/storage/ssd-drive,39199
+2026-11-05,SSD,2000GB Gen5,Crucial,Crucial T705 2TB NVMe Gen5 SSD,https://mdcomputers.in/product/crucial-t705-2tb-nvme-ssd-ct2000t705ssd3/storage/ssd-drive,44860
+2026-11-05,SSD,2000GB Gen4,Samsung,Samsung 990 Pro 2TB M.2 NVMe Gen4 SSD,https://mdcomputers.in/product/samsung-990-pro-2tb-nvme-ssd-mz-v9p2t0bw/storage/ssd-drive,49280
+2026-11-05,CPU Cooler,Air,Cooler,Cooler Master Hyper 212 Flow ARGB 120mm CPU Air Cooler,https://mdcomputers.in/product/cooler-master-hyper-212-flow-argb-cpu-cooler-max-t4pn-217pa-r1/cpu-cooler,2010
+2026-11-05,CPU Cooler,Liquid,Thermaltake,Thermaltake LB360-S ARGB 360mm White CPU Liquid Cooler With LCD Display,https://mdcomputers.in/product/cpu-cooler/thermaltake-lb360-s-wh-liquid-cooler-cl-w500-pl12sw-a,8630
+2026-11-05,CPU Cooler,Liquid 360mm,Thermaltake,Thermaltake Minecube 360 Ultra ARGB Sync CPU Liquid Cooler,https://mdcomputers.in/product/cpu-cooler/thermaltake-minecube-360mm-liquid-cooler-cl-w481-pl12sw-a,28045
+2026-11-05,Case,Mini Tower M-ATX,Cooler,Cooler Master Elite 302 ARGB M-ATX Mini Tower Case,https://mdcomputers.in/product/cabinet/coolermaster-elite-302-argb-mini-tower-cabinet,4750
+2026-11-05,Case,Mid Tower ATX,Thermaltake,Thermaltake View 380 XL TG ARGB ATX Mid Tower Case,https://mdcomputers.in/product/cabinet/thermaltake-view-380-xl-tg-black-mid-tower-cabinet,9780
