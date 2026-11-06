@@ -1268,3 +1268,53 @@ date,category,key,brand,name,url,price
 2026-11-05,CPU Cooler,Liquid 360mm,Thermaltake,Thermaltake Minecube 360 Ultra ARGB Sync CPU Liquid Cooler,https://mdcomputers.in/product/cpu-cooler/thermaltake-minecube-360mm-liquid-cooler-cl-w481-pl12sw-a,28045
 2026-11-05,Case,Mini Tower M-ATX,Cooler,Cooler Master Elite 302 ARGB M-ATX Mini Tower Case,https://mdcomputers.in/product/cabinet/coolermaster-elite-302-argb-mini-tower-cabinet,4750
 2026-11-05,Case,Mid Tower ATX,Thermaltake,Thermaltake View 380 XL TG ARGB ATX Mid Tower Case,https://mdcomputers.in/product/cabinet/thermaltake-view-380-xl-tg-black-mid-tower-cabinet,9780
+2026-11-06,GPU,RTX 5060 Ti 16GB,Asus,ASUS Dual RTX 5060 Ti OC Edition 16GB GDDR7 Graphics Card,https://mdcomputers.in/product/asus-dual-graphics-card-rtx5060ti-o16g/graphics-card,111231
+2026-11-06,GPU,RX 9070 XT,Gigabyte,Gigabyte RX 9070 XT Gaming OC 16GB GDDR6 Graphics Card,https://mdcomputers.in/product/gigabyte-gaming-graphics-card-gv-r9070xtgaming-oc-16gd/graphics-card,114842
+2026-11-06,GPU,RTX 5060 Ti 16GB,Asus,ASUS Prime RTX 5060 Ti OC 16GB GDDR7 Graphics Card,https://mdcomputers.in/product/asus-prime-graphics-card-rtx5060ti-o16g/graphics-card,120860
+2026-11-06,Motherboard,H610 mATX,Gigabyte,Gigabyte H610M K DDR4 M-ATX Motherboard,https://mdcomputers.in/product/gigabyte-h610m-k-ddr4-motherboard/motherboard,6500
+2026-11-06,Motherboard,B850 mATX,Gigabyte,GIGABYTE B850M Gaming X WIFI6E M-ATX Motherboard,https://mdcomputers.in/product/gigabyte-b850m-gaming-x-wifi6e-motherboard/motherboard,16700
+2026-11-06,Motherboard,B760 mATX,Gigabyte,Gigabyte B760M Aorus Elite WiFi6E GEN5 M-ATX Motherboard,https://mdcomputers.in/product/gigabyte-b760m-aorus-elite-wifi6e-gen5-motherboard/motherboard,17650
+2026-11-06,Motherboard,Z890 ATX,Gigabyte,Gigabyte Z890 UD WIFI6E ATX Motherboard,https://mdcomputers.in/product/gigabyte-z890-ud-wifi6e-motherboard/motherboard,25750
+2026-11-06,Motherboard,B850 mATX,Gigabyte,GIGABYTE B850M Gaming X WIFI6E M-ATX Motherboard,https://mdcomputers.in/product/gigabyte-b850m-gaming-x-wifi6e-motherboard/motherboard/amd-chipset-motherboard,16700
+2026-11-06,SSD,128GB SATA,Verbatim,Verbatim Vi550 S3 128GB SATA SSD,https://mdcomputers.in/product/storage/ssd-drive/verbatim-vi550-s3-128gb-sata-ssd-49350,2470
+2026-11-06,CPU Cooler,Air,Antec,Antec A35 FRGB 120mm PWM CPU Air Cooler,https://mdcomputers.in/product/antec-a35-frgb-120mm-pwm-cpu-air-cooler/cpu-cooler,700
+2026-11-06,CPU Cooler,Air,Antec,Antec A400i RGB CPU Air Cooler,https://mdcomputers.in/product/antec-a400i-cpu-air-cooler/cpu-cooler,1230
+2026-11-06,CPU Cooler,Air,Antec,Antec A30 Neo ARGB CPU Air Cooler (Black),https://mdcomputers.in/product/antec-a30-neo-cpu-air-cooler/cpu-cooler,1410
+2026-11-06,CPU Cooler,Air,Antec,Antec F400 ARGB 120mm PWM CPU Air Cooler,https://mdcomputers.in/product/antec-f400-argb-120mm-cpu-air-cooler/cpu-cooler,2190
+2026-11-06,CPU Cooler,Air,Antec,Antec F400 ARGB White 120mm PWM CPU Air Cooler,https://mdcomputers.in/product/antec-f400-argb-white-120mm-cpu-air-cooler/cpu-cooler,2310
+2026-11-06,CPU Cooler,Air,Antec,Antec F600 ARGB 120mm PWM CPU Air Cooler,https://mdcomputers.in/product/antec-f600-argb-120mm-cpu-air-cooler/cpu-cooler,2790
+2026-11-06,CPU Cooler,Air,Antec,Antec F600 ARGB White 120mm PWM CPU Air Cooler,https://mdcomputers.in/product/antec-f600-argb-white-120mm-cpu-air-cooler/cpu-cooler,3030
+2026-11-06,CPU Cooler,Air dual-tower,Antec,Antec F620 Digital Pro 120mm Dual Tower CPU Air Cooler,https://mdcomputers.in/product/antec-f620-digital-pro-120mm-cpu-air-cooler/cpu-cooler,4400
+2026-11-06,CPU Cooler,Air dual-tower,Antec,Antec F620 Digital Pro White 120mm Dual Tower CPU Air Cooler,https://mdcomputers.in/product/antec-f620-digital-pro-white-120mm-cpu-air-cooler/cpu-cooler,4640
+2026-11-06,CPU Cooler,Air dual-tower,Be,Be Quiet Pure Rock Pro 3 Dual Tower 120mm CPU Air Cooler,https://mdcomputers.in/product/bequiet-pure-rock-pro-3-dual-tower-cpu-air-cooler/cpu-cooler,5350
+2026-11-06,CPU Cooler,Air dual-tower,Be,Be Quiet Pure Rock Pro 3 Black Dual Tower 120mm CPU Air Cooler,https://mdcomputers.in/product/bequiet-pure-rock-pro-3-black-dual-tower-cpu-air-cooler/cpu-cooler,19999
+2026-11-06,CPU Cooler,Liquid 360mm,Antec,Antec Luna 360 ARGB CPU Liquid Cooler,https://mdcomputers.in/product/antec-luna-360-argb-cpu-liquid-cooler/cpu-cooler,5930
+2026-11-06,CPU Cooler,Air dual-tower,Be,Be Quiet Pure Rock Pro 3 LX 120mm PWM Dual Tower ARGB CPU Air Cooler,https://mdcomputers.in/product/bequiet-pure-rock-pro-3-lx-argb-dual-tower-cpu-air-cooler/cpu-cooler,7000
+2026-11-06,CPU Cooler,Air,Be,Be Quiet Dark Rock 6 PWM 135mm CPU Air Cooler,https://mdcomputers.in/product/bequiet-dark-rock-6-135mm-cpu-air-cooler/cpu-cooler,10750
+2026-11-06,Power Supply,450W Unrated,Antec,Antec Atom V450 V2 SMPS,https://mdcomputers.in/product/antec-atom-v450-v2-smps/smps,1735
+2026-11-06,Power Supply,550W Unrated,Antec,Antec Atom V550 V2 SMPS,https://mdcomputers.in/product/antec-atom-v550-v2-smps/smps,2130
+2026-11-06,Power Supply,550W Bronze,Thermaltake,Thermaltake Smart BX1 550 Watt 80 Plus Bronze SMPS,https://mdcomputers.in/product/smps/thermaltake-smart-bx1-bronze-smps-ps-spd-0550nnsabd-1,3599
+2026-11-06,Power Supply,650W Silver,Gigabyte,GIGABYTE P650SS Silver ATX 3.1 SMPS,https://mdcomputers.in/product/gigabyte-p650ss-atx-3-1-silver-smps/smps,4650
+2026-11-06,Power Supply,750W Gold,Antec,Antec G750 Gold 750 Watt SMPS,https://mdcomputers.in/product/antec-g750-gold-smps/smps,5760
+2026-11-06,Power Supply,750W Bronze,Gigabyte,Gigabyte P750BS Bronze 750 Watt ATX Smps,https://mdcomputers.in/product/gigabyte-bronze-smps-gp-p750bs/smps,5900
+2026-11-06,Power Supply,750W Gold,Gigabyte,Gigabyte P750GM 80 Plus Gold SMPS,https://mdcomputers.in/product/gigabyte-p750gm-gold-modular-smps-gp-p750gm/smps,6900
+2026-11-06,Power Supply,850W Gold,Gigabyte,Gigabyte P850GM 850 Watt 80 Plus Gold SMPS,https://mdcomputers.in/product/gigabyte-p850gm-gold-modular-smps-gp-p850gm/smps,8250
+2026-11-06,Power Supply,1000W Bronze,Antec,Antec CSK1000 PRO ATX 3.1 Bronze SMPS,https://mdcomputers.in/product/antec-csk1000-pro-bronze-modular-smps/smps,8340
+2026-11-06,Power Supply,1000W Gold,Gigabyte,Gigabyte UD1000GM PG5 V2 Gold 1000 Watt ATX 3.1 Fully Modular Smps,https://mdcomputers.in/product/gigabyte-gp-ud1000gm-pg5-v2-gold-modular-smps/smps,12950
+2026-11-06,Power Supply,1200W Platinum,Antec,Antec HCG1200 PRO Platinum ATX 3.1 Fully Modular Smps,https://mdcomputers.in/product/antec-hcg1200-pro-platinum-modular-smps/smps,16550
+2026-11-06,Case,Mini Tower M-ATX,Antec,Antec ST10M M-ATX Mini Tower Case,https://mdcomputers.in/product/antec-st10m-mini-tower-cabinet/cabinet,1600
+2026-11-06,Case,Mini Tower M-ATX,Antec,Antec ST20M M-ATX Mini Tower Case,https://mdcomputers.in/product/antec-st20m-mini-tower-cabinet/cabinet,1960
+2026-11-06,Case,Mini Tower M-ATX,Antec,Antec ST5M ARGB M-ATX Mini Tower Case,https://mdcomputers.in/product/antec-st5m-argb-mini-tower-cabinet/cabinet,2320
+2026-11-06,Case,Mid Tower ATX,Antec,Antec VX310 ARGB ATX Mid Tower Case,https://mdcomputers.in/product/antec-vx310-argb-mid-tower-cabinet/cabinet,3220
+2026-11-06,Case,Mini Tower M-ATX,Cooler,Cooler Master Q300L V3 M-ATX Mini Tower Case,https://mdcomputers.in/product/cabinet/cooler-master-q300l-v3-mini-tower-cabinet-q300lv3-kgnn-s00,4300
+2026-11-06,Case,Mid Tower ATX,Antec,Antec P6 Neo ARGB ATX Mid Tower Case,https://mdcomputers.in/product/antec-p6-neo-argb-mid-tower-cabinet/cabinet,4420
+2026-11-06,Case,Mid Tower ATX,Antec,Antec CX700 ARGB ATX Mid Tower Case,https://mdcomputers.in/product/antec-cx700-argb-black-mid-tower-cabinet/cabinet,4760
+2026-11-06,Case,Mid Tower ATX,Antec,Antec C3 ARGB ATX Mid Tower Case,https://mdcomputers.in/product/antec-c3-argb-mid-tower-cabinet/cabinet,5360
+2026-11-06,Case,Mini Tower M-ATX,Antec,Antec CX600M Trio ARGB M-ATX Mini Tower Case,https://mdcomputers.in/product/antec-cx600m-trio-argb-mini-tower-cabinet/cabinet,5400
+2026-11-06,Case,Mid Tower ATX,Antec,Antec CX700 ARGB White ATX Mid Tower Case,https://mdcomputers.in/product/antec-cx700-argb-white-mid-tower-cabinet/cabinet,6600
+2026-11-06,Case,Mid Tower ATX,Antec,Antec C3 ARGB White ATX Mid Tower Case,https://mdcomputers.in/product/antec-c3-argb-white-mid-tower-cabinet/cabinet,6610
+2026-11-06,Case,Mid Tower ATX,Antec,Antec C5 ARGB ATX Mid Tower Case,https://mdcomputers.in/product/antec-c5-argb-mid-tower-cabinet/cabinet,6800
+2026-11-06,Case,Mid Tower ATX,Antec,Antec C5 Curve ARGB White ATX Mid Tower Case,https://mdcomputers.in/product/antec-c5-curve-argb-white-mid-tower-cabinet/cabinet,8180
+2026-11-06,Case,Full Tower E-ATX,Antec,Antec C8 Aluminum White E-ATX Full Tower Case,https://mdcomputers.in/product/antec-c8-aluminum-white-full-tower-cabinet/cabinet,8700
+2026-11-06,Case,Mid Tower E-ATX,Antec,Antec C7 White ARGB E-ATX Mid Tower Case,https://mdcomputers.in/product/antec-c7-white-argb-mid-tower-cabinet/cabinet,10500
+2026-11-06,Case,Mid Tower M-ATX,Cooler,Cooler Master MasterFrame 400 Mesh ARGB M-ATX Mid Tower Case,https://mdcomputers.in/product/cabinet/cooler-master-masterframe-400-mesh-mid-tower-cabinet,12500
