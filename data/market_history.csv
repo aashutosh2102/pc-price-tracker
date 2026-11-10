@@ -1541,3 +1541,51 @@ date,category,key,brand,name,url,price
 2026-11-09,Case,Mid Tower ATX,Thermaltake,Thermaltake The Tower 600 Snow White ATX Mid Tower Case,https://mdcomputers.in/product/cabinet/thermaltake-the-tower-600-mid-tower-cabinet-ca-1z1-00m6wn-00,13900
 2026-11-09,Case,Mid Tower E-ATX,Arctic,Arctic Xtender VG ARGB Mirror Black E-ATX Mid Tower Case,https://mdcomputers.in/product/arctic-xtender-vg-mid-tower-cabinet-acpcc00019a/cabinet,16500
 2026-11-09,Case,Full Tower,Thermaltake,Thermaltake AX700 TG Workstation Super Tower Case,https://mdcomputers.in/product/cabinet/thermaltake-ax700-tg-super-tower-cabinet,35800
+2026-11-10,GPU,PNY Quadro RTX PRO 2000 Blackwell 16GB Graphics Card,Pny,PNY Quadro RTX PRO 2000 Blackwell 16GB Graphics Card,https://mdcomputers.in/product/graphics-card/pny-nvidia-blackwell-quadro-gpu-vcnrtxpro2000-sb,181040
+2026-11-10,GPU,RTX 5080,Msi,MSI GeForce RTX 5080 Call Of Duty Modern Warfare 4 Edition OC 16GB GDDR7 Graphics Card,https://mdcomputers.in/product/graphics-card/msi-rtx-5080-16g-call-of-duty-modern-warfare-4-oc-gpu,331490
+2026-11-10,RAM,DDR4 8GB 3600,Corsair,Corsair Vengeance LPX 8GB 3600MHz CL18 DDR4 RAM,https://mdcomputers.in/product/corsair-ram-vengeance-lpx-cmk8gx4m1z3600c18/ram/desktop-ram,6999
+2026-11-10,RAM,DDR4 16GB 3200,G.Skill,G.Skill Ripjaws V 16GB 3200MHz CL16 DDR4 RAM,https://mdcomputers.in/product/g-skill-ram-ripjaws-v-16gb-ddr4-3200mhz-f4-3200c16s-16gvk/ram/desktop-ram,12799
+2026-11-10,RAM,DDR5 16GB 5600,Geil,Geil Orion V 16GB 5600MHz CL38 DDR5 RAM,https://mdcomputers.in/product/geil-orion-v-16gb-ddr5-gvg516gb5600c38asc/ram/desktop-ram,24520
+2026-11-10,RAM,DDR5 16GB 6000,Crucial,Crucial Pro 16GB 6000MHz CL48 DDR5 RAM,https://mdcomputers.in/product/crucial-ram-pro-16gb-ddr5-cp16g60c48u5/ram/desktop-ram,26999
+2026-11-10,RAM,DDR5 32GB 5600,Geil,Geil Orion V 32GB 5600MHz CL38 DDR5 RAM,https://mdcomputers.in/product/geil-orion-v-32gb-ddr5-gvg532gb5600c38asc/ram/desktop-ram,48699
+2026-11-10,RAM,DDR5 32GB kit 6000,Kingston,Kingston Fury Beast RGB White EXPO 32GB (16GBx2) 6000MHz CL30 DDR5 RAM,https://mdcomputers.in/product/kingston-ram-fury-beast-32gb-ddr5-kf560c30bweak2-32/ram/desktop-ram,69999
+2026-11-10,RAM,DDR5 64GB kit 5600,Corsair,Corsair Vengeance RGB Grey 64GB (32GBx2) 5600MHz CL36 DDR5 RAM,https://mdcomputers.in/product/corsair-ram-vengeance-64gb-ddr5-cmh64gx5m2b5600z36k/ram/desktop-ram,110860
+2026-11-10,RAM,DDR5 64GB kit 6000,Corsair,Corsair Vengeance 64GB (32GBx2) 6000MHz CL40 DDR5 RAM,https://mdcomputers.in/product/corsair-ram-vengeance-cmk64gx5m2d6000c40/ram/desktop-ram,113140
+2026-11-10,RAM,DDR5 64GB kit 6000,G.Skill,G.Skill Trident Z5 Neo RGB 64GB (32GBx2) 6000MHz CL36 DDR5 RAM,https://mdcomputers.in/product/g-skill-trident-z5-neo-64gb-ddr5-f5-6000j3636f32gx2-tz5nr/ram/desktop-ram,124899
+2026-11-10,RAM,DDR5 64GB kit 6000,Adata,Adata XPG Lancer Blade White 64GB (32GBx2) 6000MHz CL30 DDR5 RAM,https://mdcomputers.in/product/adata-ram-xpg-lancer-blade-64gb-ddr5-ax5u6000c3032g-dtlabwh/ram/desktop-ram,135499
+2026-11-10,RAM,DDR5 64GB kit 6000,Adata,Adata XPG Lancer Blade RGB 64GB (32GBx2) 6000MHz CL30 DDR5 RAM,https://mdcomputers.in/product/adata-ram-xpg-lancer-blade-64gb-ddr5-ax5u6000c3032g-dtlabrbk/ram/desktop-ram,139099
+2026-11-10,RAM,DDR5 64GB kit 6000,Adata,Adata XPG Lancer Blade RGB White 64GB (32GBx2) 6000MHz CL30 DDR5 RAM,https://mdcomputers.in/product/adata-ram-xpg-lancer-blade-64gb-ddr5-ax5u6000c3032g-dtlabrwh/ram/desktop-ram,139099
+2026-11-10,SSD,2000GB Gen4,Crucial,Crucial P310 NVMe 2TB Gen4 SSD,https://mdcomputers.in/product/crucial-p310-2tb-nvme-ssd-ct2000p310ssd8/storage/ssd-drive,29899
+2026-11-10,SSD,1000GB Gen5,Crucial,Crucial P510 1TB NVMe Gen5 SSD,https://mdcomputers.in/product/crucial-p510-1tb-nvme-ssd-ct1000p510ssd8/storage/ssd-drive,22540
+2026-11-10,SSD,256GB NVMe,Verbatim,Verbatim Vi560 S3 256GB M.2 SSD,https://mdcomputers.in/product/storage/ssd-drive/verbatim-vi560-s3-m-2-256gb-ssd-49362,3670
+2026-11-10,SSD,480GB Gen4,Crucial,Crucial E100 480GB NVMe Gen4 SSD,https://mdcomputers.in/product/crucial-e100-480gb-nvme-ssd-ct480e100ssd8/storage/ssd-drive,8740
+2026-11-10,SSD,512GB Gen4,Adata,Adata XPG Gammix S60 512GB M.2 NVMe Gen4 Internal SSD,https://mdcomputers.in/product/adata-xpg-gammix-s60-512gb-nvme-ssd-agammixs60-512g-cs/storage/ssd-drive,10540
+2026-11-10,CPU Cooler,Air,Msi,MSI Pro Corefrozr Ar15 ARGB 120mm CPU Air Cooler,https://mdcomputers.in/product/cpu-cooler/msi-pro-corefrozr-ar15-cpu-air-cooler,2000
+2026-11-10,CPU Cooler,Air,Antec,Antec F600 ARGB 120mm PWM CPU Air Cooler,https://mdcomputers.in/product/antec-f600-argb-120mm-cpu-air-cooler/cpu-cooler,2850
+2026-11-10,CPU Cooler,Air,Deepcool,Deepcool AN600 VC 120mm CPU Air Cooler,https://mdcomputers.in/product/cpu-cooler/deepcool-an600-vc-cpu-air-cooler,5900
+2026-11-10,CPU Cooler,Liquid 360mm,Corsair,Corsair Nautilus 360 RS ARGB 360mm CPU Liquid Cooler,https://mdcomputers.in/product/corsair-nautilus-360-rs-argb-cpu-liquid-cooler/cpu-cooler,9300
+2026-11-10,CPU Cooler,Liquid 360mm,Corsair,Corsair Nautilus II 360 RS LCD 360mm White CPU Liquid Cooler,https://mdcomputers.in/product/corsair-nautilus-ii-360-rs-lcd-white-cpu-liquid-cooler/cpu-cooler,11500
+2026-11-10,CPU Cooler,Liquid,Cooler,Cooler Master MasterLiquid Atmos II VRM Fan 360mm ARGB White CPU Liquid Cooler,https://mdcomputers.in/product/cooler-master-masterliquid-atmos-ii-vrm-wh-360mm-liquid-cooler/cpu-cooler,12000
+2026-11-10,CPU Cooler,Liquid,Cooler,Cooler Master MasterLiquid Atmos II LCD 360mm White ARGB CPU Liquid Cooler,https://mdcomputers.in/product/cooler-master-atmos-360mm-liquid-cooler-mlx-d36m-a25sz-lw/cpu-cooler,15000
+2026-11-10,CPU Cooler,Liquid 360mm,Thermaltake,Thermaltake Magfloe 360 Ultra ARGB Sync CPU Liquid Cooler,https://mdcomputers.in/product/cpu-cooler/thermaltake-360mm-liquid-cooler-cl-w432-pl12sw-a,18350
+2026-11-10,Power Supply,550W Bronze,Cooler,Cooler Master MWE Bronze 550 Watt V3 ATX 3.1 Smps,https://mdcomputers.in/product/cooler-master-mwe-550-v3-230v-bronze-smps-mpe-5501-acabw-3bin/smps,4250
+2026-11-10,Power Supply,850W Gold,Cooler,Cooler Master Elite Gold 850 Watt ATX 3.1 Fully Modular Smps,https://mdcomputers.in/product/cooler-master-elite-gold-850-modular-smps-mpx-8505-afag/smps,9000
+2026-11-10,Power Supply,850W Gold,Msi,MSI MAG A850GL PCIE5 White Gold ATX 3.1 Fully Modular SMPS,https://mdcomputers.in/product/msi-mag-a850gl-pcie5-white-atx3-1-gold-modular-smps/smps,11200
+2026-11-10,Power Supply,1000W Gold,Deepcool,Deepcool Gamer Storm PN1000M Gold ATX 3.1 Fully Modular SMPS,https://mdcomputers.in/product/deepcool-pn1000m-gold-modular-smps-r-pna00m-fc0b-jgin/smps,12399
+2026-11-10,Power Supply,750W Gold,Cooler,Cooler Master V750 SFX Gold ATX 3.1 Fully Modular SMPS,https://mdcomputers.in/product/cooler-master-v-750-sfx-gold-moular-smps/smps,13999
+2026-11-10,Power Supply,1250W Gold,Cooler,Cooler Master MWE Gold 1250 Watt V2 ATX 3.1 Fully Modular Smps,https://mdcomputers.in/product/cooler-master-mwe-gold-1250-v2-modular-smps-mpe-c501-afcag-3ein/smps,19200
+2026-11-10,Case,Mid Tower ATX,Thermaltake,Thermaltake H550 TG ARGB ATX Mid Tower Case,https://mdcomputers.in/product/thermaltake-h550-tg-mid-tower-cabinet-ca-1p4-00m1wn-00,7186
+2026-11-10,Case,Mini Tower M-ATX,Cooler,Cooler Master Q300L V3 White M-ATX Mini Tower Case,https://mdcomputers.in/product/cabinet/cooler-master-q300l-v3-white-mini-tower-cabinet,4000
+2026-11-10,Case,Mini Tower M-ATX,Cooler,Cooler Master Qube 340 M-ATX Mini Tower Case,https://mdcomputers.in/product/cabinet/cooler-master-qube-340-mini-tower-cabinet-q340-kgnn-s00,4660
+2026-11-10,Case,Mid Tower ATX,Montech,Montech X3 Glass RGB ATX Mid Tower Case,https://mdcomputers.in/product/cabinet/montech-x3-glass-rgb-mid-tower-cabinet,5299
+2026-11-10,Case,Mid Tower E-ATX,Aerocool,AeroCool Cronus ARGB E-ATX Mid Tower Case,https://mdcomputers.in/product/aerocool-mid-tower-cabinet-cronus-g-bk-v1/cabinet,6699
+2026-11-10,Case,Mid Tower ATX,Thermaltake,Thermaltake H550 TG ARGB ATX Mid Tower Case,https://mdcomputers.in/product/cabinet/thermaltake-h550-tg-mid-tower-cabinet-ca-1p4-00m1wn-00,7186
+2026-11-10,Case,Mid Tower ATX,Dawg,Dawg Y 804 White ARGB ATX Mid Tower Case,https://mdcomputers.in/product/cabinet/dawg-y-804-white-mid-tower-cabinet,7499
+2026-11-10,Case,Mid Tower ATX,Prolab,ProLab Design AI848 ARGB ATX Mid Tower Case,https://mdcomputers.in/product/cabinet/prolab-ai848-mid-tower-cabinet,7999
+2026-11-10,Case,Mid Tower E-ATX,Corsair,Corsair 3500X RS-R ARGB White E-ATX Mid Tower Case,https://mdcomputers.in/product/cabinet/corsair-3500x-rs-r-argb-white-mid-tower-cabinet-cc-9011323-ww,8437
+2026-11-10,Case,Mid Tower ATX,Lian,Lian Li SUP01 White ATX Mid Tower Case,https://mdcomputers.in/product/cabinet/lian-li-sup01-mid-tower-cabinet-g99-sup01w-in,9450
+2026-11-10,Case,Mid Tower ATX,Cooler,Cooler Master Qube 540 SPECIAL Stainless Steel ATX Mid Tower Case,https://mdcomputers.in/product/cabinet/cooler-master-qube-540-special-stainless-steel-mid-tower-cabinet,11300
+2026-11-10,Case,Mid Tower E-ATX,Thermaltake,Thermaltake View 300 MX Snow ARGB White E-ATX Mid Tower Case,https://mdcomputers.in/product/cabinet/thermaltake-view-300-mx-mid-tower-cabinet-ca-1p6-00m6wn-00,11450
+2026-11-10,Case,Mid Tower E-ATX,Arctic,Arctic Xtender VG ARGB Mirror Black E-ATX Mid Tower Case,https://mdcomputers.in/product/arctic-xtender-vg-mid-tower-cabinet-acpcc00019a/cabinet,16199
+2026-11-10,Case,Mini Tower,Cooler,Cooler Master MasterFrame 400 Mesh Gold Limited Edition Mini Tower Case,https://mdcomputers.in/product/cabinet/cooler-master-masterframe-400-mesh-gold-mini-tower-cabinet,24500
+2026-11-10,Case,Full Tower E-ATX,Cooler,Cooler Master Cosmos Alpha E-ATX Full Tower Case,https://mdcomputers.in/product/cabinet/cooler-master-cosmos-alpha-mid-tower-cabinet-c700-kgnn-s00,33650
