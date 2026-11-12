@@ -1662,3 +1662,61 @@ date,category,key,brand,name,url,price
 2026-11-11,Case,Full Tower E-ATX,Cooler,Cooler Master Cosmos Alpha E-ATX Full Tower Case,https://mdcomputers.in/product/cabinet/cooler-master-cosmos-alpha-mid-tower-cabinet-c700-kgnn-s00,33100
 2026-11-11,Case,Full Tower E-ATX,Cooler,Cooler Master HAF 700 EVO ARGB Titanium Grey E-ATX Full Tower Case,https://mdcomputers.in/product/cabinet/cooler-master-haf-evo-full-tower-cabinet-h700e-ignn-s00,47000
 2026-11-11,Case,Full Tower E-ATX,Msi,MSI MEG Maestro 900R ARGB E-ATX Full Tower Case,https://mdcomputers.in/product/cabinet,71500
+2026-11-12,GPU,RTX 5060,Zotac,ZOTAC RTX 5060 AMP 8GB GDDR7 Graphics Card,https://mdcomputers.in/product/graphics-card/zotac-rtx-5060-amp-graphics-card-zt-b50600f-10m,67902
+2026-11-12,GPU,RTX 5060,Zotac,Zotac Gaming RTX 5060 AMP Core 8GB GDDR7 Graphics Card,https://mdcomputers.in/product/graphics-card/zotac-rtx-5060-amp-core-graphics-card-zt-b50600f2-10m,69105
+2026-11-12,GPU,RX 9060 XT 16GB,Asrock,ASRock RX 9060 XT Challenger OC 16GB GDDR6 Graphics Card,https://mdcomputers.in/product/asrock-challenger-graphics-card-rx9060xt-cl-16go/graphics-card,76327
+2026-11-12,GPU,RTX 5060 Ti 16GB,Gigabyte,Gigabyte RTX 5060 Ti Windforce Max OC 16GB GDDR7 Graphics Card,https://mdcomputers.in/product/gigabyte-rtx-5060-ti-windforce-gpu-gv-n506twf2max-oc-16gd/graphics-card,111230
+2026-11-12,GPU,RX 9070 XT,Asrock,Asrock RX 9070 XT Challenger 16GB GDDR6 Graphics Card,https://mdcomputers.in/product/asrock-challenger-graphics-card-rx9070xt-cl-16g/graphics-card,114842
+2026-11-12,GPU,RTX 5060 Ti 16GB,Gigabyte,Gigabyte RTX 5060 Ti Eagle Max OC 16GB GDDR7 Graphics Card,https://mdcomputers.in/product/gigabyte-graphics-card-rtx-5060-ti-gv-n506teaglemax-oc-16gd/graphics-card,114850
+2026-11-12,GPU,RX 9070 XT,Asrock,Asrock RX 9070 XT Steel Legend Dark 16GB GDDR6 Graphics Card,https://mdcomputers.in/product/asrock-steel-legend-graphics-card-rx9070xt-sld-16g/graphics-card,119999
+2026-11-12,GPU,RX 9070 XT,Asrock,ASRock RX 9070 XT Steel Legend 16GB GDDR6 Graphics Card,https://mdcomputers.in/product/asrock-steel-legend-graphics-card-rx9070xt-sl-16g/graphics-card,124471
+2026-11-12,GPU,RTX 5080,Pny,PNY RTX 5080 ARGB OC 16GB GDDR7 Graphics Card,https://mdcomputers.in/product/graphics-card/pny-rtx-5080-argb-oc-graphics-card-vcg508016tfxxpb1-o,259274
+2026-11-12,GPU,NVIDIA RTX PRO 5000 Blackwell 48GB GDDR7 with ECC Graphics Card,Nvidia,NVIDIA RTX PRO 5000 Blackwell 48GB GDDR7 with ECC Graphics Card,https://mdcomputers.in/product/graphics-card/nvidia-rtx-pro-5000-blackwell-gpu-900-5g153-2550-000,903599
+2026-11-12,Motherboard,B760 mATX,Msi,MSI B760M Gaming WIFI DDR5 Motherboard,https://mdcomputers.in/product/motherboard/msi-ddr5-b760m-gaming-wifi-motherboard,12300
+2026-11-12,Motherboard,B550 ATX,Gigabyte,Gigabyte B550 X Gaming WIFI7 DDR4 ATX Motherboard,https://mdcomputers.in/product/gigabyte-b550-x-gaming-wifi7-motherboard/motherboard,14400
+2026-11-12,Motherboard,B550 ATX,Gigabyte,Gigabyte B550 AORUS ELITE WIFI7 DDR4 ATX Motherboard,https://mdcomputers.in/product/gigabyte-b550-aorus-elite-wifi7-motherboard/motherboard,17400
+2026-11-12,Motherboard,Z890 ATX,Msi,MSI Mag Z890 Tomahawk WIFI ATX Motherboard,https://mdcomputers.in/product/motherboard/msi-mag-z890-tomahawk-wifi-motherboard,32600
+2026-11-12,Motherboard,X870E ATX,Msi,MSI MEG X870E Ace Max Draco Epic Edition WIFI7 ATX Motherboard,https://mdcomputers.in/product/motherboard/msi-meg-x870e-ace-max-draco-epic-edition-motherboard,66000
+2026-11-12,Motherboard,B550 ATX,Gigabyte,Gigabyte B550 X Gaming WIFI7 DDR4 ATX Motherboard,https://mdcomputers.in/product/gigabyte-b550-x-gaming-wifi7-motherboard/motherboard/amd-chipset-motherboard,14400
+2026-11-12,Motherboard,B550 ATX,Gigabyte,Gigabyte B550 AORUS ELITE WIFI7 DDR4 ATX Motherboard,https://mdcomputers.in/product/gigabyte-b550-aorus-elite-wifi7-motherboard/motherboard/amd-chipset-motherboard,17400
+2026-11-12,Motherboard,X870E ATX,Msi,MSI MEG X870E Ace Max Draco Epic Edition WIFI7 ATX Motherboard,https://mdcomputers.in/product/motherboard/amd-chipset-motherboard/msi-meg-x870e-ace-max-draco-epic-edition-motherboard,66000
+2026-11-12,RAM,DDR5 16GB 5600,Evm,EVM 16GB 5600Mhz DDR5 RAM,https://mdcomputers.in/product/evm-ram-16gb-ddr5-evmt16g5600u88p/ram/desktop-ram,21750
+2026-11-12,SSD,2000GB Gen5,Crucial,Crucial P510 2TB NVMe Gen5 SSD,https://mdcomputers.in/product/crucial-p510-2tb-nvme-ssd-ct2000p510ssd8,38860
+2026-11-12,SSD,1000GB Gen4,Samsung,Samsung 990 PRO 1TB M.2 NVMe Gen4 SSD,https://mdcomputers.in/product/samsung-990-pro-1tb-nvme-ssd-mz-v9p1t0bw,24260
+2026-11-12,SSD,2000GB SATA,Wd,WD Blue SA510 2TB SSD,https://mdcomputers.in/product/storage/ssd-drive/wd-blue-sa510-2tb-ssd-wds200t3b0a,43099
+2026-11-12,SSD,2000GB Gen5,Wd,WD Black SN8100 2TB NVMe Gen5 SSD,https://mdcomputers.in/product/storage/ssd-drive/wd-black-sn8100-2tb-nvme-ssd-wds200t1x0m,52340
+2026-11-12,SSD,1000GB Gen4,Wd,WD Blue SN5100 1TB NVMe Gen4 SSD,https://mdcomputers.in/product/storage/ssd-drive/wd-blue-sn5100-1tb-nvme-ssd-wds100t5b0e,17360
+2026-11-12,SSD,128GB SATA,Consistent,Consistent S7 128GB Internal SSD,https://mdcomputers.in/product/consistent-s7-128gb-ssd-ctssd128s7/storage/ssd-drive,2230
+2026-11-12,SSD,128GB Gen3,Consistent,Consistent S7 128GB NVMe Gen3 SSD,https://mdcomputers.in/product/consistent-s7-128gb-nvme-ssd/storage/ssd-drive,2870
+2026-11-12,SSD,500GB SATA,Wd,WD Green 500GB Sata SSD,https://mdcomputers.in/product/storage/ssd-drive/wd-green-500gb-sata-ssd-wds500g5g0a,7490
+2026-11-12,SSD,500GB Gen4,Kingston,Kingston NV3 500GB NVMe Gen4 SSD,https://mdcomputers.in/product/kingston-nv3-500gb-ssd-snv3s-500g/storage/ssd-drive,10399
+2026-11-12,SSD,1000GB Gen4,Crucial,Crucial E100 1TB NVMe Gen4 SSD,https://mdcomputers.in/product/crucial-e100-1tb-nvme-ssd-ct1000e100ssd8/storage/ssd-drive,14999
+2026-11-12,SSD,512GB SATA,Kingston,Kingston KC600 SATA Rev 3.0 512GB SSD,https://mdcomputers.in/product/kingston-kc600-512gb-ssd-skc600-512g/storage/ssd-drive,16999
+2026-11-12,SSD,500GB SATA,Samsung,Samsung 870 EVO 500GB SSD,https://mdcomputers.in/product/samsung-870-evo-500gb-ssd-mz-77e500bw/storage/ssd-drive,19940
+2026-11-12,SSD,1000GB Gen4,Adata,Adata XPG Gammix S70 Blade 1TB M.2 NVMe Gen4 Internal SSD,https://mdcomputers.in/product/adata-xpg-gammix-s70-blade-nvme-ssd-agammixs70b-1t-cs/storage/ssd-drive,20380
+2026-11-12,SSD,1000GB Gen5,Adata,Adata XPG Mars 980 Blade 1TB NVMe Gen5 SSD,https://mdcomputers.in/product/adata-mars-980-blade-1tb-nvme-ssd-smar-980b-1tcs/storage/ssd-drive,21880
+2026-11-12,SSD,1000GB Gen4,Samsung,Samsung 990 PRO 1TB M.2 NVMe Gen4 SSD,https://mdcomputers.in/product/samsung-990-pro-1tb-nvme-ssd-mz-v9p1t0bw/storage/ssd-drive,24260
+2026-11-12,SSD,1000GB Gen5,Crucial,Crucial T710 1TB NVMe Gen5 SSD with Heatsink,https://mdcomputers.in/product/crucial-t710-1tb-nvme-ssd-ct1000t710ssd5/storage/ssd-drive,28480
+2026-11-12,SSD,2000GB Gen4,Verbatim,Verbatim Vi7000G NVMe 2TB Gen4 SSD,https://mdcomputers.in/product/storage/ssd-drive/verbatim-vi7000g-2tb-nvme-ssd-49368,28660
+2026-11-12,SSD,2000GB Gen4,Samsung,Samsung 990 Pro 2TB M.2 NVMe Gen4 SSD,https://mdcomputers.in/product/samsung-990-pro-2tb-nvme-ssd-mz-v9p2t0bw/storage/ssd-drive,49160
+2026-11-12,CPU Cooler,Air,Thermaltake,Thermaltake Astria 200 ARGB Lighting Snow CPU Air Cooler,https://mdcomputers.in/product/cpu-cooler/thermaltake-astria-200-snow-cpu-air-cooler-cl-p137-al12sw-a,3240
+2026-11-12,CPU Cooler,Liquid,Thermaltake,Thermaltake LA240 ARGB 240mm CPU Liquid Cooler,https://mdcomputers.in/product/cpu-cooler/thermaltake-la-240mm-liquid-cooler-cl-w457-pl12sw-a,5410
+2026-11-12,CPU Cooler,Liquid 360mm,Cooler,Cooler Master MasterLiquid Core NEX 360 ARGB CPU Liquid Cooler,https://mdcomputers.in/product/cooler-master-masterliquid-core-nex-360mm-cpu-cooler/cpu-cooler,7200
+2026-11-12,CPU Cooler,Liquid,Cooler,Cooler Master MasterLiquid Core NEX 360mm ARGB White CPU Liquid Cooler,https://mdcomputers.in/product/cooler-master-masterliquid-core-nex-360mm-white-cpu-cooler/cpu-cooler,7700
+2026-11-12,CPU Cooler,Air,Cooler,Cooler Master V8 ACE 3DHP 120mm Air Cooler for Intel CPU,https://mdcomputers.in/product/cooler-master-v8-ace-3dhp-intel-cpu-air-cooler-mam-t6hp-225pk-rb/cpu-cooler,10000
+2026-11-12,CPU Cooler,Liquid 360mm,Cooler,Cooler Master MasterLiquid Core 360 ARGB White Cpu Liquid Cooler With 6 Inch LCD Display,https://mdcomputers.in/product/cooler-master-masterliquid-core-6-inch-lcd-360mm-wh-cpu-cooler/cpu-cooler,13700
+2026-11-12,Power Supply,550W Bronze,Thermaltake,Thermaltake Smart BX1 550 Watt 80 Plus Bronze SMPS,https://mdcomputers.in/product/smps/thermaltake-smart-bx1-bronze-smps-ps-spd-0550nnsabd-1,3618
+2026-11-12,Power Supply,550W Bronze,Thermaltake,Thermaltake Smart BX1 550 Watt Bronze Smps - DC To DC Version,https://mdcomputers.in/product/smps/thermaltake-smart-bx1-550w-bronze-smps-ps-spd-0550nnfabd-4,3700
+2026-11-12,Power Supply,650W Bronze,Thermaltake,Thermaltake Smart BX1 650 Watt Bronze Smps - DC To DC Version,https://mdcomputers.in/product/smps/thermaltake-smart-bx1-650w-bronze-smps-ps-spd-0650nnfabd-4,4899
+2026-11-12,Power Supply,1000W Gold,Cooler,Cooler Master Elite Gold 1000 Watt ATX 3.1 Fully Modular Smps,https://mdcomputers.in/product/cooler-master-elite-gold-1000-modular-smps-mpx-a005-afag/smps,14200
+2026-11-12,Power Supply,1250W Gold,Cooler,Cooler Master MWE Gold 1250 Watt V2 ATX 3.1 Fully Modular Smps,https://mdcomputers.in/product/cooler-master-mwe-gold-1250-v2-modular-smps-mpe-c501-afcag-3ein/smps,19300
+2026-11-12,Power Supply,2000W Platinum,Thermaltake,Thermaltake Toughpower i2000w Platinum ATX 3.1 Fully Modular SMPS,https://mdcomputers.in/product/smps/thermaltake-toughpower-i2000w-platinum-smps,47495
+2026-11-12,Case,Mid Tower ATX,Dawg,Dawg X 430 ARGB White ATX Mid Tower Case,https://mdcomputers.in/product/cabinet/dawg-x-430-mid-tower-white-cabinet,4699
+2026-11-12,Case,Mid Tower ATX,Dawg,Dawg X 440 ARGB White ATX Mid Tower Case,https://mdcomputers.in/product/cabinet/dawg-x-440-mid-tower-white-cabinet,4899
+2026-11-12,Case,Mid Tower ATX,Thermaltake,Thermaltake S200 TG ARGB ATX Mid Tower Case,https://mdcomputers.in/product/cabinet/thermaltake-s200-tg-mid-tower-cabinet-ca-1x2-00m1wn-00,5320
+2026-11-12,Case,Mid Tower E-ATX,Thermaltake,Thermaltake H570 TG ARGB White E-ATX Mid Tower Case,https://mdcomputers.in/product/cabinet/thermaltake-h570-tg-mid-tower-cabinet-ca-1t9-00m6wn-01,6040
+2026-11-12,Case,Mid Tower ATX,Thermaltake,Thermaltake Divider 300 TG White ARGB ATX Mid Tower Case,https://mdcomputers.in/product/cabinet/thermaltake-divider-300-tg-mid-tower-cabinet-ca-1s2-00m6wn-01,7908
+2026-11-12,Case,Mid Tower E-ATX,Thermaltake,Thermaltake CTE E550 TG Black E-ATX Mid Tower Case,https://mdcomputers.in/product/cabinet/thermaltake-cte-e550-tg-mid-tower-cabinet-ca-1z8-00m1wn-00,11220
+2026-11-12,Case,Mid Tower E-ATX,Hyte,Hyte Y70 Touch Infinite White E-ATX Mid Tower Case,https://mdcomputers.in/product/cabinet/hyte-y70-touch-infinite-white-mid-tower-cabinet,42699
+2026-11-12,Case,Full Tower E-ATX,Msi,MSI MEG Maestro 900R ARGB E-ATX Full Tower Case,https://mdcomputers.in/product/cabinet/msi-meg-maestro-900r-full-tower-cabinet,71500
+2026-11-12,Case,Full Tower E-ATX,Msi,MSI MEG Maestro 900R DRACO EPIC Edition ARGB E-ATX Full Tower Case,https://mdcomputers.in/product/cabinet/msi-meg-maestro-900r-draco-epic-edition-full-tower-cabinet,78000
