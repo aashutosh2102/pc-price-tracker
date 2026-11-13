@@ -1720,3 +1720,69 @@ date,category,key,brand,name,url,price
 2026-11-12,Case,Mid Tower E-ATX,Hyte,Hyte Y70 Touch Infinite White E-ATX Mid Tower Case,https://mdcomputers.in/product/cabinet/hyte-y70-touch-infinite-white-mid-tower-cabinet,42699
 2026-11-12,Case,Full Tower E-ATX,Msi,MSI MEG Maestro 900R ARGB E-ATX Full Tower Case,https://mdcomputers.in/product/cabinet/msi-meg-maestro-900r-full-tower-cabinet,71500
 2026-11-12,Case,Full Tower E-ATX,Msi,MSI MEG Maestro 900R DRACO EPIC Edition ARGB E-ATX Full Tower Case,https://mdcomputers.in/product/cabinet/msi-meg-maestro-900r-draco-epic-edition-full-tower-cabinet,78000
+2026-11-13,CPU,Ryzen 7 5800X3D,Amd,AMD Ryzen 7 5800X3D Processor 10th Anniversary Edition With Carbice Ice Pad,https://mdcomputers.in/product/amd-ryzen-7-5800x3d-desktop-processor-100-100000651pof/processor,38199
+2026-11-13,CPU,Core i3-10105F,Intel,Intel Core I3-10105F Processor,https://mdcomputers.in/product/intel-i3-10105f-bx8070110105f-desktop-processor/processor,9140
+2026-11-13,CPU,Core i5-10400F,Intel,Intel Core i5-10400F Processor,https://mdcomputers.in/product/intel-i5-10400f-bx8070110400f-desktop-processor/processor,13550
+2026-11-13,CPU,Core i3-12100,Intel,Intel Core i3-12100 Processor,https://mdcomputers.in/product/intel-i3-12100-bx8071512100-desktop-processor/processor,13600
+2026-11-13,CPU,Core Ultra 5 225,Intel,Intel Core Ultra 5 225 Processor,https://mdcomputers.in/product/intel-ultra-5-225-bx80768225-desktop-processor/processor,19200
+2026-11-13,CPU,Core Ultra 7 265K,Intel,Intel Core Ultra 7 265K Processor,https://mdcomputers.in/product/intel-ultra-7-265k-bx80768265k-desktop-processor/processor,32100
+2026-11-13,CPU,Ryzen 9 7900X,Amd,AMD Ryzen 9 7900X Processor with Radeon Graphics,https://mdcomputers.in/product/amd-ryzen-9-7900x-100-100000589wof-desktop-processor/processor,34400
+2026-11-13,CPU,Ryzen 7 7700X3D,Amd,AMD Ryzen 7 7700X3D Processor with Radeon Graphics,https://mdcomputers.in/product/amd-ryzen-7-7700x3d-100-100002235wof-desktop-processor/processor,36400
+2026-11-13,CPU,Core i7-14700KF,Intel,Intel Core i7-14700KF Processor,https://mdcomputers.in/product/intel-i7-14700kf-bx8071514700kf-desktop-processor/processor,40280
+2026-11-13,GPU,RX 9070 XT,Asrock,Asrock RX 9070 XT Steel Legend Dark 16GB GDDR6 Graphics Card,https://mdcomputers.in/product/asrock-steel-legend-graphics-card-rx9070xt-sld-16g/graphics-card,120860
+2026-11-13,Motherboard,H610 mATX,Gigabyte,Gigabyte H610M K V2 M-ATX Motherboard,https://mdcomputers.in/product/gigabyte-h610m-k-v2-motherboard/motherboard,5250
+2026-11-13,Motherboard,H610 mATX,Asrock,ASRock H610M-X D5 M-ATX Motherboard,https://mdcomputers.in/product/asrock-h610m-x-d5-motherboard/motherboard,5999
+2026-11-13,Motherboard,H610 mATX,Asus,Asus Prime H610M-CS D4 M-ATX Motherboard,https://mdcomputers.in/product/asus-prime-h610m-cs-d4-motherboard/motherboard,6400
+2026-11-13,Motherboard,H610 mATX,Msi,MSI PRO H610M-S WIFI DDR4 Motherboard,https://mdcomputers.in/product/motherboard/msi-pro-h610m-s-wifi-ddr4-motherboard,8600
+2026-11-13,Motherboard,B760 mATX,Asus,Asus Prime B760M-K D4 M-ATX DDR4 Motherboard,https://mdcomputers.in/product/asus-prime-b760m-k-d4-motherboard/motherboard,9400
+2026-11-13,Motherboard,B760 mATX,Asus,Asus Prime B760M-K DDR5 M-ATX Motherboard,https://mdcomputers.in/product/asus-prime-b760m-k-motherboard/motherboard,9999
+2026-11-13,Motherboard,B760 mATX,Asus,Asus Prime B760M-A-CSM DDR5 M-ATX Motherboard,https://mdcomputers.in/product/asus-prime-b760m-a-csm-motherboard/motherboard,14300
+2026-11-13,Motherboard,Z790 ATX,Msi,MSI Pro Z790-P WIFI Motherboard,https://mdcomputers.in/product/motherboard/msi-pro-z790-p-wifi-motherboard,22100
+2026-11-13,Motherboard,Z890 ATX,Asus,Asus ROG Maximus Z890 Hero (Wi-Fi) Motherboard,https://mdcomputers.in/product/asus-rog-maximus-z890-hero-wifi-motherboard/motherboard,73700
+2026-11-13,RAM,DDR5 8GB 5200,Corsair,Corsair Vengeance RGB 8GB 5200MHz CL40 DDR5 RAM,https://mdcomputers.in/product/corsair-ram-vengeance-8gb-ddr5-cmh8gx5m1b5200c40/ram/desktop-ram,13690
+2026-11-13,SSD,4000GB Gen4,Samsung,Samsung 990 Pro 4TB M.2 NVMe Gen4 SSD,https://mdcomputers.in/product/samsung-990-pro-4tb-nvme-ssd-mz-v9p4t0bw/storage/ssd-drive,83000
+2026-11-13,SSD,480GB SATA,Lenovo,Lenovo LS800 480GB Sata SSD,https://mdcomputers.in/product/lenovo-ls800-480gb-sata-ssd/storage/ssd-drive,5799
+2026-11-13,SSD,512GB SATA,Consistent,Consistent 512GB Internal SSD,https://mdcomputers.in/product/consistent-512gb-ssd-ctssd512s6/storage/ssd-drive,5899
+2026-11-13,SSD,250GB SATA,Wd,WD Green 250GB SATA SSD,https://mdcomputers.in/product/storage/ssd-drive/wd-green-250gb-sata-ssd-wds250g5g0a-00cpt0,5899
+2026-11-13,SSD,2000GB Gen5,Crucial,Crucial P510 2TB NVMe Gen5 SSD,https://mdcomputers.in/product/crucial-p510-2tb-nvme-ssd-ct2000p510ssd8/storage/ssd-drive,38860
+2026-11-13,SSD,2000GB NVMe,Samsung,SAMSUNG 990 EVO Plus 2TB M.2 NVMe SSD,https://mdcomputers.in/product/samsung-990-evo-plus-2tb-nvme-ssd-mz-v9s2t0bw/storage/ssd-drive,42080
+2026-11-13,SSD,2000GB Gen5,Samsung,Samsung 9100 PRO 2TB NVMe Gen5 SSD,https://mdcomputers.in/product/samsung-9100-pro-2tb-nvme-ssd-mz-vap2t0bw/storage/ssd-drive,51440
+2026-11-13,SSD,4000GB Gen5,Samsung,Samsung 9100 PRO 4TB NVMe Gen5 SSD,https://mdcomputers.in/product/samsung-9100-pro-4tb-nvme-ssd-mz-vap4t0bw/storage/ssd-drive,116480
+2026-11-13,CPU Cooler,Air dual-tower,Cooler,Cooler Master Hyper 620S ARGB 120mm Dual Tower CPU Air Cooler,https://mdcomputers.in/product/cooler-master-hyper-620s-cpu-air-cooler-rr-d6na-17pa-r1/cpu-cooler,3300
+2026-11-13,CPU Cooler,Liquid,Alseye,Alseye M240B ARGB 240mm CPU Liquid Cooler (Black),https://mdcomputers.in/product/alseye-max-240mm-liquid-cooler/cpu-cooler,5720
+2026-11-13,CPU Cooler,Liquid 360mm,Cooler,Cooler Master MasterLiquid Core NEX Digital 360 ARGB CPU Liquid Cooler,https://mdcomputers.in/product/cooler-master-masterliquid-core-nex-digital-360mm-cpu-cooler/cpu-cooler,8800
+2026-11-13,CPU Cooler,Liquid,Dawg,Dawg L240 AIO ARGB 240mm CPU Liquid Cooler,https://mdcomputers.in/product/cpu-cooler/dawg-240mm-liquid-cooler-l240aio,8899
+2026-11-13,CPU Cooler,Liquid,Deepcool,Deepcool LD240 ARGB CPU Liquid Cooler,https://mdcomputers.in/product/cpu-cooler/deepcool-ld-240mm-liquid-cooler-r-ld240-bkdmmn-g-1,9599
+2026-11-13,CPU Cooler,Liquid,Cooler,Cooler Master MasterLiquid Atmos II LCD 360mm ARGB CPU Liquid Cooler,https://mdcomputers.in/product/cooler-master-atmos-360mm-liquid-cooler-mlx-d36m-a25sz-l1/cpu-cooler,15000
+2026-11-13,CPU Cooler,Liquid,Cooler,Cooler Master MasterLiquid Atmos II LCD 360mm White ARGB CPU Liquid Cooler,https://mdcomputers.in/product/cooler-master-atmos-360mm-liquid-cooler-mlx-d36m-a25sz-lw/cpu-cooler,15100
+2026-11-13,CPU Cooler,Air,Noctua,Noctua NH-D15 G2 CPU Air Cooler,https://mdcomputers.in/product/cpu-cooler/noctua-nh-d15-g2-cpu-air-cooler,15950
+2026-11-13,CPU Cooler,Liquid 240mm,Thermaltake,Thermaltake Toughliquid Ultra 240 CPU Liquid Cooler,https://mdcomputers.in/product/cpu-cooler/thermaltake-toughliquid-240mm-liquid-cooler-cl-w322-pl12gm-b,18240
+2026-11-13,CPU Cooler,Liquid 280mm,Thermaltake,Thermaltake Toughliquid Ultra 280 RGB 280mm CPU Liquid Cooler,https://mdcomputers.in/product/cpu-cooler/thermaltake-toughliquid-280mm-liquid-cooler-cl-w371-pl14sw-a,19080
+2026-11-13,Power Supply,550W Bronze,Coconut,Coconut SM65 X550 Bronze 550 Watt White SMPS,https://mdcomputers.in/product/coconut-sm65-x550-bronze-white-smps/smps,2850
+2026-11-13,Power Supply,550W Unrated,Ant,Ant Esports RX550 White SMPS,https://mdcomputers.in/product/ant-esports-rx550-white-bronze-smps/smps,3215
+2026-11-13,Power Supply,650W Bronze,Thermaltake,Thermaltake Smart BM3 650 Watt 80 Plus Bronze SMPS,https://mdcomputers.in/product/smps/thermaltake-smart-bm3-bronze-smps-650w-ps-spd-0650mnfabd-3,6180
+2026-11-13,Power Supply,750W Gold,Deepcool,Deepcool Gamer Storm PN750M White 750 Watt ATX 3.1 Gold Fully Modular SMPS,https://mdcomputers.in/product/deepcool-gamer-storm-gold-modular-smps-r-pn750m-fc0w-jgin/smps,8250
+2026-11-13,Power Supply,850W Gold,Deepcool,Deepcool Gamer Storm PN850M White Gold 850 Watt ATX 3.1 Fully Modular SMPS,https://mdcomputers.in/product/deepcool-gamer-storm-850w-modular-smps-r-pn850m-fc0w-jgin/smps,11150
+2026-11-13,Power Supply,1000W Gold,Deepcool,Deepcool Gamer Storm PN1000M Gold ATX 3.1 Fully Modular SMPS,https://mdcomputers.in/product/deepcool-pn1000m-gold-modular-smps-r-pna00m-fc0b-jgin/smps,13900
+2026-11-13,Power Supply,1000W Gold,Deepcool,Deepcool Gamer Storm PN1000M White 1000 Watt ATX 3.1 Gold Fully Modular SMPS,https://mdcomputers.in/product/deepcool-gamer-storm-pn1000m-modular-smps-r-pna00m-fc0w-jgin/smps,14200
+2026-11-13,Power Supply,1200W Gold,Deepcool,Deepcool Gamer Storm PN1200M White 1200 Watt ATX 3.1 Gold Fully Modular SMPS,https://mdcomputers.in/product/deepcool-gamer-storm-pn1200m-modular-smps-r-pnc00m-fc0w-jgin/smps,16600
+2026-11-13,Power Supply,1250W Gold,Cooler,Cooler Master MWE Gold 1250 Watt V2 ATX 3.1 Fully Modular Smps,https://mdcomputers.in/product/cooler-master-mwe-gold-1250-v2-modular-smps-mpe-c501-afcag-3ein/smps,19100
+2026-11-13,Case,Mid Tower ATX,Thermaltake,Thermaltake H550 TG ARGB ATX Mid Tower Case,https://mdcomputers.in/product/thermaltake-h550-tg-mid-tower-cabinet-ca-1p4-00m1wn-00,7250
+2026-11-13,Case,Mid Tower ATX,Montech,Montech X3 Glass RGB ATX Mid Tower Case,https://mdcomputers.in/product/cabinet/montech-x3-glass-rgb-mid-tower-cabinet,5800
+2026-11-13,Case,Mid Tower E-ATX,Cooler,Cooler Master Qube 540 Stardust Iron E-ATX Mid Tower Case,https://mdcomputers.in/product/cabinet/cooler-master-qube-540-stardust-iron-mid-tower-cabinet,6400
+2026-11-13,Case,Mid Tower ATX,Antec,Antec CX700 ARGB White ATX Mid Tower Case,https://mdcomputers.in/product/antec-cx700-argb-white-mid-tower-cabinet/cabinet,6600
+2026-11-13,Case,Mid Tower ATX,Thermaltake,Thermaltake H550 TG ARGB ATX Mid Tower Case,https://mdcomputers.in/product/cabinet/thermaltake-h550-tg-mid-tower-cabinet-ca-1p4-00m1wn-00,7250
+2026-11-13,Case,Mid Tower E-ATX,Aerocool,AeroCool Cronus ARGB E-ATX Mid Tower Case,https://mdcomputers.in/product/aerocool-mid-tower-cabinet-cronus-g-bk-v1/cabinet,7350
+2026-11-13,Case,Mid Tower ATX,Dawg,Dawg Y 804 White ARGB ATX Mid Tower Case,https://mdcomputers.in/product/cabinet/dawg-y-804-white-mid-tower-cabinet,7799
+2026-11-13,Case,Mid Tower ATX,Prolab,ProLab Design AI848 ARGB ATX Mid Tower Case,https://mdcomputers.in/product/cabinet/prolab-ai848-mid-tower-cabinet,8300
+2026-11-13,Case,Mid Tower E-ATX,Corsair,Corsair 3500X RS-R ARGB White E-ATX Mid Tower Case,https://mdcomputers.in/product/cabinet/corsair-3500x-rs-r-argb-white-mid-tower-cabinet-cc-9011323-ww,9300
+2026-11-13,Case,Mid Tower ATX,Lian,Lian Li SUP01 White ATX Mid Tower Case,https://mdcomputers.in/product/cabinet/lian-li-sup01-mid-tower-cabinet-g99-sup01w-in,9600
+2026-11-13,Case,Mid Tower ATX,Cooler,Cooler Master Qube 540 SPECIAL Stainless Steel ATX Mid Tower Case,https://mdcomputers.in/product/cabinet/cooler-master-qube-540-special-stainless-steel-mid-tower-cabinet,11200
+2026-11-13,Case,Mid Tower E-ATX,Thermaltake,Thermaltake View 300 MX Snow ARGB White E-ATX Mid Tower Case,https://mdcomputers.in/product/cabinet/thermaltake-view-300-mx-mid-tower-cabinet-ca-1p6-00m6wn-00,11520
+2026-11-13,Case,Mid Tower ATX,Msi,MSI MAG PANO 100R PZ ARGB ATX Black Mid Tower Case,https://mdcomputers.in/product/cabinet/msi-mag-pano-100r-pz-mid-tower-cabinet,12550
+2026-11-13,Case,Mid Tower ATX,Msi,MSI MPG Vixta 300R PZ ARGB ATX Mid Tower Case,https://mdcomputers.in/product/cabinet/msi-mpg-vixta-300r-pz-mid-tower-cabinet,12750
+2026-11-13,Case,Mid Tower ATX,Msi,MSI MPG Vixta 300R PZ White ARGB ATX Mid Tower Case,https://mdcomputers.in/product/cabinet/msi-mpg-vixta-300r-pz-white-mid-tower-cabinet,12750
+2026-11-13,Case,Mid Tower E-ATX,Arctic,Arctic Xtender VG ARGB Mirror Black E-ATX Mid Tower Case,https://mdcomputers.in/product/arctic-xtender-vg-mid-tower-cabinet-acpcc00019a/cabinet,16500
+2026-11-13,Case,Full Tower E-ATX,Cooler,Cooler Master HAF II 500 E-ATX Full Tower Case,https://mdcomputers.in/product/cabinet/cooler-master-hafII-500-full-tower-cabinet-h500g2-kgnn-s00,17500
+2026-11-13,Case,Mid Tower ATX,Cooler,Cooler Master MasterFrame 360 Stage LCD ATX Mid Tower Case,https://mdcomputers.in/product/cabinet/cooler-master-masterframe-360-stage-lcd-mid-tower-cabinet,24200
+2026-11-13,Case,Full Tower,Corsair,CORSAIR 9000D RGB White Airflow Super Full Tower Case,https://mdcomputers.in/product/cabinet/corsair-9000d-airflow-super-full-tower-wh-cabinet-cc-9011274-ww,47600
