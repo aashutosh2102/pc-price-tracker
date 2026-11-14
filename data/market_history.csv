@@ -1786,3 +1786,37 @@ date,category,key,brand,name,url,price
 2026-11-13,Case,Full Tower E-ATX,Cooler,Cooler Master HAF II 500 E-ATX Full Tower Case,https://mdcomputers.in/product/cabinet/cooler-master-hafII-500-full-tower-cabinet-h500g2-kgnn-s00,17500
 2026-11-13,Case,Mid Tower ATX,Cooler,Cooler Master MasterFrame 360 Stage LCD ATX Mid Tower Case,https://mdcomputers.in/product/cabinet/cooler-master-masterframe-360-stage-lcd-mid-tower-cabinet,24200
 2026-11-13,Case,Full Tower,Corsair,CORSAIR 9000D RGB White Airflow Super Full Tower Case,https://mdcomputers.in/product/cabinet/corsair-9000d-airflow-super-full-tower-wh-cabinet-cc-9011274-ww,47600
+2026-11-14,Motherboard,H610 mATX,Asus,Asus Prime H610M-CS-CSM M-ATX Motherboard,https://mdcomputers.in/product/asus-prime-h610m-cs-csm-motherboard/motherboard,6300
+2026-11-14,Motherboard,A520 mATX,Msi,Msi Pro A520M WIFI6E M-ATX DDR4 Motherboard,https://mdcomputers.in/product/motherboard/msi-pro-a520m-wifi6e-motherboard,7850
+2026-11-14,Motherboard,B760 mATX,Asus,Asus Prime B760M-F WIFI M-ATX Motherboard,https://mdcomputers.in/product/asus-prime-b760m-f-wifi-motherboard/motherboard,11675
+2026-11-14,Motherboard,B760 mATX,Asus,Asus Prime B760M-A DDR5 M-ATX Motherboard,https://mdcomputers.in/product/asus-prime-b760m-a-motherboard/motherboard,13250
+2026-11-14,Motherboard,B550 ATX,Gigabyte,Gigabyte B550 X Gaming WIFI7 DDR4 ATX Motherboard,https://mdcomputers.in/product/gigabyte-b550-x-gaming-wifi7-motherboard/motherboard,14500
+2026-11-14,Motherboard,B840 mATX,Asus,ASUS Prime B840M-A-CSM M-ATX Motherboard,https://mdcomputers.in/product/asus-prime-b840m-a-csm-motherboard/motherboard,16950
+2026-11-14,Motherboard,B840 mATX,Asus,ASUS Prime B840M-A WIFI-CSM M-ATX Motherboard,https://mdcomputers.in/product/asus-prime-b840m-a-wifi-csm-motherboard/motherboard,18400
+2026-11-14,Motherboard,B840 ATX,Asus,ASUS Prime B840-Plus WIFI-CSM ATX Motherboard,https://mdcomputers.in/product/asus-prime-b840-plus-wifi-csm-motherboard/motherboard,20450
+2026-11-14,Motherboard,B550 ATX,Gigabyte,Gigabyte B550 X Gaming WIFI7 DDR4 ATX Motherboard,https://mdcomputers.in/product/gigabyte-b550-x-gaming-wifi7-motherboard/motherboard/amd-chipset-motherboard,14500
+2026-11-14,Motherboard,B840 mATX,Asus,ASUS Prime B840M-A-CSM M-ATX Motherboard,https://mdcomputers.in/product/asus-prime-b840m-a-csm-motherboard/motherboard/amd-chipset-motherboard,16950
+2026-11-14,Motherboard,B840 mATX,Asus,ASUS Prime B840M-A WIFI-CSM M-ATX Motherboard,https://mdcomputers.in/product/asus-prime-b840m-a-wifi-csm-motherboard/motherboard/amd-chipset-motherboard,18400
+2026-11-14,Motherboard,B840 ATX,Asus,ASUS Prime B840-Plus WIFI-CSM ATX Motherboard,https://mdcomputers.in/product/asus-prime-b840-plus-wifi-csm-motherboard/motherboard/amd-chipset-motherboard,20450
+2026-11-14,RAM,DDR5 16GB 6000,Adata,Adata XPG Lancer Blade RGB White 16GB 6000MHz CL36 DDR5 RAM,https://mdcomputers.in/product/adata-ram-xpg-lancer-blade-16gb-ddr5-ax5u6000c3616g-slabrwh/ram/desktop-ram,32899
+2026-11-14,RAM,DDR5 32GB kit 6000,Acer,Acer Predator Pallas II 32GB (16GBx2) 6000MHz CL30 DDR5 RAM,https://mdcomputers.in/product/acer-predator-ram-pallas-ii-32gb-bl-9bwwr-433/ram/desktop-ram,66199
+2026-11-14,SSD,1000GB Gen4,Samsung,Samsung 990 PRO 1TB M.2 NVMe Gen4 SSD,https://mdcomputers.in/product/samsung-990-pro-1tb-nvme-ssd-mz-v9p1t0bw,26480
+2026-11-14,SSD,4000GB Gen4,Samsung,Samsung 990 Pro 4TB M.2 NVMe Gen4 SSD,https://mdcomputers.in/product/samsung-990-pro-4tb-nvme-ssd-mz-v9p4t0bw/storage/ssd-drive,84399
+2026-11-14,SSD,512GB SATA,Patriot,"Patriot P210 Internal SSD, 512GB",https://mdcomputers.in/product/patriot-p210-512gb-ssd-p210s512g25/storage/ssd-drive,5885
+2026-11-14,SSD,500GB Gen4,Wd,WD Green SN3000 NVMe 500GB Gen4 SSD,https://mdcomputers.in/product/storage/ssd-drive/wd-green-sn3000-500gb-nvme-ssd-wds500g5g0e,10500
+2026-11-14,SSD,1000GB Gen4,Patriot,Patriot P400 Lite NVMe 1TB Gen4 SSD,https://mdcomputers.in/product/patriot-p400-lite-1tb-ssd-p400lp1kgm28h/storage/ssd-drive,12399
+2026-11-14,SSD,1000GB Gen4,Adata,Adata Legend 960 Max 1TB NVMe Gen4 SSD,https://mdcomputers.in/product/adata-legend-960-max-1tb-nvme-ssd-aleg-960m-1tcs/storage/ssd-drive,21899
+2026-11-14,SSD,1000GB NVMe,Samsung,SAMSUNG 990 EVO Plus 1TB M.2 NVMe SSD,https://mdcomputers.in/product/samsung-990-evo-plus-1tb-nvme-ssd-mz-v9s1t0bw/storage/ssd-drive,23480
+2026-11-14,SSD,1000GB Gen4,Samsung,Samsung 990 PRO 1TB M.2 NVMe Gen4 SSD,https://mdcomputers.in/product/samsung-990-pro-1tb-nvme-ssd-mz-v9p1t0bw/storage/ssd-drive,26480
+2026-11-14,SSD,1000GB Gen5,Samsung,Samsung 9100 PRO 1TB NVMe Gen5 SSD,https://mdcomputers.in/product/samsung-9100-pro-1tb-nvme-ssd-mz-vap1t0bw/storage/ssd-drive,30680
+2026-11-14,SSD,2000GB Gen4,Acer,Acer Predator GM7000 2TB M.2 NVMe Gen4 Internal SSD,https://mdcomputers.in/product/acer-predator-gm7000-2tb-nvme-ssd-bl-9bwwr-106/storage/ssd-drive,31040
+2026-11-14,SSD,2000GB SATA,Adata,Adata Ultimate SU650 2TB Internal SSD,https://mdcomputers.in/product/adata-ultimate-su650-2tb-ssd-asu650ss-2tt-r/storage/ssd-drive,31640
+2026-11-14,SSD,1000GB SATA,Samsung,Samsung 870 Evo 1TB SSD,https://mdcomputers.in/product/samsung-870-evo-1tb-ssd-mz-77e1t0bw/storage/ssd-drive,35299
+2026-11-14,SSD,2000GB Gen5,Samsung,Samsung 9100 PRO 2TB NVMe Gen5 SSD,https://mdcomputers.in/product/samsung-9100-pro-2tb-nvme-ssd-mz-vap2t0bw/storage/ssd-drive,54440
+2026-11-14,SSD,4000GB Gen5,Wd,WD Black SN8100 4TB NVMe Gen5 SSD,https://mdcomputers.in/product/storage/ssd-drive/wd-black-sn8100-4tb-nvme-ssd-wds400t1x0m,104000
+2026-11-14,SSD,4000GB Gen5,Samsung,Samsung 9100 PRO 4TB NVMe Gen5 SSD,https://mdcomputers.in/product/samsung-9100-pro-4tb-nvme-ssd-mz-vap4t0bw/storage/ssd-drive,130280
+2026-11-14,CPU Cooler,Air,Cooler,Cooler Master V8 ACE 3DHP 120mm Air Cooler for AMD CPU,https://mdcomputers.in/product/cooler-master-v8-ace-3dhp-amd-cpu-air-cooler-mam-t6ha-225pk-rb/cpu-cooler,9999
+2026-11-14,Power Supply,750W Gold,Deepcool,Deepcool Gamer Storm PN750M White 750 Watt ATX 3.1 Gold Fully Modular SMPS,https://mdcomputers.in/product/deepcool-gamer-storm-gold-modular-smps-r-pn750m-fc0w-jgin/smps,9400
+2026-11-14,Power Supply,1000W Platinum,Antec,Antec HCG1000 PRO Platinum ATX 3.1 Fully Modular SMPS,https://mdcomputers.in/product/antec-hcg1000-pro-platinum-modular-smps/smps,16550
+2026-11-14,Case,Mid Tower E-ATX,Antec,Antec C7 ARGB Black E-ATX Mid Tower Case,https://mdcomputers.in/product/antec-c7-argb-black-mid-tower-cabinet/cabinet,9600
+2026-11-14,Case,Mini Tower M-ATX,Cooler,Cooler Master MasterFrame 400 Mesh Gold M-ATX Mini Tower Case,https://mdcomputers.in/product/cabinet/cooler-master-masterframe-400-mesh-gold-mini-tower-cabinet,24000
