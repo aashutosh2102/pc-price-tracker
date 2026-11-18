@@ -1958,3 +1958,27 @@ date,category,key,brand,name,url,price
 2026-11-17,Case,Mid Tower ATX,Cooler,Cooler Master MasterBox MB520 Mesh ARGB ATX Mid Tower Case,https://mdcomputers.in/product/cabinet/cooler-master-masterbox-mid-tower-cabinet-mb520-kgnn-s00,7900
 2026-11-17,Case,Mid Tower E-ATX,Corsair,Corsair 3500X RS-R ARGB E-ATX Mid Tower Case,https://mdcomputers.in/product/cabinet/corsair-3500x-rs-r-argb-mid-tower-cabinet-cc-9011322-ww,8750
 2026-11-17,Case,Mid Tower E-ATX,Fractal,Fractal Design Define 7 (E-ATX) Mid Tower Cabinet (Black),https://mdcomputers.in/product/cabinet/fractal-design-define-7-mid-tower-cabinet-fd-c-def7a-01,23200
+2026-11-18,CPU,Ryzen 7 9700X,Amd,AMD Ryzen 7 9700X Processor with Radeon Graphics,https://mdcomputers.in/product/amd-ryzen-7-9700x-100-100001404wof-desktop-processor/processor,28800
+2026-11-18,GPU,RTX 5060,Gigabyte,Gigabyte RTX 5060 Windforce MAX OC 8GB GDDR7 Graphics Card,https://mdcomputers.in/product/gigabyte-windforce-max-graphics-card-gv-n5060wf2max-oc-8gd/graphics-card,63500
+2026-11-18,Motherboard,B860 ATX,Msi,MSI MAG B860 Tomahawk WIFI ATX Motherboard,https://mdcomputers.in/product/motherboard/msi-mag-b860-tomahawk-wifi-motherboard,25000
+2026-11-18,RAM,DDR4 8GB 3600,Corsair,Corsair Vengeance LPX 8GB 3600MHz CL18 DDR4 RAM,https://mdcomputers.in/product/corsair-ram-vengeance-lpx-cmk8gx4m1z3600c18/ram/desktop-ram,7480
+2026-11-18,RAM,DDR4 8GB 3200,Kingston,Kingston Value 8GB 3200MHz CL22 DDR4 RAM,https://mdcomputers.in/product/kingston-value-ram-8gb-ddr4-kvr32n22s8l-8wp/ram/desktop-ram,5899
+2026-11-18,RAM,DDR4 8GB 3200,G.Skill,G.Skill Ripjaws V 8GB 3200MHz CL16 DDR4 RAM,https://mdcomputers.in/product/g-skill-ram-ripjaws-v-8gb-ddr4-3200mhz-f4-3200c16s-8gvkb/ram/desktop-ram,6770
+2026-11-18,RAM,DDR5 8GB 5600,Adata,Adata 8GB 5600MHz CL46 DDR5 RAM,https://mdcomputers.in/product/adata-ram-8gb-5600mhz-ad5u56008g-s/ram/desktop-ram,14240
+2026-11-18,RAM,DDR5 16GB 4800,Evm,EVM 16GB 4800MHz DDR5 RAM,https://mdcomputers.in/product/evm-ram-16gb-ddr5-evmt16g4800u88p/ram/desktop-ram,18990
+2026-11-18,RAM,DDR5 16GB 5600,Evm,EVM 16GB 5600Mhz DDR5 RAM,https://mdcomputers.in/product/evm-ram-16gb-ddr5-evmt16g5600u88p/ram/desktop-ram,21690
+2026-11-18,RAM,DDR5 16GB 5600,Lexar,Lexar 16GB 5600MHz CL46 DDR5 RAM,https://mdcomputers.in/product/lexar-ram-16gb-ld5u16g56c46st-bgs/ram/desktop-ram,24040
+2026-11-18,RAM,DDR5 16GB 5600,Adata,Adata 16GB 5600MHz CL46 DDR5 RAM,https://mdcomputers.in/product/adata-ran-16gb-ddr5-5600mhz-ad5u560016g-s/ram/desktop-ram,24199
+2026-11-18,RAM,DDR5 16GB 5600,Adata,Adata XPG Lancer Blade 16GB 5600MHz CL46 DDR5 RAM,https://mdcomputers.in/product/adata-ram-xpg-lancer-blade-16gb-ddr5-ax5u5600c4616g-slabbk/ram/desktop-ram,25860
+2026-11-18,RAM,DDR5 16GB 5600,Adata,Adata XPG Lancer Blade White 16GB 5600MHz CL46 DDR5 RAM,https://mdcomputers.in/product/adata-ram-xpg-lancer-blade-16gb-ddr5-ax5u5600c4616g-slabwh/ram/desktop-ram,26630
+2026-11-18,RAM,DDR5 16GB 5200,Corsair,Corsair Vengeance 16GB 5200MHz CL40 DDR5 RAM,https://mdcomputers.in/product/corsair-vengeance-16gb-ddr5-5200mhz-cmk16gx5m1b5200c40/ram/desktop-ram,26630
+2026-11-18,RAM,DDR5 16GB 5600,Kingston,Kingston Fury Beast 16GB 5600MHz CL36 DDR5 RAM,https://mdcomputers.in/product/kingston-ram-fury-beast-16gb-ddr5-kf556c36bbe-16/ram/desktop-ram,32899
+2026-11-18,RAM,DDR5 32GB 6000,Teamgroup,TeamGroup T-Force Delta RGB 32GB 6000MHz CL38 DDR5 RAM,https://mdcomputers.in/product/ram/desktop-ram/teamgroup-ram-t-force-delta-rgb-ff3d532g6000hc38a01,52999
+2026-11-18,RAM,DDR5 32GB 5600,Adata,Adata XPG Lancer Blade White 32GB 5600MHz CL46 DDR5 RAM,https://mdcomputers.in/product/adata-ram-xpg-lancer-blade-32gb-ddr5-ax5u5600c4632g-slabwh/ram/desktop-ram,54399
+2026-11-18,RAM,DDR5 32GB kit 6600,Adata,Adata XPG Lancer RGB ROG 32GB (16GBx2) 6600MHz CL32 DDR5 RAM,https://mdcomputers.in/product/adata-ram-xpg-lancer-32gb-ddr5-ax5u6600c3216g-dclarrog/ram/desktop-ram,66680
+2026-11-18,CPU Cooler,Air dual-tower,Cooler,Cooler Master Hyper 620S ARGB 120mm Dual Tower CPU Air Cooler,https://mdcomputers.in/product/cooler-master-hyper-620s-cpu-air-cooler-rr-d6na-17pa-r1/cpu-cooler,3210
+2026-11-18,Case,Mini Tower M-ATX,Cooler,Cooler Master Elite 301 ARGB White M-ATX Mini Tower Case,https://mdcomputers.in/product/cabinet/cooler-master-elite-mini-tower-cabinet-e301-wgnn-s00,4500
+2026-11-18,Case,Mini Tower M-ATX,Cooler,Cooler Master Elite 302 ARGB M-ATX Mini Tower Case,https://mdcomputers.in/product/cabinet/coolermaster-elite-302-argb-mini-tower-cabinet,4900
+2026-11-18,Case,Mid Tower ATX,Msi,MSI MPG Vixta 300R AirFlow PZ ARGB ATX Mid Tower Case,https://mdcomputers.in/product/cabinet/msi-mpg-vixta-300r-airflow-pz-mid-tower-cabinet,13200
+2026-11-18,Case,Mid Tower ATX,Msi,MSI MPG Vixta 300R AirFlow PZ White ARGB ATX Mid Tower Case,https://mdcomputers.in/product/cabinet/msi-mpg-vixta-300r-airflow-pz-white-mid-tower-cabinet,13200
+2026-11-18,Case,Full Tower E-ATX,Cooler,Cooler Master HAF II 500 E-ATX Full Tower Case,https://mdcomputers.in/product/cabinet/cooler-master-hafII-500-full-tower-cabinet-h500g2-kgnn-s00,17700
