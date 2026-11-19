@@ -1982,3 +1982,27 @@ date,category,key,brand,name,url,price
 2026-11-18,Case,Mid Tower ATX,Msi,MSI MPG Vixta 300R AirFlow PZ ARGB ATX Mid Tower Case,https://mdcomputers.in/product/cabinet/msi-mpg-vixta-300r-airflow-pz-mid-tower-cabinet,13200
 2026-11-18,Case,Mid Tower ATX,Msi,MSI MPG Vixta 300R AirFlow PZ White ARGB ATX Mid Tower Case,https://mdcomputers.in/product/cabinet/msi-mpg-vixta-300r-airflow-pz-white-mid-tower-cabinet,13200
 2026-11-18,Case,Full Tower E-ATX,Cooler,Cooler Master HAF II 500 E-ATX Full Tower Case,https://mdcomputers.in/product/cabinet/cooler-master-hafII-500-full-tower-cabinet-h500g2-kgnn-s00,17700
+2026-11-19,CPU,Ryzen 5 7600X,Amd,AMD Ryzen 5 7600X Processor with Radeon Graphics,https://mdcomputers.in/product/amd-ryzen-5-7600x-100-100000593wof-desktop-processor/processor,17700
+2026-11-19,CPU,Ryzen 5 9600X,Amd,AMD Ryzen 5 9600X Processor with Radeon Graphics,https://mdcomputers.in/product/amd-ryzen-5-9600x-100-100001405wof-desktop-processor/processor,19900
+2026-11-19,Motherboard,X870E ATX,Asus,Asus ROG Crosshair X870E Hero ATX WiFi7 Motherboard,https://mdcomputers.in/product/asus-rog-crosshair-x870e-hero-wifi-motherboard/motherboard,77500
+2026-11-19,Motherboard,X870E ATX,Asus,Asus ROG Crosshair X870E Hero ATX WiFi7 Motherboard,https://mdcomputers.in/product/asus-rog-crosshair-x870e-hero-wifi-motherboard/motherboard/amd-chipset-motherboard,77500
+2026-11-19,RAM,DDR5 16GB 5600,Adata,ADATA XPG ARMAX RGB 16GB 5600MHz CL46 DDR5 RAM,https://mdcomputers.in/product/adata-ram-xpg-armax-rgb-ddr5-16gb-ax5u5600c4616g-samrbk/ram/desktop-ram,25427
+2026-11-19,RAM,DDR5 16GB 6000,Patriot,Patriot Viper Venom DDR5 16GB 6000MHz CL30 RAM,https://mdcomputers.in/product/patriot-ram-viper-venom-16gb-pvv516g60c30/ram/desktop-ram,28599
+2026-11-19,RAM,DDR4 32GB kit 3200,Corsair,Corsair Vengeance LPX 32GB (16GBx2) 3200MHz CL16 DDR4 RAM,https://mdcomputers.in/product/corsair-vengeance-lpx-32gb-ddr4-cmk32gx4m2e3200c16/ram/desktop-ram,29499
+2026-11-19,RAM,DDR5 32GB 5600,Teamgroup,TeamGroup T-Force Delta RGB 32GB 5600MHz CL36 DDR5 RAM,https://mdcomputers.in/product/ram/desktop-ram/teamgroup-ram-t-force-delta-rgb-ff4d532g5600hc36b01,51340
+2026-11-19,RAM,DDR5 32GB 5200,G.Skill,G.Skill Ripjaws S5 32GB 5200MHz CL40 DDR5 RAM,https://mdcomputers.in/product/g-skill-ram-ripjaws-s5-32gb-f5-5200j4040a32gx1-rs5k/ram/desktop-ram,51560
+2026-11-19,RAM,DDR5 32GB 5200,Corsair,Corsair Vengeance RGB 32GB 5200MHz CL40 DDR5 RAM,https://mdcomputers.in/product/corsair-ram-vengeance-32gb-ddr5-cmh32gx5m1b5200z40/ram/desktop-ram,52960
+2026-11-19,RAM,DDR5 32GB 6000,G.Skill,G.Skill Flare X5 32GB 6000MHz CL38 DDR5 RAM,https://mdcomputers.in/product/gskill-ram-flare-x5-32gb-ddr5-f5-6000j3848d32gx1-fx5/ram/desktop-ram,54399
+2026-11-19,RAM,DDR5 32GB kit 6000,Corsair,Corsair Vengeance 32GB (16GBx2) 6000MHz 1.30V CL36 DDR5 RAM,https://mdcomputers.in/product/corsair-ram-vengeance-cmk32gx5m2f6000c36/ram/desktop-ram,57199
+2026-11-19,RAM,DDR5 32GB kit 6000,Klevv,Klevv Urbane V RGB White 32GB (16GBx2) 6000MHz CL30 DDR5 RAM,https://mdcomputers.in/product/klevv-ram-urbane-v-32gb-ddr5-kd5agua80-60a300m/ram/desktop-ram,58699
+2026-11-19,RAM,DDR5 32GB 6000,Kingston,Kingston Fury Beast 32GB 6000MHz CL36 DDR5 RAM,https://mdcomputers.in/product/kingston-ram-fury-beast-32gb-ddr5-kf560c36bbe2-32/ram/desktop-ram,58880
+2026-11-19,RAM,DDR5 32GB kit 6000,Adata,Adata XPG Lancer Blade White 32GB (16GBx2) 6000MHz CL36 DDR5 RAM,https://mdcomputers.in/product/adata-ram-xpg-lancer-blade-32gb-ddr5-ax5u6000c3616g-dtlabwh/ram/desktop-ram,59960
+2026-11-19,RAM,DDR5 64GB kit 6000,Corsair,Corsair Vengeance 64GB (32GBx2) 6000MHz CL40 DDR5 RAM,https://mdcomputers.in/product/corsair-ram-vengeance-cmk64gx5m2d6000c40/ram/desktop-ram,112960
+2026-11-19,RAM,DDR5 64GB kit 6000,Corsair,Corsair Vengeance RGB Grey 64GB (32GBx2) 6000MHz CL40 DDR5 RAM,https://mdcomputers.in/product/corsair-ram-vengeance-64gb-ddr5-cmh64gx5m2d6000z40/ram/desktop-ram,120699
+2026-11-19,RAM,DDR5 64GB kit 6000,Klevv,Klevv Cras V RGB White 64GB (32GBx2) 6000MHz CL30 DDR5 RAM,https://mdcomputers.in/product/klevv-ram-cras-v-64gb-ddr5-kd5bgua80-60a300j/ram/desktop-ram,127599
+2026-11-19,SSD,960GB SATA,Kingston,Kingston A400 960GB SSD,https://mdcomputers.in/product/kingston-a400-960gb-ssd-sa400s37-960g/storage/ssd-drive,14299
+2026-11-19,SSD,1000GB Gen4,Kingston,Kingston NV3 1TB NVMe M.2 2230 Gen4 SSD,https://mdcomputers.in/product/kingston-nv3-1tb-ssd-snv3sm3-1t0/storage/ssd-drive,23599
+2026-11-19,SSD,2000GB Gen4,Kingston,Kingston NV3 2TB NVMe Gen4 SSD,https://mdcomputers.in/product/kingston-nv3-2tb-ssd-snv3s-2000g/storage/ssd-drive,28580
+2026-11-19,SSD,2048GB Gen5,Kingston,Kingston Fury Renegade G5 2048GB NVMe Gen5 SSD,https://mdcomputers.in/product/kingston-fury-renegade-g5-2048gb-nvme-ssd-sfyr2s-2t0/storage/ssd-drive,50840
+2026-11-19,CPU Cooler,Liquid 360mm,Corsair,Corsair Nautilus 360 RS ARGB 360mm CPU Liquid Cooler,https://mdcomputers.in/product/corsair-nautilus-360-rs-argb-cpu-liquid-cooler/cpu-cooler,8400
+2026-11-19,CPU Cooler,Liquid 360mm,Corsair,Corsair Nautilus 360 RS ARGB CPU Liquid Cooler,https://mdcomputers.in/product/corsair-nautilus-rs-360mm-liquid-cooler-cw-9060093-ww/cpu-cooler,8500
