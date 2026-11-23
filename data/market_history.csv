@@ -3356,3 +3356,37 @@ date,category,key,brand,name,url,price
 2026-11-22,SSD,1000GB Gen4,Acer,Acer Predator GM7 NVMe 1TB Gen4 SSD,https://mdcomputers.in/product/acer-predator-gm7-1tb-nvme-ssd-bl-9bwwr-118,19640
 2026-11-22,SSD,2000GB Gen4,Kingston,Kingston NV3 2TB NVMe M.2 2230 Gen4 SSD,https://mdcomputers.in/product/kingston-nv3-2tb-ssd-snv3sm3-2t0,30980
 2026-11-22,SSD,8000GB Gen5,Samsung,Samsung 9100 PRO 8TB NVMe Gen5 SSD,https://mdcomputers.in/product/samsung-9100-pro-8tb-nvme-ssd-mz-vap8t0bw,266220
+2026-11-23,GPU,RTX 5060 Ti 16GB,Asus,ASUS Dual RTX 5060 Ti OC Edition 16GB GDDR7 Graphics Card,https://mdcomputers.in/product/asus-dual-graphics-card-rtx5060ti-o16g,111231
+2026-11-23,GPU,RX 9070 GRE,Asus,ASUS Prime Radeon RX 9070 GRE EVO OC 12GB GDDR6 Graphics Card,https://mdcomputers.in/product/asus-prime-graphics-card-rx9070gre-o12g-evo,81925
+2026-11-23,RAM,DDR4 32GB 3200,Patriot,Patriot Signature Line 32GB 3200MHz CL22 DDR4 RAM,https://mdcomputers.in/product/patriot-ram-signature-line-32gb-ddr4-psd432g32002,25540
+2026-11-23,SSD,128GB Gen3,Consistent,Consistent S7 128GB NVMe Gen3 SSD,https://mdcomputers.in/product/consistent-s7-128gb-nvme-ssd,2680
+2026-11-23,SSD,2000GB SATA,Wd,WD Blue SA510 2TB SSD,https://mdcomputers.in/product/wd-blue-sa510-2tb-ssd-wds200t3b0a,42999
+2026-11-23,SSD,256GB Gen3,Acer,Acer FA100 256GB NVMe Gen3 SSD,https://mdcomputers.in/product/acer-fa100-256gb-nvme-ssd,5360
+2026-11-23,SSD,128GB SATA,Verbatim,Verbatim Vi550 S3 128GB SATA SSD,https://mdcomputers.in/product/verbatim-vi550-s3-128gb-sata-ssd-49350,2470
+2026-11-23,SSD,480GB SATA,Lenovo,Lenovo LS800 480GB Sata SSD,https://mdcomputers.in/product/lenovo-ls800-480gb-sata-ssd,5899
+2026-11-23,SSD,512GB SATA,Patriot,"Patriot P210 Internal SSD, 512GB",https://mdcomputers.in/product/patriot-p210-512gb-ssd-p210s512g25,5930
+2026-11-23,SSD,250GB SATA,Wd,"WD Blue SA510 SSD, 250GB",https://mdcomputers.in/product/wd-blue-sa510-250gb-ssd-wds250g3b0a,7460
+2026-11-23,SSD,512GB NVMe,Verbatim,Verbatim Vi560 S3 512GB M.2 SSD,https://mdcomputers.in/product/verbatim-vi560-s3-m-2-512gb-ssd-49363,8140
+2026-11-23,SSD,512GB NVMe,Adata,Adata Ultimate SU650 512GB M.2 SSD,https://mdcomputers.in/product/adata-ultimate-su650-512gb-ssd-asu650ns38-512gt-c,8380
+2026-11-23,SSD,512GB Gen3,Acer,Acer FA100 512GB NVMe Gen3 SSD,https://mdcomputers.in/product/acer-fa100-512gb-nvme-ssd-bl-9bwwa-119,8899
+2026-11-23,SSD,512GB Gen4,Verbatim,Verbatim Vi5000 NVMe 512GB Gen4 SSD,https://mdcomputers.in/product/verbatim-vi5000-512gb-nvme-ssd-31825,9590
+2026-11-23,SSD,500GB Gen3,Wd,WD Green SN350 NVMe 500GB Gen3 SSD,https://mdcomputers.in/product/wd-green-sn350-500gb-nvme-ssd-wds500g2g0c,10260
+2026-11-23,SSD,512GB NVMe,Adata,Adata Legend 710 512GB M.2 NVMe Internal SSD,https://mdcomputers.in/product/adata-legend-710-512gb-nvme-ssd-710-512gcs,10460
+2026-11-23,SSD,1000GB NVMe,Addlink,Addlink S72 1TB M.2 NVMe SSD,https://mdcomputers.in/product/addlink-s72-1tb-nvme-ssd-ad1tbs72m2p,13780
+2026-11-23,SSD,1000GB SATA,Addlink,Addlink S20 1TB Internal SSD,https://mdcomputers.in/product/addlink-s20-1tb-ssd-ad1tbs20s3s,13899
+2026-11-23,SSD,1000GB NVMe,Adata,Adata Ultimate SU650 M.2 1TB SSD,https://mdcomputers.in/product/adata-ultimate-su650-1tb-ssd-asu650ns38-1tt-c,16140
+2026-11-23,SSD,512GB SATA,Kingston,Kingston KC600 SATA Rev 3.0 512GB SSD,https://mdcomputers.in/product/kingston-kc600-512gb-ssd-skc600-512g,16640
+2026-11-23,SSD,1000GB Gen4,Verbatim,Verbatim Vi5000 NVMe 1TB Gen4 SSD,https://mdcomputers.in/product/verbatim-vi5000-1tb-nvme-ssd-31826,16840
+2026-11-23,SSD,1000GB SATA,Teamgroup,Teamgroup T-Force Vulcan Z 1TB SSD,https://mdcomputers.in/product/teamgroup-t-force-vulcan-z-1tb-ssd-t253tz001t0c101,17860
+2026-11-23,SSD,500GB SATA,Samsung,Samsung 870 EVO 500GB SSD,https://mdcomputers.in/product/samsung-870-evo-500gb-ssd-mz-77e500bw,20120
+2026-11-23,SSD,2000GB Gen3,Addlink,Addlink X70 RGB 2TB M.2 NVMe Gen3 SSD,https://mdcomputers.in/product/addlink-x70-rgb-2tb-nvme-ssd-ad2tbx70m2p,29860
+2026-11-23,SSD,2000GB SATA,Adata,Adata Ultimate SU650 2TB Internal SSD,https://mdcomputers.in/product/adata-ultimate-su650-2tb-ssd-asu650ss-2tt-r,31280
+2026-11-23,SSD,1000GB SATA,Samsung,Samsung 870 Evo 1TB SSD,https://mdcomputers.in/product/samsung-870-evo-1tb-ssd-mz-77e1t0bw,35060
+2026-11-23,CPU Cooler,Liquid,Thermaltake,Thermaltake LB360-S ARGB 360mm CPU Liquid Cooler With LCD Display,https://mdcomputers.in/product/thermaltake-lb360-s-liquid-cooler-cl-w499-pl12sw-a,8390
+2026-11-23,CPU Cooler,Liquid,Cooler,Cooler Master MasterLiquid Atmos II LCD 360mm ARGB CPU Liquid Cooler,https://mdcomputers.in/product/cooler-master-atmos-360mm-liquid-cooler-mlx-d36m-a25sz-l1,15000
+2026-11-23,CPU Cooler,Liquid,Cooler,Cooler Master MasterLiquid Atmos II Pixel LED 360mm ARGB White CPU Liquid Cooler,https://mdcomputers.in/product/cooler-master-masterliquid-atmos-ii-pixel-led-white-360mm-cooler,16000
+2026-11-23,Power Supply,550W Unrated,Thermaltake,Thermaltake Smart BX3 550 Watt ATX 3.1 SMPS,https://mdcomputers.in/product/thermaltake-smart-bx3-550w-bronze-smps-ps-spd-0550nnfabd-3,3870
+2026-11-23,Power Supply,1250W Gold,Cooler,Cooler Master MWE Gold 1250 Watt V2 ATX 3.1 Fully Modular Smps,https://mdcomputers.in/product/cooler-master-mwe-gold-1250-v2-modular-smps-mpe-c501-afcag-3ein,21500
+2026-11-23,Case,Mid Tower ATX,Ant,Ant Esports 411 Air 4F ARGB ATX Mid Tower Case,https://mdcomputers.in/product/ant-esports-411-air-4f-mid-tower-cabinet,4850
+2026-11-23,Case,Mid Tower E-ATX,Cooler,Cooler Master Qube 540 Stardust Iron E-ATX Mid Tower Case,https://mdcomputers.in/product/cooler-master-qube-540-stardust-iron-mid-tower-cabinet,6500
+2026-11-23,Case,Full Tower E-ATX,Cooler,Cooler Master HAF II 500 E-ATX Full Tower Workstation Case,https://mdcomputers.in/product/cooler-master-hafII-500-full-tower-cabinet-h500g2-kgnn-s00,17000
