@@ -1,10 +1,10 @@
 {
-  "ran_at_utc": "2026-11-23 12:40",
+  "ran_at_utc": "2026-11-24 13:44",
   "runner": "GitHub Actions",
   "trigger": "schedule",
   "blocked_requests": 1,
   "prices_saved_lines": [
     "Saved 8 price(s).",
-    "Saved 1297 products. Baseline scan: 2026-10-18"
+    "Saved 1287 products. Baseline scan: 2026-10-18"
   ]
 }
