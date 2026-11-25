@@ -3573,3 +3573,96 @@ date,category,key,brand,name,url,price
 2026-11-24,Case,Mid Tower ATX,Cooler,Cooler Master MasterFrame 360 Stage LCD ATX Mid Tower Case,https://mdcomputers.in/product/cooler-master-masterframe-360-stage-lcd-mid-tower-cabinet,23700
 2026-11-24,Case,Full Tower,Thermaltake,Thermaltake AX700 TG Workstation Super Tower Case,https://mdcomputers.in/product/thermaltake-ax700-tg-super-tower-cabinet,34999
 2026-11-24,Case,Full Tower E-ATX,Cooler,Cooler Master HAF 700 EVO ARGB Titanium Grey E-ATX Full Tower Case,https://mdcomputers.in/product/cooler-master-haf-evo-full-tower-cabinet-h700e-ignn-s00,46600
+2026-11-25,GPU,RTX 5060 Ti 16GB,Asus,ASUS Dual RTX 5060 Ti OC Edition 16GB GDDR7 Graphics Card,https://mdcomputers.in/product/asus-dual-graphics-card-rtx5060ti-o16g,95399
+2026-11-25,GPU,RX 580,Nextron,Nextron Nforce RX 580 8GB GDDR5 Graphics Card,https://mdcomputers.in/product/nextron-graphics-card-rx-580-8g,13889
+2026-11-25,GPU,RX 9050,Asrock,ASRock RX 9050 Challenger 8GB GDDR6 Graphics Card,https://mdcomputers.in/product/asrock-challenger-graphics-card-rx9050-cl-8g,37812
+2026-11-25,GPU,RTX 5050,Zotac,Zotac RTX 5050 Twin Edge 8GB GDDR6 Graphics Card,https://mdcomputers.in/product/zotac-rtx-5050-twin-edge-graphics-card-zt-b50500e-10m,54060
+2026-11-25,GPU,RTX 4060,Gigabyte,Gigabyte RTX 4060 Gaming OC 8GB Graphics Card,https://mdcomputers.in/product/gigabyte-gaming-graphics-card-gv-n4060gaming-oc-8gd,55000
+2026-11-25,GPU,RTX 5060,Msi,MSI RTX 5060 Ventus 2X OC 8GB GDDR7 Graphics Card,https://mdcomputers.in/product/msi-rtx-5060-ventus-2x-oc-graphics-card-g5060-8v2c,56599
+2026-11-25,GPU,RTX 5060,Msi,MSI RTX 5060 Shadow 2X OC 8GB GDDR7 Graphics Card,https://mdcomputers.in/product/msi-rtx-5060-shadow-2x-oc-graphics-card-g5060-8s2c,57069
+2026-11-25,GPU,RTX 5060,Inno3D,INNO3D RTX 5060 Twin X2 OC White SFF 8GB GDDR7 Graphics Card,https://mdcomputers.in/product/inno3d-rtx5060-twin-x2-oc-graphics-card-n50602-08d7x-195070w,58000
+2026-11-25,GPU,RTX 5060,Gigabyte,Gigabyte RTX 5060 Windforce OC 8GB GDDR7 Graphics Card,https://mdcomputers.in/product/gigabyte-windforce-graphics-card-gv-n5060wf2oc-8gd,59375
+2026-11-25,GPU,RTX 3060 12GB,Zotac,Zotac Gaming RTX 3060 Twin Edge 12GB GDDR6 Graphics Card,https://mdcomputers.in/product/zotac-rtx-3060-twin-edge-graphics-card-12gb-zt-a30600e-10m,59661
+2026-11-25,GPU,RTX 3060 12GB,Colorful,Colorful RTX 3060 Battle AX Duo 12GB V2-V Graphics Card,https://mdcomputers.in/product/colorful-graphics-card-rtx-3060-battle-ax-duo-12gb-v2-v,59999
+2026-11-25,GPU,RTX 5060 Ti 8GB,Colorful,Colorful RTX 5060 Ti Gaming Duo 8GB-V Graphics Card,https://mdcomputers.in/product/colorful-graphics-card-rtx-5060ti-gaming-duo-8gb-v,67299
+2026-11-25,GPU,RTX 5060 Ti 8GB,Msi,MSI RTX 5060 Ti Ventus 2X OC White Plus 8GB GDDR7 Graphics Card,https://mdcomputers.in/product/msi-ventus-graphics-card-rtx-5060-ti-2x-oc-wh-plus-g506t8v2cwp,72716
+2026-11-25,GPU,RTX 5060 Ti 8GB,Zotac,ZOTAC RTX 5060 Ti Twin Edge OC 8GB GDDR7 Graphics Card,https://mdcomputers.in/product/zotac-rtx-5060-ti-twin-edge-oc-graphics-card-zt-b50610h-10m,75123
+2026-11-25,GPU,RX 9060 XT 16GB,Asus,Asus Dual RX 9060 XT 16GB GDDR6 Graphics Card,https://mdcomputers.in/product/asus-dual-graphics-card-rx9060xt-16g,78730
+2026-11-25,GPU,RTX 5070,Msi,MSI RTX 5070 Inspire 3X OC 12GB GDDR7 Graphics Card,https://mdcomputers.in/product/msi-rtx-5070-inspire-3x-oc-graphics-card-g5070-12i3c,120000
+2026-11-25,GPU,RTX 5070 Ti,Gigabyte,Gigabyte RTX 5070 Ti Aero OC White 16GB GDDR7 Graphics Card,https://mdcomputers.in/product/gigabyte-rtx-5070-ti-aero-oc-graphics-card-gv-n507taero-oc-16gd,177899
+2026-11-25,GPU,RTX 5070 Ti,Zotac,Zotac RTX 5070 Ti AMP Extreme Infinity 16GB GDDR7 Graphics Card,https://mdcomputers.in/product/zotac-amp-extreme-infinity-graphics-card-zt-b50710b-10p,186599
+2026-11-25,GPU,RTX 5080,Msi,MSI RTX 5080 Inspire 3X OC 16GB GDDR7 Graphics Card,https://mdcomputers.in/product/msi-inspire-graphics-card-rtx-5080-3x-oc-16g,228000
+2026-11-25,GPU,RTX 4090,Msi,MSI RTX 4090 Gaming X Trio 24GB Graphics Card,https://mdcomputers.in/product/msi-gaming-graphics-card-rtx-4090-x-trio-24g,524999
+2026-11-25,GPU,RTX 5090,Msi,MSI RTX 5090 Gaming Trio OC 32GB GDDR7 Graphics Card,https://mdcomputers.in/product/msi-rtx-5090-gaming-trio-oc-graphics-card-g5090-32gtc,843520
+2026-11-25,GPU,RTX 5090,Zotac,Zotac Gaming RTX 5090 Solid OC 32GB GDDR7 Graphics Card,https://mdcomputers.in/product/zotac-rtx-5090-solid-oc-graphics-card-zt-b50900j-10p,879999
+2026-11-25,GPU,RTX 5090,Inno3D,Inno3d RTX 5090 X3 OC 32GB GDDR7 Graphics Card,https://mdcomputers.in/product/inno3d-rtx5090-x3-oc-graphics-card-n50903-32d7x-37593928,903200
+2026-11-25,GPU,RTX 5090,Asus,ASUS ROG Astral RTX 5090 OC 32GB GDDR7 Graphics Card,https://mdcomputers.in/product/asus-rog-astral-graphics-card-rtx5090-o32g-gaming,954000
+2026-11-25,GPU,RTX 5090,Msi,MSI RTX 5090 Suprim SOC 32GB GDDR7 Graphics Card,https://mdcomputers.in/product/msi-rtx-5090-suprim-soc-graphics-card-g5090-32sps,993470
+2026-11-25,Motherboard,B850 ATX,Gigabyte,Gigabyte B850 Aorus Elite WIFI7 ATX Motherboard,https://mdcomputers.in/product/gigabyte-b850-aorus-elite-wifi7-motherboard,22600
+2026-11-25,RAM,DDR4 8GB 3200,Crucial,Crucial 8GB 3200MHz CL22 DDR4 RAM,https://mdcomputers.in/product/crucial-ram-cb8gu3200,5860
+2026-11-25,RAM,DDR4 16GB 3200,Evm,EVM 16GB 3200MHz CL19 DDR4 RAM,https://mdcomputers.in/product/evm-ram-16gb-ddr4-evmt16g3200u88p,9295
+2026-11-25,RAM,DDR4 16GB 3200,Crucial,Crucial 16GB 3200MHz CL22 DDR4 RAM,https://mdcomputers.in/product/crucial-ram-cb16gu3200,11980
+2026-11-25,RAM,DDR4 16GB 3200,G.Skill,G.Skill Aegis 16GB 3200MHz CL16 DDR4 RAM,https://mdcomputers.in/product/gskill-ram-aegis-16gb-f4-3200c16s-16gis,11999
+2026-11-25,RAM,DDR4 16GB 3200,Corsair,Corsair Vengeance LPX 16GB 3200MHz CL16 DDR4 RAM,https://mdcomputers.in/product/corsair-ram-vengeance-lpx-cmk16gx4m1e3200c16,13260
+2026-11-25,RAM,DDR5 8GB 5200,Corsair,Corsair Vengeance RGB 8GB 5200MHz CL40 DDR5 RAM,https://mdcomputers.in/product/corsair-ram-vengeance-8gb-ddr5-cmh8gx5m1b5200c40,13350
+2026-11-25,RAM,DDR5 16GB 5600,Geil,Geil Orion V 16GB 5600MHz CL38 DDR5 RAM,https://mdcomputers.in/product/geil-orion-v-16gb-ddr5-gvg516gb5600c38asc,24799
+2026-11-25,RAM,DDR5 16GB 5200,G.Skill,G.Skill Ripjaws S5 16GB 5200MHz CL40 DDR5 RAM,https://mdcomputers.in/product/g-skill-ram-ripjaws-s5-16gb-ddr5-f5-5200j4040a16gx1-rs5k,25199
+2026-11-25,RAM,DDR5 16GB 6000,Crucial,Crucial Pro 16GB 6000MHz CL48 DDR5 RAM,https://mdcomputers.in/product/crucial-ram-pro-16gb-ddr5-cp16g60c48u5,25599
+2026-11-25,RAM,DDR5 16GB 5600,Corsair,Corsair Vengeance 16GB 5600MHz CL40 DDR5 RAM,https://mdcomputers.in/product/corsair-ram-vengeance-cmk16gx5m1b5600c40,25999
+2026-11-25,RAM,DDR5 16GB 6000,G.Skill,G.Skill Flare X5 16GB 6000MHz CL36 DDR5 RAM,https://mdcomputers.in/product/g-skill-ram-flare-x5-16gb-ddr5-f5-6000j3636f16gx1-fx5,28134
+2026-11-25,RAM,DDR5 16GB 6000,Teamgroup,TeamGroup T-Force Vulcan Red 16GB 6000MHz CL38 DDR5 RAM,https://mdcomputers.in/product/teamgroup-ram-t-force-vulcan-flrd516g6000hc38a01,28740
+2026-11-25,RAM,DDR5 32GB 5600,Geil,Geil Orion V 32GB 5600MHz CL38 DDR5 RAM,https://mdcomputers.in/product/geil-orion-v-32gb-ddr5-gvg532gb5600c38asc,50285
+2026-11-25,RAM,DDR5 32GB kit 6000,Patriot,Patriot Viper Elite 5 Ultra 32GB (16GBx2) 6000MHz CL36 DDR5 RAM,https://mdcomputers.in/product/patriot-ram-viper-elite-5-ultra-32gb-ddr5-veu532g6036k,52499
+2026-11-25,RAM,DDR5 32GB 5600,G.Skill,G.Skill Ripjaws S5 Matte Black 32GB 5600MHz CL36 DDR5 RAM,https://mdcomputers.in/product/g-skill-ram-ripjaws-s5-32gb-ddr5-f5-5600j3636d32gx1-rs5k,52699
+2026-11-25,RAM,DDR5 32GB kit 5200,Corsair,Corsair Dominator Platinum RGB 32GB (16GBx2) 5200MHz CL40 DDR5 RAM,https://mdcomputers.in/product/corsair-ram-dominator-platinum-cmt32gx5m2b5200z40,56699
+2026-11-25,RAM,DDR5 32GB kit 6000,Kingston,Kingston Fury Beast RGB White EXPO 32GB (16GBx2) 6000MHz CL30 DDR5 RAM,https://mdcomputers.in/product/kingston-ram-fury-beast-32gb-ddr5-kf560c30bweak2-32,76999
+2026-11-25,SSD,1000GB Gen4,Samsung,Samsung 990 NVMe 1TB M.2 Gen4 SSD,https://mdcomputers.in/product/samsung-990-1tb-nvme-ssd-mz-v9v1t0bw,20830
+2026-11-25,SSD,2000GB Gen4,Crucial,Crucial P310 NVMe 2TB Gen4 SSD,https://mdcomputers.in/product/crucial-p310-2tb-nvme-ssd-ct2000p310ssd8,30199
+2026-11-25,SSD,1000GB Gen5,Crucial,Crucial P510 1TB NVMe Gen5 SSD,https://mdcomputers.in/product/crucial-p510-1tb-nvme-ssd-ct1000p510ssd8,23099
+2026-11-25,SSD,500GB Gen4,Wd,WD Black SN7100 NVMe 500GB Gen4 SSD,https://mdcomputers.in/product/wd-black-sn7100-500gb-nvme-ssd-wds500g4x0e,13199
+2026-11-25,SSD,2000GB Gen4,Wd,WD Green SN3000 NVMe 2TB Gen4 SSD,https://mdcomputers.in/product/wd-green-sn3000-2tb-nvme-ssd-wds200t5g0e,30250
+2026-11-25,SSD,500GB SATA,Wd,WD Green 500GB Sata SSD,https://mdcomputers.in/product/wd-green-500gb-sata-ssd-wds500g5g0a,7490
+2026-11-25,SSD,512GB Gen4,Kingston,Kingston KC3000 512GB NVMe Gen4 SSD,https://mdcomputers.in/product/kingston-kc3000-512gb-nvme-ssd-skc3000s-512g,14590
+2026-11-25,SSD,1000GB Gen4,Crucial,Crucial E100 1TB NVMe Gen4 SSD,https://mdcomputers.in/product/crucial-e100-1tb-nvme-ssd-ct1000e100ssd8,15460
+2026-11-25,SSD,1000GB NVMe,Samsung,SAMSUNG 990 EVO Plus 1TB M.2 NVMe SSD,https://mdcomputers.in/product/samsung-990-evo-plus-1tb-nvme-ssd-mz-v9s1t0bw,22799
+2026-11-25,CPU Cooler,Air,Antec,Antec A35 FRGB 120mm PWM CPU Air Cooler,https://mdcomputers.in/product/antec-a35-frgb-120mm-pwm-cpu-air-cooler,694
+2026-11-25,CPU Cooler,Air,Antec,Antec A30 Neo ARGB CPU Air Cooler (Black),https://mdcomputers.in/product/antec-a30-neo-cpu-air-cooler,1392
+2026-11-25,CPU Cooler,Air,Deepcool,DeepCool AG400 G2 ARGB 120mm CPU Air Cooler,https://mdcomputers.in/product/deepcool-ag400-g2-argb-120mm-cpu-air-cooler,2070
+2026-11-25,CPU Cooler,Air,Deepcool,DeepCool AG400 G2 ARGB White 120mm CPU Air Cooler,https://mdcomputers.in/product/deepcool-ag400-g2-wh-argb-cpu-air-cooler,2150
+2026-11-25,CPU Cooler,Air,Antec,Antec F400 ARGB 120mm PWM CPU Air Cooler,https://mdcomputers.in/product/antec-f400-argb-120mm-cpu-air-cooler,2166
+2026-11-25,CPU Cooler,Air,Antec,Antec F400 ARGB White 120mm PWM CPU Air Cooler,https://mdcomputers.in/product/antec-f400-argb-white-120mm-cpu-air-cooler,2286
+2026-11-25,CPU Cooler,Air,Antec,Antec F600 ARGB 120mm PWM CPU Air Cooler,https://mdcomputers.in/product/antec-f600-argb-120mm-cpu-air-cooler,2760
+2026-11-25,CPU Cooler,Air,Deepcool,DeepCool AG400 G2 Plus 120mm CPU Air Cooler,https://mdcomputers.in/product/deepcool-ag400-g2-plus-cpu-air-cooler-r-ag400-bknpmg2-g-1,2800
+2026-11-25,CPU Cooler,Air,Antec,Antec F600 ARGB White 120mm PWM CPU Air Cooler,https://mdcomputers.in/product/antec-f600-argb-white-120mm-cpu-air-cooler,3006
+2026-11-25,CPU Cooler,Air dual-tower,Deepcool,DeepCool AG620 G2 ARGB Dual Tower 120mm CPU Air Cooler,https://mdcomputers.in/product/deepcool-ag620-g2-argb-120mm-cpu-air-cooler,3250
+2026-11-25,CPU Cooler,Air dual-tower,Antec,Antec F620 Digital Pro 120mm Dual Tower CPU Air Cooler,https://mdcomputers.in/product/antec-f620-digital-pro-120mm-cpu-air-cooler,4370
+2026-11-25,CPU Cooler,Air dual-tower,Antec,Antec F620 Digital Pro White 120mm Dual Tower CPU Air Cooler,https://mdcomputers.in/product/antec-f620-digital-pro-white-120mm-cpu-air-cooler,4610
+2026-11-25,CPU Cooler,Air dual-tower,Deepcool,DeepCool AK620 G2 Dual Tower 120mm CPU Air Cooler,https://mdcomputers.in/product/deepcool-ak620-g2-cpu-air-cooler-r-ak620g2-bknnmn-gjd,5850
+2026-11-25,CPU Cooler,Liquid 360mm,Antec,Antec Luna 360 ARGB CPU Liquid Cooler,https://mdcomputers.in/product/antec-luna-360-argb-cpu-liquid-cooler,5906
+2026-11-25,CPU Cooler,Liquid 360mm,Antec,Antec Vortex LUM 360 White ARGB CPU Liquid Cooler,https://mdcomputers.in/product/antec-vortex-lum-360mm-argb-white-liquid-cooler,8850
+2026-11-25,CPU Cooler,Liquid 360mm,Cooler,Cooler Master MasterLiquid Core NEX Digital 360 White CPU Liquid Cooler,https://mdcomputers.in/product/cooler-master-masterliquid-core-nex-digital-wh-360mm-cpu-cooler,9000
+2026-11-25,Power Supply,450W Unrated,Antec,Antec Atom V450 V2 SMPS,https://mdcomputers.in/product/antec-atom-v450-v2-smps,1770
+2026-11-25,Power Supply,550W Unrated,Antec,Antec Atom V550 V2 SMPS,https://mdcomputers.in/product/antec-atom-v550-v2-smps,2130
+2026-11-25,Power Supply,1000W Bronze,Antec,Antec CSK1000 PRO ATX 3.1 Bronze SMPS,https://mdcomputers.in/product/antec-csk1000-pro-bronze-modular-smps,8280
+2026-11-25,Power Supply,1000W Platinum,Antec,Antec HCG1000 PRO Platinum ATX 3.1 Fully Modular SMPS,https://mdcomputers.in/product/antec-hcg1000-pro-platinum-modular-smps,16370
+2026-11-25,Case,Mini Tower M-ATX,Antec,Antec ST20M M-ATX Mini Tower Case,https://mdcomputers.in/product/antec-st20m-mini-tower-cabinet,1946
+2026-11-25,Case,Mini Tower M-ATX,Antec,Antec ST5M ARGB M-ATX Mini Tower Case,https://mdcomputers.in/product/antec-st5m-argb-mini-tower-cabinet,2319
+2026-11-25,Case,Mid Tower ATX,Antec,Antec P6 Neo ARGB ATX Mid Tower Case,https://mdcomputers.in/product/antec-p6-neo-argb-mid-tower-cabinet,4360
+2026-11-25,Case,Mid Tower ATX,Antec,Antec CX700 ARGB ATX Mid Tower Case,https://mdcomputers.in/product/antec-cx700-argb-black-mid-tower-cabinet,4700
+2026-11-25,Case,Mini Tower M-ATX,Antec,Antec CX600M Trio ARGB M-ATX Mini Tower Case,https://mdcomputers.in/product/antec-cx600m-trio-argb-mini-tower-cabinet,5310
+2026-11-25,Case,Mid Tower ATX,Cooler,Cooler Master Elite 681 ARGB ATX Mid Tower Case,https://mdcomputers.in/product/cooler-master-elite-681-mid-tower-cabinet-e681-khnn-s00,5900
+2026-11-25,Case,Mid Tower E-ATX,Cooler,Cooler Master Qube 540 Stardust Iron E-ATX Mid Tower Case,https://mdcomputers.in/product/cooler-master-qube-540-stardust-iron-mid-tower-cabinet,6400
+2026-11-25,Case,Mid Tower ATX,Antec,Antec CX700 ARGB White ATX Mid Tower Case,https://mdcomputers.in/product/antec-cx700-argb-white-mid-tower-cabinet,6490
+2026-11-25,Case,Mid Tower ATX,Antec,Antec C3 ARGB White ATX Mid Tower Case,https://mdcomputers.in/product/antec-c3-argb-white-mid-tower-cabinet,6507
+2026-11-25,Case,Mid Tower ATX,Antec,Antec C5 ARGB ATX Mid Tower Case,https://mdcomputers.in/product/antec-c5-argb-mid-tower-cabinet,6759
+2026-11-25,Case,Mid Tower ATX,Cooler,Cooler Master MasterBox MB520 Mesh ARGB ATX Mid Tower Case,https://mdcomputers.in/product/cooler-master-masterbox-mid-tower-cabinet-mb520-kgnn-s00,7800
+2026-11-25,Case,Mid Tower ATX,Deepcool,DeepCool CG580 4F V2 ARGB ATX Mid Tower Case,https://mdcomputers.in/product/deepcool-cg580-4f-v2-mid-tower-cabinet-r-cg580-bkada4-g-2,8000
+2026-11-25,Case,Mid Tower ATX,Antec,Antec C5 Curve ARGB White ATX Mid Tower Case,https://mdcomputers.in/product/antec-c5-curve-argb-white-mid-tower-cabinet,8120
+2026-11-25,Case,Mid Tower ATX,Deepcool,DeepCool CG580 MESH 2F ARGB ATX Mid Tower Case,https://mdcomputers.in/product/deepcool-cg580-mesh-2f-mid-tower-cabinet-r-cg580mesh-bkapa2-g,8250
+2026-11-25,Case,Mid Tower E-ATX,Cooler,Cooler Master MasterBox TD500 Mesh V2 ARGB E-ATX Mid Tower Case,https://mdcomputers.in/product/cooler-master-masterbox-mid-tower-cabinet-td500v2-kgnn-s00,8800
+2026-11-25,Case,Mid Tower E-ATX,Antec,Antec P120 Crystal White E-ATX Mid Tower Case,https://mdcomputers.in/product/antec-p120-crystal-white-mid-tower-cabinet,8850
+2026-11-25,Case,Mid Tower ATX,Cooler,Cooler Master Elite 600 ARGB White ATX Mid Tower Case,https://mdcomputers.in/product/cooler-master-elite-600-mid-tower-cabinet-e600-wgnn-s02,9300
+2026-11-25,Case,Mid Tower E-ATX,Antec,Antec C7 ARGB Black E-ATX Mid Tower Case,https://mdcomputers.in/product/antec-c7-argb-black-mid-tower-cabinet,9540
+2026-11-25,Case,Full Tower E-ATX,Antec,Antec C8 ARGB E-ATX Full Tower Case,https://mdcomputers.in/product/antec-c8-argb-full-tower-cabinet,10140
+2026-11-25,Case,Mid Tower E-ATX,Antec,Antec C7 White ARGB E-ATX Mid Tower Case,https://mdcomputers.in/product/antec-c7-white-argb-mid-tower-cabinet,10440
+2026-11-25,Case,Mid Tower E-ATX,Cooler,Cooler Master MasterFrame 500 Mesh ARGB E-ATX Mid Tower Case,https://mdcomputers.in/product/cooler-master-masterframe-500-mid-tower-cabinet-mf500m-khnn-s01,14200
