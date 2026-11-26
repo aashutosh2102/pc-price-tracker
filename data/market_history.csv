@@ -3666,3 +3666,270 @@ date,category,key,brand,name,url,price
 2026-11-25,Case,Full Tower E-ATX,Antec,Antec C8 ARGB E-ATX Full Tower Case,https://mdcomputers.in/product/antec-c8-argb-full-tower-cabinet,10140
 2026-11-25,Case,Mid Tower E-ATX,Antec,Antec C7 White ARGB E-ATX Mid Tower Case,https://mdcomputers.in/product/antec-c7-white-argb-mid-tower-cabinet,10440
 2026-11-25,Case,Mid Tower E-ATX,Cooler,Cooler Master MasterFrame 500 Mesh ARGB E-ATX Mid Tower Case,https://mdcomputers.in/product/cooler-master-masterframe-500-mid-tower-cabinet-mf500m-khnn-s01,14200
+2026-11-26,CPU,Core i5-14400,Intel,Intel Core i5-14400 Processor,https://mdcomputers.in/product/intel-i5-14400-bx8071514400-desktop-processor,18500
+2026-11-26,GPU,RTX 5060 Ti 16GB,Asus,ASUS Dual RTX 5060 Ti OC Edition 16GB GDDR7 Graphics Card,https://mdcomputers.in/product/asus-dual-graphics-card-rtx5060ti-o16g,100399
+2026-11-26,GPU,RTX 3050 6GB,Zotac,ZOTAC Gaming GeForce RTX 3050 Twin Edge OC 6GB GDDR6 GPU,https://mdcomputers.in/product/zotac-rtx3050-twin-edge-oc-graphics-card-zt-a30510h-10l,30000
+2026-11-26,GPU,RX 7600,Asus,ASUS Dual RX 7600 EVO OC 8GB GDDR6 Graphics Card,https://mdcomputers.in/product/asus-dual-graphics-card-rx7600-o8g-evo,42000
+2026-11-26,GPU,RTX 5050,Gigabyte,Gigabyte RTX 5050 Windforce OC 8GB GDDR6 Graphics Card,https://mdcomputers.in/product/gigabyte-windforce-oc-graphics-card-gv-n5050wf2oc-8gd,46699
+2026-11-26,GPU,RTX 3060 12GB,Msi,MSI RTX 3060 Ventus 2X OC LHR 12GB Gaming Graphics Card,https://mdcomputers.in/product/msi-ventus-graphics-card-rtx-3060-2x-12g-oc-lhr,54100
+2026-11-26,GPU,RTX 4060,Gigabyte,Gigabyte RTX 4060 Gaming OC 8GB Graphics Card,https://mdcomputers.in/product/gigabyte-gaming-graphics-card-gv-n4060gaming-oc-8gd,57000
+2026-11-26,GPU,RTX 5060 Ti 16GB,Colorful,Colorful RTX 5060 Ti Battle AX DUO 16GB-V Graphics Card,https://mdcomputers.in/product/colorful-graphics-card-rtx-5060-ti-battle-ax-duo-16gb-v,96000
+2026-11-26,GPU,RTX 5070,Zotac,Zotac Gaming RTX 5070 Solid OC 12GB GDDR7 Graphics Card,https://mdcomputers.in/product/zotac-rtx-5070-solid-oc-graphics-card-zt-b50700j-10p,114000
+2026-11-26,GPU,RTX 5070,Asus,Asus Dual RTX 5070 OC 12GB GDDR7 Graphics Card,https://mdcomputers.in/product/asus-dual-graphics-card-rtx5070-o12g,120000
+2026-11-26,GPU,RX 9070 XT,Asrock,Asrock RX 9070 XT Challenger 16GB GDDR6 Graphics Card,https://mdcomputers.in/product/asrock-challenger-graphics-card-rx9070xt-cl-16g,124000
+2026-11-26,GPU,RTX 5080,Msi,MSI RTX 5080 Inspire 3X OC 16GB GDDR7 Graphics Card,https://mdcomputers.in/product/msi-inspire-graphics-card-rtx-5080-3x-oc-16g,245000
+2026-11-26,Motherboard,B550 mATX,Msi,MSI B550M-A Pro Motherboard,https://mdcomputers.in/product/msi-b550m-a-pro-motherboard,7200
+2026-11-26,RAM,DDR4 8GB 3600,Corsair,Corsair Vengeance LPX 8GB 3600MHz CL18 DDR4 RAM,https://mdcomputers.in/product/corsair-ram-vengeance-lpx-cmk8gx4m1z3600c18,7040
+2026-11-26,RAM,DDR4 8GB 2666,Evm,EVM 8GB 2666MHz CL19 DDR4 RAM,https://mdcomputers.in/product/evm-ram-8gb-ddr4-evmt8g2666u88p,4290
+2026-11-26,RAM,DDR4 8GB 3200,Evm,EVM 8GB 3200MHz CL19 DDR4 RAM,https://mdcomputers.in/product/evm-ram-8gb-ddr4-evmt8g3200u88p,4840
+2026-11-26,RAM,DDR4 8GB 3200,Kingston,Kingston Value 8GB 3200MHz CL22 DDR4 RAM,https://mdcomputers.in/product/kingston-value-ram-8gb-ddr4-kvr32n22s8l-8wp,19000
+2026-11-26,RAM,DDR4 8GB 3200,Verbatim,Verbatim 8GB 3200MHz CL22 DDR4 RAM,https://mdcomputers.in/product/verbatim-ram-8gb-3200mhz-ddr4-30122,5599
+2026-11-26,RAM,DDR4 8GB 3200,Crucial,Crucial 8GB 3200MHz CL22 DDR4 RAM,https://mdcomputers.in/product/crucial-ram-cb8gu3200,5680
+2026-11-26,RAM,DDR4 8GB 3200,Teamgroup,TeamGroup T-Force Elite 8GB 3200MHz CL22 DDR4 RAM,https://mdcomputers.in/product/teamgroup-ram-t-force-elite-8gb-3200mhz-ted48g3200c22bk,5950
+2026-11-26,RAM,DDR4 8GB 2666,Adata,Adata Premier 8GB 2666MHz CL19 DDR4 RAM,https://mdcomputers.in/product/adata-ram-premier-8gb-2666mhz-ad4u26668g19-sgn,6599
+2026-11-26,RAM,DDR4 8GB 3200,Adata,Adata Premier 8GB 3200MHz CL22 DDR4 RAM,https://mdcomputers.in/product/adata-ram-premier-8gb-ddr4-3200mhz-ad4u32008g22-sgn,6750
+2026-11-26,RAM,DDR4 8GB 3200,G.Skill,G.Skill Ripjaws V 8GB 3200MHz CL16 DDR4 RAM,https://mdcomputers.in/product/g-skill-ram-ripjaws-v-8gb-ddr4-3200mhz-f4-3200c16s-8gvkb,6750
+2026-11-26,RAM,DDR4 8GB 3200,Adata,Adata XPG Gammix D35 8GB 3200MHz CL16 DDR4 RAM,https://mdcomputers.in/product/adata-ram-xpg-gammix-d35-8gb-ddr4-ax4u32008g16a-sbkd35,6999
+2026-11-26,RAM,DDR4 8GB 3200,Teamgroup,TeamGroup T-Force Vulcan Z 8GB 3200MHz CL16 DDR4 RAM,https://mdcomputers.in/product/teamgroup-ram-t-force-vulcan-z-ddr4-8gb-tlzgd48g3200hc16f01,6999
+2026-11-26,RAM,DDR4 8GB 3200,Adata,Adata XPG Spectrix D35G RGB White 8GB 3200MHz CL16 DDR4 RAM,https://mdcomputers.in/product/adata-ram-xpg-spectrix-d35g-8gb-ddr4-ax4u32008g16a-swhd35g,7250
+2026-11-26,RAM,DDR4 8GB 3200,Corsair,Corsair Vengeance LPX 8GB 3200MHz CL16 DDR4 RAM,https://mdcomputers.in/product/corsair-ram-vengeance-lpx-8gb-ddr4-cmk8gx4m1e3200c16,7350
+2026-11-26,RAM,DDR4 8GB 3200,Teamgroup,TeamGroup T-Force Delta RGB White 8GB 3200MHz CL16 DDR4 RAM,https://mdcomputers.in/product/teamgroup-ram-t-force-delta-rgb-tf4d48g3200hc16f01,7350
+2026-11-26,RAM,DDR4 16GB 2666,Evm,EVM 16GB 2666MHz CL19 DDR4 RAM,https://mdcomputers.in/product/evm-ram-16gb-ddr4-evmt16g2666u88p,8199
+2026-11-26,RAM,DDR4 16GB 3200,Verbatim,Verbatim 16GB 3200MHz CL22 DDR4 RAM,https://mdcomputers.in/product/verbatim-ram-16gb-3200mhz-ddr4-30126,10999
+2026-11-26,RAM,DDR4 16GB 3200,Crucial,Crucial 16GB 3200MHz CL22 DDR4 RAM,https://mdcomputers.in/product/crucial-ram-cb16gu3200,11599
+2026-11-26,RAM,DDR4 16GB 3200,G.Skill,G.Skill Aegis 16GB 3200MHz CL16 DDR4 RAM,https://mdcomputers.in/product/gskill-ram-aegis-16gb-f4-3200c16s-16gis,11699
+2026-11-26,RAM,DDR4 16GB 2666,Adata,Adata Premier 16GB 2666MHz CL19 DDR4 RAM,https://mdcomputers.in/product/adata-ram-premier-16gb-2666mhz-ad4u266616g19-sgn,11999
+2026-11-26,RAM,DDR4 16GB 3200,Teamgroup,TeamGroup T-Force Elite 16GB 3200MHz CL22 DDR4 RAM,https://mdcomputers.in/product/teamgroup-ram-t-force-elite-16gb-3200mhz-ted416g3200c22bk,11999
+2026-11-26,RAM,DDR4 16GB 3200,G.Skill,G.Skill Ripjaws V 16GB 3200MHz CL16 DDR4 RAM,https://mdcomputers.in/product/g-skill-ram-ripjaws-v-16gb-ddr4-3200mhz-f4-3200c16s-16gvk,12350
+2026-11-26,RAM,DDR4 16GB 3200,Adata,Adata Premier 16GB 3200MHz CL22 DDR4 RAM,https://mdcomputers.in/product/adata-ram-premier-16gb-ddr4-ad4u320016g22-sgn,12999
+2026-11-26,RAM,DDR4 16GB 3200,Corsair,Corsair Vengeance LPX 16GB 3200MHz CL16 DDR4 RAM,https://mdcomputers.in/product/corsair-ram-vengeance-lpx-cmk16gx4m1e3200c16,13230
+2026-11-26,RAM,DDR4 16GB 3200,Adata,Adata XPG Gammix D35 16GB 3200MHz CL16 DDR4 RAM,https://mdcomputers.in/product/adata-ram-xpg-gammix-d35-16gb-ddr4-ax4u320016g16a-sbkd35,13499
+2026-11-26,RAM,DDR5 8GB 4800,Adata,Adata 8GB 4800MHz CL40 DDR5 RAM,https://mdcomputers.in/product/adata-ram-8gb-ddr5-4800mhz-ad5u48008g-s,13999
+2026-11-26,RAM,DDR5 8GB 5600,Adata,Adata 8GB 5600MHz CL46 DDR5 RAM,https://mdcomputers.in/product/adata-ram-8gb-5600mhz-ad5u56008g-s,14050
+2026-11-26,RAM,DDR4 16GB 3200,Teamgroup,TeamGroup T-Force Delta RGB 16GB 3200MHz CL16 DDR4 RAM,https://mdcomputers.in/product/teamgroup-ram-t-force-delta-rgb-tf3d416g3200hc16f01,14599
+2026-11-26,RAM,DDR4 16GB kit 4000,Thermaltake,Thermaltake TOUGHRAM RGB White 16GB (8GBx2) 4000MHz CL19 DDR4 RAM,https://mdcomputers.in/product/thermaltake-ram-toughram-rgb-16gb-ddr4-r022d408gx2-4000c19a,15540
+2026-11-26,RAM,DDR4 16GB kit 4400,Thermaltake,Thermaltake Toughram XG RGB 16GB (8GBx2) 4400MHz CL19 DDR4 RAM,https://mdcomputers.in/product/thermaltake-ram-toughram-xg-rgb-16gb-r016d408gx2-4400c19a,17999
+2026-11-26,RAM,DDR5 16GB 4800,Evm,EVM 16GB 4800MHz DDR5 RAM,https://mdcomputers.in/product/evm-ram-16gb-ddr5-evmt16g4800u88p,18950
+2026-11-26,RAM,DDR5 16GB 5600,Evm,EVM 16GB 5600Mhz DDR5 RAM,https://mdcomputers.in/product/evm-ram-16gb-ddr5-evmt16g5600u88p,21599
+2026-11-26,RAM,DDR5 16GB 4800,Adata,Adata 16GB 4800MHz CL40 DDR5 RAM,https://mdcomputers.in/product/adata-ram-16gb-ddr5-4800mhz-ad5u480016g-s,22499
+2026-11-26,RAM,DDR5 16GB 5600,Lexar,Lexar 16GB 5600MHz CL46 DDR5 RAM,https://mdcomputers.in/product/lexar-ram-16gb-ld5u16g56c46st-bgs,23499
+2026-11-26,RAM,DDR5 16GB 5600,Adata,Adata 16GB 5600MHz CL46 DDR5 RAM,https://mdcomputers.in/product/adata-ran-16gb-ddr5-5600mhz-ad5u560016g-s,23899
+2026-11-26,RAM,DDR5 16GB 5600,Geil,Geil Orion V 16GB 5600MHz CL38 DDR5 RAM,https://mdcomputers.in/product/geil-orion-v-16gb-ddr5-gvg516gb5600c38asc,24399
+2026-11-26,RAM,DDR4 32GB kit 3200,Acer,Acer Predator Pallas Silver 32GB (16GBx2) 3200MHz CL16 DDR4 RAM,https://mdcomputers.in/product/acer-predator-ram-pallas-32gb-bl-9bwwr-344,24599
+2026-11-26,RAM,DDR5 16GB 5200,G.Skill,G.Skill Ripjaws S5 16GB 5200MHz CL40 DDR5 RAM,https://mdcomputers.in/product/g-skill-ram-ripjaws-s5-16gb-ddr5-f5-5200j4040a16gx1-rs5k,24899
+2026-11-26,RAM,DDR5 16GB 5600,Adata,ADATA XPG ARMAX RGB 16GB 5600MHz CL46 DDR5 RAM,https://mdcomputers.in/product/adata-ram-xpg-armax-rgb-ddr5-16gb-ax5u5600c4616g-samrbk,25299
+2026-11-26,RAM,DDR4 32GB 3200,Patriot,Patriot Signature Line 32GB 3200MHz CL22 DDR4 RAM,https://mdcomputers.in/product/patriot-ram-signature-line-32gb-ddr4-psd432g32002,25399
+2026-11-26,RAM,DDR4 32GB kit 3200,Corsair,Corsair Vengeance LPX 32GB (16GBx2) 3200MHz CL16 DDR4 RAM,https://mdcomputers.in/product/corsair-vengeance-lpx-32gb-ddr4-cmk32gx4m2e3200c16,25426
+2026-11-26,RAM,DDR5 16GB 6000,Crucial,Crucial Pro 16GB 6000MHz CL48 DDR5 RAM,https://mdcomputers.in/product/crucial-ram-pro-16gb-ddr5-cp16g60c48u5,25590
+2026-11-26,RAM,DDR5 16GB 5600,Adata,Adata XPG Lancer Blade 16GB 5600MHz CL46 DDR5 RAM,https://mdcomputers.in/product/adata-ram-xpg-lancer-blade-16gb-ddr5-ax5u5600c4616g-slabbk,25799
+2026-11-26,RAM,DDR5 16GB 5600,Adata,Adata XPG Lancer Blade White 16GB 5600MHz CL46 DDR5 RAM,https://mdcomputers.in/product/adata-ram-xpg-lancer-blade-16gb-ddr5-ax5u5600c4616g-slabwh,25899
+2026-11-26,RAM,DDR5 16GB 5200,Corsair,Corsair Vengeance 16GB 5200MHz CL40 DDR5 RAM,https://mdcomputers.in/product/corsair-vengeance-16gb-ddr5-5200mhz-cmk16gx5m1b5200c40,26599
+2026-11-26,RAM,DDR5 16GB 6000,Patriot,Patriot Viper Elite 5 Ultra 16GB 6000MHz CL36 DDR5 RAM,https://mdcomputers.in/product/patriot-ram-viper-elite-5-ultra-16gb-ddr5-veu516g6036,26599
+2026-11-26,RAM,DDR5 16GB 6000,Patriot,Patriot Viper Elite 5 White 16GB 6000MHz CL30 DDR5 RAM,https://mdcomputers.in/product/patriot-ram-viper-elite-5-16gb-veb516g6030w,27440
+2026-11-26,RAM,DDR5 16GB 6000,Adata,Adata XPG Lancer Blade RGB 16GB 6000MHz CL48 DDR5 RAM,https://mdcomputers.in/product/adata-ram-xpg-lancer-blade-16gb-ax5u6000c4816g-slabrbk,27599
+2026-11-26,RAM,DDR5 16GB 6000,Patriot,Patriot Viper Venom RGB DDR5 16GB 6000MHz CL30 RAM,https://mdcomputers.in/product/patriot-ram-viper-venom-rgb-16gb-pvvr516g60c30,27750
+2026-11-26,RAM,DDR5 16GB 6000,Corsair,Corsair Vengeance Grey 16GB 6000MHz CL38 DDR5 RAM,https://mdcomputers.in/product/corsair-ram-vengeance-16gb-ddr5-cmk16gx5m1d6000z38,27999
+2026-11-26,RAM,DDR5 16GB 6000,G.Skill,G.Skill Flare X5 16GB 6000MHz CL36 DDR5 RAM,https://mdcomputers.in/product/g-skill-ram-flare-x5-16gb-ddr5-f5-6000j3636f16gx1-fx5,28130
+2026-11-26,RAM,DDR5 16GB 5200,Kingston,Kingston Fury Beast 16GB 5200MHz CL36 DDR5 RAM,https://mdcomputers.in/product/kingston-ram-fury-beast-16gb-5200mhz-ddr5-kf552c36bbe-16,28399
+2026-11-26,RAM,DDR5 16GB 5200,Kingston,Kingston Fury Beast White 16GB 5200MHz CL40 DDR5 RAM,https://mdcomputers.in/product/kingston-ram-fury-beast-16gb-ddr5-kf552c40bw-16,28399
+2026-11-26,RAM,DDR5 16GB 6000,G.Skill,G.Skill Ripjaws S5 Matte Black 16GB 6000MHz CL36-36 DDR5 RAM,https://mdcomputers.in/product/g-skill-ram-ripjaws-s5-16gb-ddr5-f5-6000j3636f16gx1-rs5k,28499
+2026-11-26,RAM,DDR5 16GB 6000,Teamgroup,TeamGroup T-Force Vulcan Red 16GB 6000MHz CL38 DDR5 RAM,https://mdcomputers.in/product/teamgroup-ram-t-force-vulcan-flrd516g6000hc38a01,28730
+2026-11-26,RAM,DDR5 16GB 6000,Corsair,Corsair Vengeance 16GB 6000MHz CL36 DDR5 RAM,https://mdcomputers.in/product/corsair-ram-vengeance-16gb-cmk16gx5m1e6000z36,28799
+2026-11-26,RAM,DDR5 16GB 6000,Teamgroup,TeamGroup T-Force Vulcan 16GB 6000MHz CL38 DDR5 RAM,https://mdcomputers.in/product/teamgroup-ram-t-force-vulcan-flbd516g6000hc38a01,28850
+2026-11-26,RAM,DDR5 16GB 6000,Adata,Adata XPG Lancer Blade RGB 16GB 6000MHz CL36 DDR5 RAM,https://mdcomputers.in/product/adata-ram-xpg-lancer-blade-16gb-ddr5-ax5u6000c3616g-slabrbk,28990
+2026-11-26,RAM,DDR5 16GB 6000,Corsair,Corsair Vengeance RGB Grey 16GB 6000MHz CL38 DDR5 RAM,https://mdcomputers.in/product/corsair-ram-vengeance-16gb-ddr5-cmh16gx5m1d6000z38,29450
+2026-11-26,RAM,DDR5 16GB 6000,G.Skill,G.Skill Trident Z5 RGB 16GB 6000MHz CL36 DDR5 RAM,https://mdcomputers.in/product/g-skill-trident-z5-rgb-16gb-ddr5-f5-6000j3636f16gx1-tz5rk,29470
+2026-11-26,RAM,DDR5 16GB 6400,Crucial,Crucial Pro OC 16GB 6400MHz CL38 DDR5 RAM,https://mdcomputers.in/product/crucial-ram-pro-oc-16gb-ddr5-cp16g64c38u5b,29499
+2026-11-26,RAM,DDR4 16GB 3200,Kingston,Kingston Server Premier 16GB 3200MHz CL22 DDR4 ECC Registered RAM,https://mdcomputers.in/product/kingston-server-premier-ecc-16gb-ram-ksm32rs8-16hd,29699
+2026-11-26,RAM,DDR5 16GB 5600,Adata,ADATA XPG ARMAX 16GB 5600MHz CL46 DDR5 RAM,https://mdcomputers.in/product/adata-ram-xpg-armax-ddr5-16gb-ax5u5600c4616g-sambk,29999
+2026-11-26,RAM,DDR5 16GB 6000,Adata,Adata XPG Lancer Blade 16GB 6000MHz CL36 DDR5 RAM,https://mdcomputers.in/product/adata-ram-xpg-lancer-blade-16gb-ddr5-ax5u6000c3616g-slabbk,31199
+2026-11-26,RAM,DDR5 16GB 6000,Adata,Adata XPG Lancer Blade White 16GB 6000MHz CL36 DDR5 RAM,https://mdcomputers.in/product/adata-ram-xpg-lancer-blade-16gb-ddr5-ax5u6000c3616g-slabwh,31199
+2026-11-26,RAM,DDR5 16GB 6000,G.Skill,G.Skill Flare X5 16GB 6000MHz CL30 DDR5 RAM,https://mdcomputers.in/product/gskill-ram-flare-x5-16gb-ddr5-f5-6000j3038f16gh1-fx5,31290
+2026-11-26,RAM,DDR5 16GB 6000,Adata,Adata XPG Lancer Blade White 16GB 6000MHz CL34 DDR5 RAM,https://mdcomputers.in/product/adata-ram-xpg-lancer-blade-16gb-ddr5-ax5u6000c3416g-slabwh,31699
+2026-11-26,RAM,DDR4 32GB 3200,Adata,Adata XPG Gammix D35 32GB 3200MHz CL16 DDR4 RAM,https://mdcomputers.in/product/adata-ram-xpg-gammix-d35-32gb-ddr4-ax4u320032g16a-sbkd35,31899
+2026-11-26,RAM,DDR5 16GB 6000,Kingston,Kingston Fury Beast White 16GB 6000MHz CL36 DDR5 RAM,https://mdcomputers.in/product/kingston-ram-fury-beast-16gb-6000mhz-ddr5-kf560c36bwe2-16,31899
+2026-11-26,RAM,DDR5 16GB 6000,G.Skill,G.Skill Trident Z5 Neo RGB 16GB 6000MHz CL30 DDR5 RAM,https://mdcomputers.in/product/gskill-trident-z5-neo-rgb-16gb-ddr5-f5-6000j3038f16gh1-tz5nr,32280
+2026-11-26,RAM,DDR5 16GB 6000,Adata,Adata XPG Lancer Blade RGB White 16GB 6000MHz CL36 DDR5 RAM,https://mdcomputers.in/product/adata-ram-xpg-lancer-blade-16gb-ddr5-ax5u6000c3616g-slabrwh,32499
+2026-11-26,RAM,DDR5 16GB 5600,Kingston,Kingston Fury Beast 16GB 5600MHz CL36 DDR5 RAM,https://mdcomputers.in/product/kingston-ram-fury-beast-16gb-ddr5-kf556c36bbe-16,32699
+2026-11-26,RAM,DDR5 16GB 6000,Kingston,Kingston Fury Beast 16GB 6000MHz CL36 DDR5 RAM,https://mdcomputers.in/product/kingston-ram-fury-beast-16gb-ddr5-kf560c36bbe2-16,32760
+2026-11-26,RAM,DDR5 16GB 6000,Kingston,Kingston Fury Beast RGB White 16GB 6000MHz CL36 DDR5 RAM,https://mdcomputers.in/product/kingston-ram-fury-beast-16gb-ddr5-kf560c36bwe2a-16,33699
+2026-11-26,RAM,DDR5 16GB 6000,Adata,Adata XPG Lancer Blade 16GB 6000MHz CL30 DDR5 RAM,https://mdcomputers.in/product/adata-ram-xpg-lancer-blade-16gb-ddr5-ax5u6000c3016g-slabbk,33850
+2026-11-26,RAM,DDR5 16GB 6000,Adata,Adata XPG Lancer Blade White 16GB 6000MHz CL30 DDR5 RAM,https://mdcomputers.in/product/adata-ram-xpg-lancer-blade-16gb-ddr5-ax5u6000c3016g-slabwh,33850
+2026-11-26,RAM,DDR5 16GB 6000,Adata,Adata XPG Lancer Blade RGB 16GB 6000MHz CL30 DDR5 RAM,https://mdcomputers.in/product/adata-ram-xpg-lancer-blade-16gb-ddr5-ax5u6000c3016g-slabrbk,34999
+2026-11-26,RAM,DDR5 16GB 6000,Adata,Adata XPG Lancer Blade RGB White 16GB 6000MHz CL30 DDR5 RAM,https://mdcomputers.in/product/adata-ram-xpg-lancer-blade-16gb-ddr5-ax5u6000c3016g-slabrwh,34999
+2026-11-26,RAM,DDR5 16GB 6000,Kingston,Kingston Fury Beast RGB 16GB 6000MHz CL30 DDR5 RAM,https://mdcomputers.in/product/kingston-ram-fury-beast-16gb-ddr5-kf560c30bbea-16,36590
+2026-11-26,RAM,DDR5 32GB 5600,Geil,Geil Orion V 32GB 5600MHz CL38 DDR5 RAM,https://mdcomputers.in/product/geil-orion-v-32gb-ddr5-gvg532gb5600c38asc,48699
+2026-11-26,RAM,DDR5 32GB 5200,G.Skill,G.Skill Ripjaws S5 32GB 5200MHz CL40 DDR5 RAM,https://mdcomputers.in/product/g-skill-ram-ripjaws-s5-32gb-f5-5200j4040a32gx1-rs5k,50599
+2026-11-26,RAM,DDR5 32GB 6000,Teamgroup,TeamGroup T-Force Vulcan Red 32GB 6000MHz CL38 DDR5 RAM,https://mdcomputers.in/product/teamgroup-ram-t-force-vulcan-flrd532g6000hc38a01,50999
+2026-11-26,RAM,DDR5 32GB 5600,Adata,Adata 32GB 5600MHz CL46 DDR5 RAM,https://mdcomputers.in/product/adata-ram-32gb-ddr5-5600mhz-ad5u560032g-s,51199
+2026-11-26,RAM,DDR5 32GB 5600,Teamgroup,TeamGroup T-Force Delta RGB 32GB 5600MHz CL36 DDR5 RAM,https://mdcomputers.in/product/teamgroup-ram-t-force-delta-rgb-ff4d532g5600hc36b01,51299
+2026-11-26,RAM,DDR5 32GB 5200,Corsair,Corsair Vengeance RGB 32GB 5200MHz CL40 DDR5 RAM,https://mdcomputers.in/product/corsair-ram-vengeance-32gb-ddr5-cmh32gx5m1b5200z40,51999
+2026-11-26,RAM,DDR5 32GB 6000,Teamgroup,TeamGroup T-Force Delta RGB 32GB 6000MHz CL38 DDR5 RAM,https://mdcomputers.in/product/teamgroup-ram-t-force-delta-rgb-ff3d532g6000hc38a01,52399
+2026-11-26,RAM,DDR5 32GB kit 6000,Patriot,Patriot Viper Elite 5 Ultra 32GB (16GBx2) 6000MHz CL36 DDR5 RAM,https://mdcomputers.in/product/patriot-ram-viper-elite-5-ultra-32gb-ddr5-veu532g6036k,52490
+2026-11-26,RAM,DDR5 32GB 5200,Kingston,Kingston Fury Beast 32GB 5200MHz CL40 DDR5 RAM,https://mdcomputers.in/product/kingston-ram-fury-beast-32gb-ddr5-kf552c40bb2-32,52899
+2026-11-26,RAM,DDR5 32GB 5600,Adata,Adata XPG Lancer Blade White 32GB 5600MHz CL46 DDR5 RAM,https://mdcomputers.in/product/adata-ram-xpg-lancer-blade-32gb-ddr5-ax5u5600c4632g-slabwh,54199
+2026-11-26,RAM,DDR5 32GB 6000,G.Skill,G.Skill Flare X5 32GB 6000MHz CL38 DDR5 RAM,https://mdcomputers.in/product/gskill-ram-flare-x5-32gb-ddr5-f5-6000j3848d32gx1-fx5,54380
+2026-11-26,RAM,DDR5 32GB kit 6000,Teamgroup,TEAMGROUP T-Create Expert DDR5 White 32GB (16GB x 2) 6000MHz CL38 RAM,https://mdcomputers.in/product/teamgroup-ram-expert-ddr5-32gb-white-ctcwd532g6000hc38gdc01,55399
+2026-11-26,RAM,DDR5 32GB kit 5200,Corsair,Corsair Dominator Platinum RGB 32GB (16GBx2) 5200MHz CL40 DDR5 RAM,https://mdcomputers.in/product/corsair-ram-dominator-platinum-cmt32gx5m2b5200z40,56690
+2026-11-26,RAM,DDR5 32GB kit 6000,Corsair,Corsair Vengeance 32GB (16GBx2) 6000MHz 1.30V CL36 DDR5 RAM,https://mdcomputers.in/product/corsair-ram-vengeance-cmk32gx5m2f6000c36,57190
+2026-11-26,RAM,DDR5 32GB 5600,Adata,Adata XPG Lancer Blade 32GB 5600MHz CL46 DDR5 RAM,https://mdcomputers.in/product/adata-ram-xpg-lancer-blade-32gb-ddr5-ax5u5600c4632g-slabbk,57399
+2026-11-26,RAM,DDR5 32GB 5600,Kingston,Kingston Fury Beast 32GB 5600MHz CL36 DDR5 RAM,https://mdcomputers.in/product/kingston-ram-fury-beast-32gb-ddr5-kf556c36bbe2-32,57399
+2026-11-26,RAM,DDR5 32GB 6000,G.Skill,G.Skill Ripjaws S5 Matte Black 32GB 6000MHz CL36 DDR5 RAM,https://mdcomputers.in/product/g-skill-ram-ripjaws-s5-32gb-ddr5-f5-6000j3636f32gx1-rs5k,57899
+2026-11-26,RAM,DDR5 32GB 6000,Kingston,Kingston Fury Beast 32GB 6000MHz CL36 DDR5 RAM,https://mdcomputers.in/product/kingston-ram-fury-beast-32gb-ddr5-kf560c36bbe2-32,58499
+2026-11-26,RAM,DDR5 32GB kit 6400,Teamgroup,TeamGroup T-Create Classic DDR5 32GB (16GB x 2) 6400MHz CL52 RAM,https://mdcomputers.in/product/teamgroup-t-create-classic-ram-32gb-ctccd532g6400hc52dc01,58999
+2026-11-26,RAM,DDR5 32GB kit 6000,Teamgroup,TeamGroup T-Force Delta RGB White 32GB (16GBx2) 6000MHz CL38 DDR5 RAM,https://mdcomputers.in/product/teamgroup-ram-t-force-delta-rgb-ff4d532g6000hc38adc01,58999
+2026-11-26,RAM,DDR5 32GB kit 6000,Adata,Adata XPG Lancer Blade 32GB (16GBx2) 6000MHz CL36 DDR5 RAM,https://mdcomputers.in/product/adata-ram-xpg-lancer-blade-32gb-ddr5-ax5u6000c3616g-dtlabbk,59899
+2026-11-26,RAM,DDR5 32GB kit 6000,Adata,Adata XPG Lancer Blade White 32GB (16GBx2) 6000MHz CL36 DDR5 RAM,https://mdcomputers.in/product/adata-ram-xpg-lancer-blade-32gb-ddr5-ax5u6000c3616g-dtlabwh,59899
+2026-11-26,RAM,DDR5 32GB kit 6000,Adata,Adata XPG Lancer Blade RGB 32GB (16GBx2) 6000MHz CL48 DDR5 RAM,https://mdcomputers.in/product/adata-ram-xpg-lancer-blade-32gb-ax5u6000c4816g-dtlabrbk,59999
+2026-11-26,RAM,DDR5 32GB kit 6000,Adata,Adata XPG Lancer Blade RGB White 32GB (16GBx2) 6000MHz CL48 DDR5 RAM,https://mdcomputers.in/product/adata-ram-xpg-lancer-blade-32gb-ddr5-ax5u6000c4816g-dtlabrwh,59999
+2026-11-26,RAM,DDR5 32GB kit 6000,Acer,Acer Predator Pallas II 32GB (16GBx2) 6000MHz CL32 DDR5 RAM,https://mdcomputers.in/product/acer-predator-ram-pallas-ii-32gb-bl-9bwwr-432,61550
+2026-11-26,RAM,DDR5 32GB kit 6000,V-Color,V-Color Manta XFinity RGB 32GB (16GB x 2) 6000MHz CL30 DDR5 RAM,https://mdcomputers.in/product/v-color-ram-manta-xfinity-rgb-32gb-ddr5-tmxfl1660830kwk,61960
+2026-11-26,RAM,DDR5 32GB kit 6000,G.Skill,G.Skill Trident Z5 Neo RGB 32GB (16GBx2) 6000MHz CL36 DDR5 RAM,https://mdcomputers.in/product/g-skill-ram-trident-z5-neo-32gb-ddr5-f5-6000j3636f16gx2-tz5nr,62099
+2026-11-26,RAM,DDR5 32GB 6000,Kingston,Kingston Fury Beast RGB 32GB 6000MHz CL36 DDR5 RAM,https://mdcomputers.in/product/kingston-ram-fury-beast-32gb-ddr5-kf560c36bbe2a-32,62599
+2026-11-26,RAM,DDR5 32GB kit 6000,G.Skill,G.Skill Flare X5 32GB(16GBx2) 6000MHz CL30 DDR5 RAM,https://mdcomputers.in/product/gskill-ram-flare-x5-32gb-ddr5-f5-6000j3038f16gh2-fx5,62730
+2026-11-26,RAM,DDR5 32GB kit 6000,Teamgroup,TEAMGROUP T-Create Expert DDR5 32GB (16GB x 2) 6000MHz CL30 RAM,https://mdcomputers.in/product/teamgroup-ram-expert-ddr5-32gb-ctced532g6000hc30dc01,63599
+2026-11-26,RAM,DDR5 32GB kit 6000,Teamgroup,TeamGroup T-Create Expert DDR5 White 32GB (16GB x 2) 6000MHz CL30 RAM,https://mdcomputers.in/product/teamgroup-ram-expert-ddr5-32gb-white-ctcwd532g6000hc30dc01,63599
+2026-11-26,RAM,DDR5 32GB kit 6000,Adata,Adata XPG Lancer Blade White 32GB (16GB x 2) 6000MHz CL34 DDR5 RAM,https://mdcomputers.in/product/adata-ram-xpg-lancer-blade-32gb-ddr5-ax5u6000c3416g-dtlabwh,63790
+2026-11-26,RAM,DDR5 32GB kit 6000,Acer,Acer Predator Pallas II 32GB (16GBx2) 6000MHz Silver CL34 DDR5 RAM,https://mdcomputers.in/product/acer-predator-ram-pallas-ii-32gb-bl-9bwwr-651,63799
+2026-11-26,RAM,DDR5 32GB kit 6400,Teamgroup,TeamGroup T-Create Expert DDR5 32GB (16GB x 2) 6400MHz CL32 RAM,https://mdcomputers.in/product/teamgroup-t-create-expert-ram-32gb-ctced532g6400hc32adc01,63999
+2026-11-26,RAM,DDR5 32GB kit 6000,Adata,Adata XPG Lancer Blade RGB 32GB (16GBx2) 6000MHz CL36 DDR5 RAM,https://mdcomputers.in/product/adata-ram-xpg-lancer-blade-32gb-ddr5-ax5u6000c3616g-dtlabrbk,64199
+2026-11-26,RAM,DDR5 32GB kit 6000,Adata,Adata XPG Lancer Blade RGB White 32GB (16GBx2) 6000MHz CL34 DDR5 RAM,https://mdcomputers.in/product/adata-ram-xpg-lancer-blade-32gb-ddr5-ax5u6000c3416g-dtlabrwh,64599
+2026-11-26,RAM,DDR5 32GB kit 6000,G.Skill,G.Skill Trident Z5 Neo RGB 32GB (16GBx2) 6000MHz CL30 DDR5 RAM,https://mdcomputers.in/product/g-skill-ram-32gb-ddr5-f5-6000j3038f16gh2-tz5nr,65140
+2026-11-26,RAM,DDR5 32GB kit 6000,Teamgroup,TEAMGROUP Delta RGB DDR5 White 32GB (16GB x 2) 6000MHz CL30 RAM,https://mdcomputers.in/product/teamgroup-ram-delta-rgb-32gb-white-ff4d532g6000hc30dc01,65970
+2026-11-26,RAM,DDR5 32GB kit 6000,Acer,Acer Predator Pallas II 32GB (16GBx2) 6000MHz CL30 DDR5 RAM,https://mdcomputers.in/product/acer-predator-ram-pallas-ii-32gb-bl-9bwwr-433,65999
+2026-11-26,RAM,DDR5 32GB kit 6000,Acer,Acer Predator Vesta II RGB 32GB (16GBx2) 6000MHz CL36 DDR5 RAM,https://mdcomputers.in/product/acer-predator-ram-vesta-ii-rgb-32gb-bl-9bwwr-652,66299
+2026-11-26,RAM,DDR5 32GB kit 6600,Adata,Adata XPG Lancer RGB ROG 32GB (16GBx2) 6600MHz CL32 DDR5 RAM,https://mdcomputers.in/product/adata-ram-xpg-lancer-32gb-ddr5-ax5u6600c3216g-dclarrog,66599
+2026-11-26,RAM,DDR5 32GB 6000,Adata,Adata XPG Lancer Blade 32GB 6000MHz CL30 DDR5 RAM,https://mdcomputers.in/product/adata-ram-xpg-lancer-blade-32gb-ddr5-ax5u6000c3032g-slabbk,67150
+2026-11-26,RAM,DDR5 32GB 6000,Adata,Adata XPG Lancer White 32GB 6000MHz CL30 DDR5 RAM,https://mdcomputers.in/product/adata-ram-xpg-lancer-blade-32gb-ddr5-ax5u6000c3032g-slabwh,67999
+2026-11-26,RAM,DDR5 32GB kit 6000,Teamgroup,TEAMGROUP Delta RGB DDR5 32GB (16GB x 2) 6000MHz CL30 RAM,https://mdcomputers.in/product/teamgroup-ram-delta-ddr5-32gb-ff3d532g6000hc30dc01,67999
+2026-11-26,RAM,DDR5 16GB 5600,Kingston,Kingston Server Premier ECC Unbuffered DIMM 16GB 5600MHz CL46 DDR5 RAM,https://mdcomputers.in/product/kingston-server-premier-ecc-ram-ksm56e46bs8km-16ha,68199
+2026-11-26,RAM,DDR5 16GB 5600,Kingston,Kingston Server Premier ECC Registered DIMM 16GB 5600MHz CL46 DDR5 RAM,https://mdcomputers.in/product/kingston-server-premier-ecc-ram-ksm56r46bs8-16ha,68199
+2026-11-26,RAM,DDR5 32GB kit 6000,Adata,Adata XPG Lancer Blade RGB 32GB (16GBx2) 6000MHz CL30 DDR5 RAM,https://mdcomputers.in/product/adata-ram-xpg-lancer-blade-32gb-ddr5-ax5u6000c3016g-dtlabrbk,68399
+2026-11-26,RAM,DDR5 32GB kit 6000,Adata,Adata XPG Lancer Blade RGB White 32GB (16GBx2) 6000MHz CL30 DDR5 RAM,https://mdcomputers.in/product/adata-ram-xpg-lancer-blade-32gb-ddr5-ax5u6000c3016g-dtlabrwh,68399
+2026-11-26,RAM,DDR5 32GB kit 6000,Adata,Adata XPG Lancer Blade White 32GB (16GBx2) 6000MHz CL30 DDR5 RAM,https://mdcomputers.in/product/adata-ram-xpg-lancer-blade-32gb-ddr5-ax5u6000c3016g-dtlabwh,68499
+2026-11-26,RAM,DDR5 32GB 6000,Adata,Adata XPG Lancer RGB 32GB 6000MHz CL30 DDR5 RAM,https://mdcomputers.in/product/adata-ram-xpg-lancer-blade-32gb-ddr5-ax5u6000c3032g-slabrwh,68499
+2026-11-26,RAM,DDR5 32GB 6000,Adata,Adata XPG Lancer Blade RGB 32GB 6000MHz CL30 DDR5 RAM,https://mdcomputers.in/product/adata-ram-xpg-lancer-blade-32gb-ddr5-ax5u6000c3032g-slabrbk,68499
+2026-11-26,RAM,DDR5 32GB kit 6000,Adata,Adata XPG Lancer Blade 32GB (16GBx2) 6000MHz CL30 DDR5 RAM,https://mdcomputers.in/product/adata-ram-xpg-lancer-blade-32gb-ddr5-ax5u6000c3016g-dtlabbk,68599
+2026-11-26,RAM,DDR5 32GB kit 6000,Kingston,Kingston Fury Beast RGB White EXPO 32GB (16GBx2) 6000MHz CL30 DDR5 RAM,https://mdcomputers.in/product/kingston-ram-fury-beast-32gb-ddr5-kf560c30bweak2-32,69990
+2026-11-26,RAM,DDR5 32GB kit 6000,Kingston,Kingston Fury Beast RGB EXPO 32GB (16GBx2) 6000MHz CL30 DDR5 RAM,https://mdcomputers.in/product/kingston-ram-fury-beast-32gb-ddr5-kf560c30bbeak2-32,74199
+2026-11-26,RAM,DDR5 64GB kit 6000,Corsair,Corsair Vengeance RGB Grey 64GB (32GBx2) 6000MHz CL40 DDR5 RAM,https://mdcomputers.in/product/corsair-ram-vengeance-64gb-ddr5-cmh64gx5m2d6000z40,108470
+2026-11-26,RAM,DDR5 64GB kit 5600,Corsair,Corsair Vengeance RGB Grey 64GB (32GBx2) 5600MHz CL36 DDR5 RAM,https://mdcomputers.in/product/corsair-ram-vengeance-64gb-ddr5-cmh64gx5m2b5600z36k,110000
+2026-11-26,RAM,DDR5 64GB kit 6000,Corsair,Corsair Vengeance 64GB (32GBx2) 6000MHz CL40 DDR5 RAM,https://mdcomputers.in/product/corsair-ram-vengeance-cmk64gx5m2d6000c40,112940
+2026-11-26,RAM,DDR5 64GB 5600,Kingston,Kingston Value 64GB 5600MHz CL46 DDR5 RAM,https://mdcomputers.in/product/kingston-value-ram-64gb-ddr5-kvr56u46bd8-64,124500
+2026-11-26,RAM,DDR5 64GB kit 6000,G.Skill,G.Skill Trident Z5 Neo RGB 64GB (32GBx2) 6000MHz CL36 DDR5 RAM,https://mdcomputers.in/product/g-skill-trident-z5-neo-64gb-ddr5-f5-6000j3636f32gx2-tz5nr,124890
+2026-11-26,RAM,DDR5 64GB 5600,Kingston,Kingston Fury Beast 64GB 5600MHz CL36 DDR5 RAM,https://mdcomputers.in/product/kingston-fury-beast-ram-64gb-ddr5-kf556c36bbe-64,125399
+2026-11-26,RAM,DDR5 64GB kit 6000,Adata,Adata XPG Lancer Blade RGB 64GB (32GBx2) 6000MHz CL30 DDR5 RAM,https://mdcomputers.in/product/adata-ram-xpg-lancer-blade-64gb-ddr5-ax5u6000c3032g-dtlabrbk,129990
+2026-11-26,RAM,DDR5 64GB kit 6000,V-Color,V-Color Manta XFinity RGB 64GB (32GBx2) 6000MHz DDR5 CL30 RAM,https://mdcomputers.in/product/v-color-ram-manta-xfinity-rgb-64gb-ddr5-tmxfl3260830kwk,130060
+2026-11-26,RAM,DDR5 64GB kit 6000,Acer,Acer Predator Vesta II RGB 64GB (32GBx2) 6000MHz CL30 DDR5 RAM,https://mdcomputers.in/product/acer-predator-ram-vesta-ii-64gb-bl-9bwwr-334,136599
+2026-11-26,RAM,DDR5 64GB kit 6000,Adata,Adata XPG Lancer Blade 64GB (32GBx2) 6000MHz CL30 DDR5 RAM,https://mdcomputers.in/product/adata-ram-xpg-lancer-blade-64gb-ddr5-ax5u6000c3032g-dtlabbk,136999
+2026-11-26,RAM,DDR5 32GB 5600,Kingston,Kingston Server Premier ECC Registered DIMM 32GB 5600MHz CL46 DDR5 RAM,https://mdcomputers.in/product/kingston-server-premier-ecc-ram-ksm56r46bd8-32ha,138599
+2026-11-26,RAM,DDR5 64GB kit 6000,Teamgroup,TeamGroup T-Force Delta RGB DDR5 64GB (32GB x 2) 6000MHz CL30 RAM,https://mdcomputers.in/product/teamgroup-t-force-delta-rgb-ram-64gb-ff3d564g6000hc30cdc01,141999
+2026-11-26,RAM,DDR5 96GB kit 5200,Corsair,Corsair Vengeance RGB 96GB (48GBx2) 5200MHz CL38 DDR5 RAM,https://mdcomputers.in/product/corsair-ram-vengeance-96gb-ddr5-cmh96gx5m2b5200c38,156999
+2026-11-26,RAM,DDR5 128GB kit 6000,Corsair,Corsair Vengeance RGB 128GB (64GBx2) 6000MHz CL40 DDR5 RAM,https://mdcomputers.in/product/corsair-ram-vengeance-rgb-128gb-ddr5-cmh128gx5m2d6000c40,241199
+2026-11-26,RAM,DDR5 64GB 5600,Kingston,Kingston Server Premier ECC Registered DIMM 64GB 5600MHz CL46 DDR5 RAM,https://mdcomputers.in/product/kingston-server-premier-ecc-ram-ksm56r46bd4-64ha,291000
+2026-11-26,SSD,1000GB Gen4,Crucial,Crucial P310 NVMe 1TB Gen4 SSD,https://mdcomputers.in/product/crucial-p310-1tb-nvme-ssd-ct1000p310ssd8,16540
+2026-11-26,SSD,500GB Gen4,Wd,WD Blue SN5100 NVMe 500GB Gen4 SSD,https://mdcomputers.in/product/wd-blue-sn5100-500gb-nvme-ssd-wds500g5b0e,10850
+2026-11-26,SSD,4000GB Gen4,Wd,WD Black SN7100 NVMe 4TB Gen4 SSD,https://mdcomputers.in/product/wd-black-sn7100-4tb-nvme-ssd-wds400t4x0e,61460
+2026-11-26,SSD,1000GB Gen4,Adata,Adata Legend 960 1TB M.2 NVMe Gen4 SSD,https://mdcomputers.in/product/adata-legend-960-1tb-nvme-ssd-aleg-960-1tcs,20580
+2026-11-26,SSD,1000GB Gen4,Samsung,Samsung 990 PRO 1TB M.2 NVMe Gen4 SSD,https://mdcomputers.in/product/samsung-990-pro-1tb-nvme-ssd-mz-v9p1t0bw,24199
+2026-11-26,SSD,2000GB Gen4,Acer,Acer FA200 2TB NVMe Gen4 SSD,https://mdcomputers.in/product/acer-fa200-2tb-nvme-ssd-bl-9bwwa-125,27399
+2026-11-26,SSD,128GB Gen3,Consistent,Consistent S7 128GB NVMe Gen3 SSD,https://mdcomputers.in/product/consistent-s7-128gb-nvme-ssd,2670
+2026-11-26,SSD,2000GB SATA,Wd,WD Blue SA510 2TB SSD,https://mdcomputers.in/product/wd-blue-sa510-2tb-ssd-wds200t3b0a,42440
+2026-11-26,SSD,2000GB Gen4,Adata,Adata Legend 900 Pro 2TB NVMe Gen4 SSD,https://mdcomputers.in/product/adata-legend-900-pro-2tb-nvme-sleg-900p-2tcs,30920
+2026-11-26,SSD,2000GB Gen4,Crucial,Crucial P310 NVMe 2TB Gen4 SSD,https://mdcomputers.in/product/crucial-p310-2tb-nvme-ssd-ct2000p310ssd8,29945
+2026-11-26,SSD,1000GB Gen4,Crucial,Crucial P310 NVMe 1TB Gen4 SSD with Heatsink,https://mdcomputers.in/product/crucial-p310-1tb-nvme-ssd-ct1000p310ssd5,16840
+2026-11-26,SSD,500GB Gen4,Wd,WD Black SN7100 NVMe 500GB Gen4 SSD,https://mdcomputers.in/product/wd-black-sn7100-500gb-nvme-ssd-wds500g4x0e,12990
+2026-11-26,SSD,2000GB Gen4,Wd,WD Green SN3000 NVMe 2TB Gen4 SSD,https://mdcomputers.in/product/wd-green-sn3000-2tb-nvme-ssd-wds200t5g0e,30199
+2026-11-26,SSD,1000GB Gen4,Wd,WD Blue SN5100 1TB NVMe Gen4 SSD,https://mdcomputers.in/product/wd-blue-sn5100-1tb-nvme-ssd-wds100t5b0e,17120
+2026-11-26,SSD,2000GB Gen4,Wd,WD Black SN7100 NVMe 2TB Gen4 SSD,https://mdcomputers.in/product/wd-black-sn7100-2tb-nvme-ssd-wds200t4x0e,32490
+2026-11-26,SSD,256GB Gen3,Acer,Acer FA100 256GB NVMe Gen3 SSD,https://mdcomputers.in/product/acer-fa100-256gb-nvme-ssd,5299
+2026-11-26,SSD,256GB SATA,Evm,EVM 256GB Sata SSD,https://mdcomputers.in/product/evm-256gb-2-5-inch-ssd,3190
+2026-11-26,SSD,4000GB Gen4,Samsung,Samsung 990 Pro 4TB M.2 NVMe Gen4 SSD,https://mdcomputers.in/product/samsung-990-pro-4tb-nvme-ssd-mz-v9p4t0bw,84260
+2026-11-26,SSD,128GB SATA,Evm,EVM 128GB SATA SSD,https://mdcomputers.in/product/evm-128gb-2-5-inch-ssd,1980
+2026-11-26,SSD,128GB SATA,Consistent,Consistent S7 128GB Internal SSD,https://mdcomputers.in/product/consistent-s7-128gb-ssd-ctssd128s7,2040
+2026-11-26,SSD,512GB SATA,Patriot,"Patriot P210 Internal SSD, 512GB",https://mdcomputers.in/product/patriot-p210-512gb-ssd-p210s512g25,5799
+2026-11-26,SSD,480GB SATA,Lenovo,Lenovo LS800 480GB Sata SSD,https://mdcomputers.in/product/lenovo-ls800-480gb-sata-ssd,5830
+2026-11-26,SSD,512GB SATA,Consistent,Consistent 512GB Internal SSD,https://mdcomputers.in/product/consistent-512gb-ssd-ctssd512s6,5870
+2026-11-26,SSD,256GB NVMe,Adata,Adata Legend 710 Blue 256GB M.2 NVMe SSD,https://mdcomputers.in/product/adata-legend-710-256gb-nvme-ssd-aleg-710-256gcs,5899
+2026-11-26,SSD,512GB SATA,Verbatim,Verbatim Vi550 S3 512GB SATA SSD,https://mdcomputers.in/product/verbatim-vi550-s3-512gb-sata-ssd-49352,6490
+2026-11-26,SSD,250GB Gen3,Wd,WD Green SN350 NVMe 250GB Gen3 SSD,https://mdcomputers.in/product/wd-green-sn350-250gb-nvme-ssd-wds250g2g0c,6530
+2026-11-26,SSD,512GB SATA,Addlink,Addlink S20 512GB Internal SSD,https://mdcomputers.in/product/addlink-s20-512gb-ssd-ad512gbs20s3s,6880
+2026-11-26,SSD,500GB SATA,Wd,WD Green 500GB Sata SSD,https://mdcomputers.in/product/wd-green-500gb-sata-ssd-wds500g5g0a,6950
+2026-11-26,SSD,512GB SATA,Adata,Adata Ultimate SU650 512GB SSD,https://mdcomputers.in/product/adata-ultimate-su650-512gb-ssd-asu650ss-512gt-r,7280
+2026-11-26,SSD,250GB SATA,Wd,"WD Blue SA510 SSD, 250GB",https://mdcomputers.in/product/wd-blue-sa510-250gb-ssd-wds250g3b0a,7380
+2026-11-26,SSD,512GB Gen3,Evm,EVM 512GB NVMe Gen3 SSD,https://mdcomputers.in/product/evm-512gb-nvme-ssd,7540
+2026-11-26,SSD,512GB NVMe,Verbatim,Verbatim Vi560 S3 512GB M.2 SSD,https://mdcomputers.in/product/verbatim-vi560-s3-m-2-512gb-ssd-49363,8080
+2026-11-26,SSD,512GB NVMe,Adata,Adata Ultimate SU650 512GB M.2 SSD,https://mdcomputers.in/product/adata-ultimate-su650-512gb-ssd-asu650ns38-512gt-c,8280
+2026-11-26,SSD,512GB Gen3,Verbatim,Verbatim Vi3000 NVMe 512GB Gen3 SSD,https://mdcomputers.in/product/verbatim-vi3000-512gb-nvme-ssd-49374,8680
+2026-11-26,SSD,512GB Gen3,Acer,Acer FA100 512GB NVMe Gen3 SSD,https://mdcomputers.in/product/acer-fa100-512gb-nvme-ssd-bl-9bwwa-119,8799
+2026-11-26,SSD,512GB Gen4,Verbatim,Verbatim Vi5000 NVMe 512GB Gen4 SSD,https://mdcomputers.in/product/verbatim-vi5000-512gb-nvme-ssd-31825,9520
+2026-11-26,SSD,1000GB SATA,Evm,EVM 1TB SATA SSD,https://mdcomputers.in/product/evm-1tb-sata-ssd-evm25,9880
+2026-11-26,SSD,500GB Gen3,Wd,WD Green SN350 NVMe 500GB Gen3 SSD,https://mdcomputers.in/product/wd-green-sn350-500gb-nvme-ssd-wds500g2g0c,10160
+2026-11-26,SSD,512GB NVMe,Adata,Adata Legend 710 512GB M.2 NVMe Internal SSD,https://mdcomputers.in/product/adata-legend-710-512gb-nvme-ssd-710-512gcs,10340
+2026-11-26,SSD,500GB Gen4,Kingston,Kingston NV3 500GB NVMe Gen4 SSD,https://mdcomputers.in/product/kingston-nv3-500gb-ssd-snv3s-500g,10340
+2026-11-26,SSD,500GB Gen4,Wd,WD Green SN3000 NVMe 500GB Gen4 SSD,https://mdcomputers.in/product/wd-green-sn3000-500gb-nvme-ssd-wds500g5g0e,10699
+2026-11-26,SSD,500GB Gen4,Adata,ADATA Legend 860 500GB NVMe Gen4 SSD,https://mdcomputers.in/product/adata-legend-860-500gb-nvme-ssd-sleg-860-500gcs,10999
+2026-11-26,SSD,500GB Gen4,Kingston,Kingston NV3 500GB NVMe M.2 2230 Gen4 SSD,https://mdcomputers.in/product/kingston-nv3-500gb-ssd-snv3sm3-500g,11299
+2026-11-26,SSD,512GB Gen4,Acer,Acer Predator GM7 512GB M.2 NVMe Gen4 Internal SSD,https://mdcomputers.in/product/acer-predator-gm7-512gb-nvme-ssd-bl-9bwwr-117,11340
+2026-11-26,SSD,512GB Gen4,Adata,Adata Legend 900 512GB M.2 NVMe Gen4 Internal SSD,https://mdcomputers.in/product/adata-legend-900-512gb-nvme-ssd-sleg-900-512gcs,11599
+2026-11-26,SSD,1000GB SATA,Miphi,MiPhi MP100 1TB SATA SSD,https://mdcomputers.in/product/miphi-mp100-1tb-sata-ssd-mp311100t,11630
+2026-11-26,SSD,1000GB NVMe,Verbatim,Verbatim Vi560 S3 1TB M.2 SSD,https://mdcomputers.in/product/verbatim-vi560-s3-m-2-1tb-ssd-49364,11885
+2026-11-26,SSD,1000GB Gen4,Patriot,Patriot P400 Lite NVMe 1TB Gen4 SSD,https://mdcomputers.in/product/patriot-p400-lite-1tb-ssd-p400lp1kgm28h,12640
+2026-11-26,SSD,1000GB SATA,Verbatim,Verbatim Vi550 S3 1TB SATA SSD,https://mdcomputers.in/product/verbatim-vi550-s3-1tb-sata-ssd-49353,12640
+2026-11-26,SSD,1000GB NVMe,Addlink,Addlink S72 1TB M.2 NVMe SSD,https://mdcomputers.in/product/addlink-s72-1tb-nvme-ssd-ad1tbs72m2p,13599
+2026-11-26,SSD,1000GB SATA,Addlink,Addlink S20 1TB Internal SSD,https://mdcomputers.in/product/addlink-s20-1tb-ssd-ad1tbs20s3s,13660
+2026-11-26,SSD,960GB SATA,Kingston,Kingston A400 960GB SSD,https://mdcomputers.in/product/kingston-a400-960gb-ssd-sa400s37-960g,13999
+2026-11-26,SSD,512GB Gen4,Kingston,Kingston KC3000 512GB NVMe Gen4 SSD,https://mdcomputers.in/product/kingston-kc3000-512gb-nvme-ssd-skc3000s-512g,14250
+2026-11-26,SSD,1000GB Gen3,Verbatim,Verbatim Vi3000 NVMe 1TB Gen3 SSD,https://mdcomputers.in/product/verbatim-vi3000-1tb-nvme-ssd-49375,14560
+2026-11-26,SSD,1000GB Gen4,Wd,WD Green SN3000 1TB NVMe Gen4 SSD,https://mdcomputers.in/product/wd-green-sn3000-1tb-nvme-ssd-wds100t5g0e,14950
+2026-11-26,SSD,1000GB Gen4,Crucial,Crucial E100 1TB NVMe Gen4 SSD,https://mdcomputers.in/product/crucial-e100-1tb-nvme-ssd-ct1000e100ssd8,15340
+2026-11-26,SSD,1000GB Gen4,Adata,Adata XPG Gammix S60 1TB M.2 NVMe Gen4 Internal SSD,https://mdcomputers.in/product/adata-xpg-gammix-s60-1tb-nvme-ssd-agammixs60-1t-cs,15499
+2026-11-26,SSD,1000GB NVMe,Adata,Adata Ultimate SU650 M.2 1TB SSD,https://mdcomputers.in/product/adata-ultimate-su650-1tb-ssd-asu650ns38-1tt-c,15945
+2026-11-26,SSD,1000GB Gen4,Kingston,Kingston NV3 1TB NVMe Gen4 SSD,https://mdcomputers.in/product/kingston-nv3-1tb-ssd-snv3s-1000g,15980
+2026-11-26,SSD,1000GB SATA,Adata,Adata Ultimate SU650 1TB SSD,https://mdcomputers.in/product/adata-ultimate-su650-1tb-ssd-asu650ss-1tt-r,16160
+2026-11-26,SSD,1000GB Gen4,Verbatim,Verbatim Vi5000 NVMe 1TB Gen4 SSD,https://mdcomputers.in/product/verbatim-vi5000-1tb-nvme-ssd-31826,16780
+2026-11-26,SSD,1000GB Gen3,Adata,Adata Legend 710 1TB M.2 NVMe Gen3 SSD,https://mdcomputers.in/product/adata-legend-710-1tb-nvme-ssd-aleg-710-1tcs,17580
+2026-11-26,SSD,1000GB SATA,Teamgroup,Teamgroup T-Force Vulcan Z 1TB SSD,https://mdcomputers.in/product/teamgroup-t-force-vulcan-z-1tb-ssd-t253tz001t0c101,17799
+2026-11-26,SSD,1000GB Gen4,Verbatim,Verbatim Vi7000G NVMe 1TB Gen4 SSD,https://mdcomputers.in/product/verbatim-vi7000g-1tb-nvme-ssd-49367,18040
+2026-11-26,SSD,1000GB Gen4,Wd,WD Black SN7100 NVMe 1TB Gen4 SSD,https://mdcomputers.in/product/wd-black-sn7100-1tb-nvme-ssd-wds100t4x0e,18080
+2026-11-26,SSD,1000GB Gen4,Adata,ADATA Legend 860 1000GB NVMe Gen4 SSD,https://mdcomputers.in/product/adata-legend-860-1000gb-nvme-ssd-sleg-860-1000gcs,18260
+2026-11-26,SSD,1000GB Gen4,Acer,Acer Predator GM7 NVMe 1TB Gen4 SSD,https://mdcomputers.in/product/acer-predator-gm7-1tb-nvme-ssd-bl-9bwwr-118,19520
+2026-11-26,SSD,500GB SATA,Samsung,Samsung 870 EVO 500GB SSD,https://mdcomputers.in/product/samsung-870-evo-500gb-ssd-mz-77e500bw,19999
+2026-11-26,SSD,1000GB Gen4,Adata,Adata XPG Gammix S70 Blade 1TB M.2 NVMe Gen4 Internal SSD,https://mdcomputers.in/product/adata-xpg-gammix-s70-blade-nvme-ssd-agammixs70b-1t-cs,20120
+2026-11-26,SSD,1000GB Gen4,Adata,Adata Legend 960 Max 1TB NVMe Gen4 SSD,https://mdcomputers.in/product/adata-legend-960-max-1tb-nvme-ssd-aleg-960m-1tcs,21560
+2026-11-26,SSD,1024GB Gen4,Kingston,Kingston KC3000 1024GB NVMe Gen4 SSD,https://mdcomputers.in/product/kingston-kc3000-1tb-nvme-ssd-skc3000s-1024g,22260
+2026-11-26,SSD,1000GB Gen2,Samsung,SAMSUNG T7 Shield USB 3.2 1TB Gen2 SSD,https://mdcomputers.in/product/samsung-t7-shield-1tb-nvme-ssd-mu-pe1t0s-ww,22399
+2026-11-26,SSD,1000GB Gen4,Kingston,Kingston NV3 1TB NVMe M.2 2230 Gen4 SSD,https://mdcomputers.in/product/kingston-nv3-1tb-ssd-snv3sm3-1t0,23240
+2026-11-26,SSD,2000GB Gen4,Miphi,MiPhi MP500G4 NVMe 2TB Gen4 SSD,https://mdcomputers.in/product/miphi-mp500g4-2tb-nvme-ssd-mp5021200t,25180
+2026-11-26,SSD,2000GB Gen4,Miphi,MiPhi MP700G4 NVMe 2TB Gen4 SSD,https://mdcomputers.in/product/miphi-mp700g4-2tb-nvme-ssd-mp5018200t,25840
+2026-11-26,SSD,2000GB NVMe,Verbatim,Verbatim Vi560 S3 2TB M.2 SSD,https://mdcomputers.in/product/verbatim-vi560-s3-m-2-2tb-ssd-49365,25899
+2026-11-26,SSD,2000GB SATA,Verbatim,Verbatim Vi550 S3 2TB SATA SSD,https://mdcomputers.in/product/verbatim-vi550-s3-2tb-sata-ssd-49354,26740
+2026-11-26,SSD,2000GB Gen4,Verbatim,Verbatim Vi7000G NVMe 2TB Gen4 SSD,https://mdcomputers.in/product/verbatim-vi7000g-2tb-nvme-ssd-49368,28299
+2026-11-26,SSD,2000GB Gen3,Addlink,Addlink X70 RGB 2TB M.2 NVMe Gen3 SSD,https://mdcomputers.in/product/addlink-x70-rgb-2tb-nvme-ssd-ad2tbx70m2p,29499
+2026-11-26,SSD,2000GB Gen4,Acer,Acer Predator GM7000 2TB M.2 NVMe Gen4 Internal SSD,https://mdcomputers.in/product/acer-predator-gm7000-2tb-nvme-ssd-bl-9bwwr-106,30440
+2026-11-26,SSD,2000GB Gen4,Kingston,Kingston NV3 2TB NVMe M.2 2230 Gen4 SSD,https://mdcomputers.in/product/kingston-nv3-2tb-ssd-snv3sm3-2t0,30740
+2026-11-26,SSD,2000GB SATA,Adata,Adata Ultimate SU650 2TB Internal SSD,https://mdcomputers.in/product/adata-ultimate-su650-2tb-ssd-asu650ss-2tt-r,31099
+2026-11-26,SSD,2000GB Gen4,Adata,Adata Legend 800 2000GB M.2 NVMe Gen4 Internal SSD,https://mdcomputers.in/product/adata-legend-800-2000gb-nvme-ssd-aleg-800-2000gcs,32060
+2026-11-26,SSD,1000GB SATA,Samsung,Samsung 870 Evo 1TB SSD,https://mdcomputers.in/product/samsung-870-evo-1tb-ssd-mz-77e1t0bw,34760
+2026-11-26,SSD,2000GB Gen4,Adata,Adata Legend 960 2TB M.2 NVMe Gen4 Internal SSD,https://mdcomputers.in/product/adata-legend-960-2tb-nvme-ssd-aleg-960-2tcs,35960
+2026-11-26,SSD,2000GB Gen4,Adata,Adata Legend 960 Max 2TB NVMe Gen4 SSD with Heatsink,https://mdcomputers.in/product/adata-legend-960-max-2tb-nvme-ssd-aleg-960m-2tcs,36320
+2026-11-26,SSD,2000GB NVMe,Addlink,Addlink S95 2TB M.2 NVMe SSD,https://mdcomputers.in/product/addlink-s95-2tb-nvme-ssd-ad2tbs95m2p,42160
+2026-11-26,SSD,480GB SATA,Kingston,Kingston DC600M 480GB Enterprise SSD,https://mdcomputers.in/product/kingston-dc600m-480gb-enterprise-ssd,43280
+2026-11-26,SSD,2000GB Gen4,Samsung,Samsung 990 Pro 2TB M.2 NVMe Gen4 SSD,https://mdcomputers.in/product/samsung-990-pro-2tb-nvme-ssd-mz-v9p2t0bw,48740
+2026-11-26,SSD,2000GB Gen4,Samsung,Samsung 990 NVMe 2TB Gen4 SSD,https://mdcomputers.in/product/samsung-990-2tb-nvme-ssd-mz-v9v2t0bw,51699
+2026-11-26,SSD,960GB SATA,Kingston,Kingston DC600M 960GB Enterprise SSD,https://mdcomputers.in/product/kingston-enterprise-ssd-sedc600m-960g,59240
+2026-11-26,SSD,4000GB Gen4,Kingston,Kingston FURY Renegade NVMe 4TB Gen4 SSD,https://mdcomputers.in/product/kingston-fury-renegade-4tb-nvme-ssd-sfyrd-4000g,77240
+2026-11-26,SSD,1920GB SATA,Kingston,Kingston DC600M 1.92TB Enterprise SSD,https://mdcomputers.in/product/kingston-enterprise-ssd-sedc600m-1920g,136280
+2026-11-26,SSD,3840GB SATA,Kingston,Kingston DC600M 3.84TB Enterprise SSD,https://mdcomputers.in/product/kingston-enterprise-ssd-sedc600m-3840g,235880
+2026-11-26,CPU Cooler,Air dual-tower,Deepcool,DeepCool AG620 G2 WH ARGB 120mm CPU Air Cooler,https://mdcomputers.in/product/deepcool-ag620-g2-wh-argb-cpu-air-cooler,3560
+2026-11-26,CPU Cooler,Liquid,Cooler,Cooler Master MasterLiquid 240L Core 240mm CPU Liquid Cooler,https://mdcomputers.in/product/cooler-master-core-240mm-liquid-cooler-mlw-d24m-a17pk-r1,5100
+2026-11-26,CPU Cooler,Liquid 360mm,Cooler,Cooler Master MasterLiquid Core NEX 360 ARGB CPU Liquid Cooler,https://mdcomputers.in/product/cooler-master-masterliquid-core-nex-360mm-cpu-cooler,7200
+2026-11-26,CPU Cooler,Liquid,Cooler,Cooler Master MasterLiquid Core NEX 360mm ARGB White CPU Liquid Cooler,https://mdcomputers.in/product/cooler-master-masterliquid-core-nex-360mm-white-cpu-cooler,7700
+2026-11-26,CPU Cooler,Liquid 360mm,Cooler,Cooler Master MasterLiquid Core NEX Digital 360 ARGB CPU Liquid Cooler,https://mdcomputers.in/product/cooler-master-masterliquid-core-nex-digital-360mm-cpu-cooler,8800
+2026-11-26,CPU Cooler,Liquid,Cooler,Cooler Master MasterLiquid Core 360mm ARGB CPU Liquid Cooler with 4-inch LCD Display,https://mdcomputers.in/product/cooler-master-masterliquid-core-4-inch-lcd-360mm-cpu-cooler,11700
+2026-11-26,CPU Cooler,Air,Deepcool,DeepCool StationX 622 120mm Workstation CPU Air Cooler,https://mdcomputers.in/product/deepcool-stationx-622-dual-tower-workstation-cpu-air-cooler,12100
+2026-11-26,CPU Cooler,Liquid,Deepcool,Deepcool LT360 Vision ARGB CPU Liquid Cooler with LCD Display,https://mdcomputers.in/product/deepcool-argb-liquid-cooler-r-lt360vision-bkammc-g-1,13900
+2026-11-26,Power Supply,500W Unrated,Ant,Ant Value ECO500 SMPS,https://mdcomputers.in/product/ant-value-eco500-smps,1025
+2026-11-26,Power Supply,550W Bronze,Thermaltake,Thermaltake Smart BX1 550 Watt Bronze Smps - DC To DC Version,https://mdcomputers.in/product/thermaltake-smart-bx1-550w-bronze-smps-ps-spd-0550nnfabd-4,3599
+2026-11-26,Case,Mini Tower M-ATX,Cooler,Cooler Master Elite 481 Wood White ARGB M-ATX Mini Tower Case,https://mdcomputers.in/product/cooler-master-elite-481-wood-mini-tower-cabinet-e481-whnn-s00,5400
+2026-11-26,Case,Mid Tower ATX,Cooler,Cooler Master Elite 600 ARGB ATX Mid Tower Case,https://mdcomputers.in/product/cooler-master-elite-600-mid-tower-cabinet-e600-kgnn-s02,9000
